@@ -1,0 +1,47 @@
+{
+  "id": "NE005007",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Madaoua",
+    "en": "Madaoua",
+    "slug": "madaoua-ne005007"
+  },
+  "code": {
+    "id": "NE005007",
+    "iso": null
+  },
+  "parent": {
+    "id": "NE005",
+    "level": 1,
+    "name": {
+      "local": "Tahoua",
+      "en": "Tahoua",
+      "slug": "tahoua-ne005"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NE005",
+      "level": 1,
+      "name": {
+        "local": "Tahoua",
+        "en": "Tahoua",
+        "slug": "tahoua-ne005"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.001",
+    "lon": "6.078"
+  },
+  "metadata": {},
+  "source": {}
+}

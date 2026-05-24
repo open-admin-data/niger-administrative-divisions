@@ -1,0 +1,272 @@
+[
+  {
+    "id": "NE007011001",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Zinder I",
+      "en": "Zinder I",
+      "slug": "zinder-i-ne007011001"
+    },
+    "code": {
+      "id": "NE007011001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE007011",
+      "level": 2,
+      "name": {
+        "local": "Ville de Zinder",
+        "en": "Ville de Zinder",
+        "slug": "ville-de-zinder-ne007011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE007",
+        "level": 1,
+        "name": {
+          "local": "Zinder",
+          "en": "Zinder",
+          "slug": "zinder-ne007"
+        }
+      },
+      {
+        "id": "NE007011",
+        "level": 2,
+        "name": {
+          "local": "Ville de Zinder",
+          "en": "Ville de Zinder",
+          "slug": "ville-de-zinder-ne007011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.809",
+      "lon": "8.925"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE007011002",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Zinder II",
+      "en": "Zinder II",
+      "slug": "zinder-ii-ne007011002"
+    },
+    "code": {
+      "id": "NE007011002",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE007011",
+      "level": 2,
+      "name": {
+        "local": "Ville de Zinder",
+        "en": "Ville de Zinder",
+        "slug": "ville-de-zinder-ne007011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE007",
+        "level": 1,
+        "name": {
+          "local": "Zinder",
+          "en": "Zinder",
+          "slug": "zinder-ne007"
+        }
+      },
+      {
+        "id": "NE007011",
+        "level": 2,
+        "name": {
+          "local": "Ville de Zinder",
+          "en": "Ville de Zinder",
+          "slug": "ville-de-zinder-ne007011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.863",
+      "lon": "8.975"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE007011003",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Zinder III",
+      "en": "Zinder III",
+      "slug": "zinder-iii-ne007011003"
+    },
+    "code": {
+      "id": "NE007011003",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE007011",
+      "level": 2,
+      "name": {
+        "local": "Ville de Zinder",
+        "en": "Ville de Zinder",
+        "slug": "ville-de-zinder-ne007011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE007",
+        "level": 1,
+        "name": {
+          "local": "Zinder",
+          "en": "Zinder",
+          "slug": "zinder-ne007"
+        }
+      },
+      {
+        "id": "NE007011",
+        "level": 2,
+        "name": {
+          "local": "Ville de Zinder",
+          "en": "Ville de Zinder",
+          "slug": "ville-de-zinder-ne007011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.85",
+      "lon": "9.031"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE007011004",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Zinder IV",
+      "en": "Zinder IV",
+      "slug": "zinder-iv-ne007011004"
+    },
+    "code": {
+      "id": "NE007011004",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE007011",
+      "level": 2,
+      "name": {
+        "local": "Ville de Zinder",
+        "en": "Ville de Zinder",
+        "slug": "ville-de-zinder-ne007011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE007",
+        "level": 1,
+        "name": {
+          "local": "Zinder",
+          "en": "Zinder",
+          "slug": "zinder-ne007"
+        }
+      },
+      {
+        "id": "NE007011",
+        "level": 2,
+        "name": {
+          "local": "Ville de Zinder",
+          "en": "Ville de Zinder",
+          "slug": "ville-de-zinder-ne007011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.774",
+      "lon": "9.005"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE007011005",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Zinder V",
+      "en": "Zinder V",
+      "slug": "zinder-v-ne007011005"
+    },
+    "code": {
+      "id": "NE007011005",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE007011",
+      "level": 2,
+      "name": {
+        "local": "Ville de Zinder",
+        "en": "Ville de Zinder",
+        "slug": "ville-de-zinder-ne007011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE007",
+        "level": 1,
+        "name": {
+          "local": "Zinder",
+          "en": "Zinder",
+          "slug": "zinder-ne007"
+        }
+      },
+      {
+        "id": "NE007011",
+        "level": 2,
+        "name": {
+          "local": "Ville de Zinder",
+          "en": "Ville de Zinder",
+          "slug": "ville-de-zinder-ne007011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.652",
+      "lon": "9.009"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

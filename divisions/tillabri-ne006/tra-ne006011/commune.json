@@ -1,0 +1,272 @@
+[
+  {
+    "id": "NE006011001",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Diagourou",
+      "en": "Diagourou",
+      "slug": "diagourou-ne006011001"
+    },
+    "code": {
+      "id": "NE006011001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE006011",
+      "level": 2,
+      "name": {
+        "local": "Téra",
+        "en": "Téra",
+        "slug": "tra-ne006011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE006",
+        "level": 1,
+        "name": {
+          "local": "Tillabéri",
+          "en": "Tillabéri",
+          "slug": "tillabri-ne006"
+        }
+      },
+      {
+        "id": "NE006011",
+        "level": 2,
+        "name": {
+          "local": "Téra",
+          "en": "Téra",
+          "slug": "tra-ne006011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.786",
+      "lon": "1.191"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE006011002",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Gorouol",
+      "en": "Gorouol",
+      "slug": "gorouol-ne006011002"
+    },
+    "code": {
+      "id": "NE006011002",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE006011",
+      "level": 2,
+      "name": {
+        "local": "Téra",
+        "en": "Téra",
+        "slug": "tra-ne006011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE006",
+        "level": 1,
+        "name": {
+          "local": "Tillabéri",
+          "en": "Tillabéri",
+          "slug": "tillabri-ne006"
+        }
+      },
+      {
+        "id": "NE006011",
+        "level": 2,
+        "name": {
+          "local": "Téra",
+          "en": "Téra",
+          "slug": "tra-ne006011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.673",
+      "lon": "0.418"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE006011003",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kokorou",
+      "en": "Kokorou",
+      "slug": "kokorou-ne006011003"
+    },
+    "code": {
+      "id": "NE006011003",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE006011",
+      "level": 2,
+      "name": {
+        "local": "Téra",
+        "en": "Téra",
+        "slug": "tra-ne006011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE006",
+        "level": 1,
+        "name": {
+          "local": "Tillabéri",
+          "en": "Tillabéri",
+          "slug": "tillabri-ne006"
+        }
+      },
+      {
+        "id": "NE006011",
+        "level": 2,
+        "name": {
+          "local": "Téra",
+          "en": "Téra",
+          "slug": "tra-ne006011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.195",
+      "lon": "0.963"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE006011004",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Méhana",
+      "en": "Méhana",
+      "slug": "mhana-ne006011004"
+    },
+    "code": {
+      "id": "NE006011004",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE006011",
+      "level": 2,
+      "name": {
+        "local": "Téra",
+        "en": "Téra",
+        "slug": "tra-ne006011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE006",
+        "level": 1,
+        "name": {
+          "local": "Tillabéri",
+          "en": "Tillabéri",
+          "slug": "tillabri-ne006"
+        }
+      },
+      {
+        "id": "NE006011",
+        "level": 2,
+        "name": {
+          "local": "Téra",
+          "en": "Téra",
+          "slug": "tra-ne006011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.423",
+      "lon": "1.053"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE006011005",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Téra",
+      "en": "Téra",
+      "slug": "tra-ne006011005"
+    },
+    "code": {
+      "id": "NE006011005",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE006011",
+      "level": 2,
+      "name": {
+        "local": "Téra",
+        "en": "Téra",
+        "slug": "tra-ne006011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE006",
+        "level": 1,
+        "name": {
+          "local": "Tillabéri",
+          "en": "Tillabéri",
+          "slug": "tillabri-ne006"
+        }
+      },
+      {
+        "id": "NE006011",
+        "level": 2,
+        "name": {
+          "local": "Téra",
+          "en": "Téra",
+          "slug": "tra-ne006011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.051",
+      "lon": "0.638"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

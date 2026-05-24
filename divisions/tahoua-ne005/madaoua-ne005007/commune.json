@@ -1,0 +1,326 @@
+[
+  {
+    "id": "NE005007001",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Azarori",
+      "en": "Azarori",
+      "slug": "azarori-ne005007001"
+    },
+    "code": {
+      "id": "NE005007001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE005007",
+      "level": 2,
+      "name": {
+        "local": "Madaoua",
+        "en": "Madaoua",
+        "slug": "madaoua-ne005007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE005",
+        "level": 1,
+        "name": {
+          "local": "Tahoua",
+          "en": "Tahoua",
+          "slug": "tahoua-ne005"
+        }
+      },
+      {
+        "id": "NE005007",
+        "level": 2,
+        "name": {
+          "local": "Madaoua",
+          "en": "Madaoua",
+          "slug": "madaoua-ne005007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.184",
+      "lon": "5.904"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE005007002",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bangui",
+      "en": "Bangui",
+      "slug": "bangui-ne005007002"
+    },
+    "code": {
+      "id": "NE005007002",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE005007",
+      "level": 2,
+      "name": {
+        "local": "Madaoua",
+        "en": "Madaoua",
+        "slug": "madaoua-ne005007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE005",
+        "level": 1,
+        "name": {
+          "local": "Tahoua",
+          "en": "Tahoua",
+          "slug": "tahoua-ne005"
+        }
+      },
+      {
+        "id": "NE005007",
+        "level": 2,
+        "name": {
+          "local": "Madaoua",
+          "en": "Madaoua",
+          "slug": "madaoua-ne005007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.821",
+      "lon": "6.182"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE005007003",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Galma Koudawatché",
+      "en": "Galma Koudawatché",
+      "slug": "galma-koudawatch-ne005007003"
+    },
+    "code": {
+      "id": "NE005007003",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE005007",
+      "level": 2,
+      "name": {
+        "local": "Madaoua",
+        "en": "Madaoua",
+        "slug": "madaoua-ne005007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE005",
+        "level": 1,
+        "name": {
+          "local": "Tahoua",
+          "en": "Tahoua",
+          "slug": "tahoua-ne005"
+        }
+      },
+      {
+        "id": "NE005007",
+        "level": 2,
+        "name": {
+          "local": "Madaoua",
+          "en": "Madaoua",
+          "slug": "madaoua-ne005007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.092",
+      "lon": "5.804"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE005007004",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Madaoua",
+      "en": "Madaoua",
+      "slug": "madaoua-ne005007004"
+    },
+    "code": {
+      "id": "NE005007004",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE005007",
+      "level": 2,
+      "name": {
+        "local": "Madaoua",
+        "en": "Madaoua",
+        "slug": "madaoua-ne005007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE005",
+        "level": 1,
+        "name": {
+          "local": "Tahoua",
+          "en": "Tahoua",
+          "slug": "tahoua-ne005"
+        }
+      },
+      {
+        "id": "NE005007",
+        "level": 2,
+        "name": {
+          "local": "Madaoua",
+          "en": "Madaoua",
+          "slug": "madaoua-ne005007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.119",
+      "lon": "6.098"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE005007005",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ourno",
+      "en": "Ourno",
+      "slug": "ourno-ne005007005"
+    },
+    "code": {
+      "id": "NE005007005",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE005007",
+      "level": 2,
+      "name": {
+        "local": "Madaoua",
+        "en": "Madaoua",
+        "slug": "madaoua-ne005007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE005",
+        "level": 1,
+        "name": {
+          "local": "Tahoua",
+          "en": "Tahoua",
+          "slug": "tahoua-ne005"
+        }
+      },
+      {
+        "id": "NE005007",
+        "level": 2,
+        "name": {
+          "local": "Madaoua",
+          "en": "Madaoua",
+          "slug": "madaoua-ne005007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.152",
+      "lon": "6.387"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE005007006",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sabon Guida",
+      "en": "Sabon Guida",
+      "slug": "sabon-guida-ne005007006"
+    },
+    "code": {
+      "id": "NE005007006",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE005007",
+      "level": 2,
+      "name": {
+        "local": "Madaoua",
+        "en": "Madaoua",
+        "slug": "madaoua-ne005007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE005",
+        "level": 1,
+        "name": {
+          "local": "Tahoua",
+          "en": "Tahoua",
+          "slug": "tahoua-ne005"
+        }
+      },
+      {
+        "id": "NE005007",
+        "level": 2,
+        "name": {
+          "local": "Madaoua",
+          "en": "Madaoua",
+          "slug": "madaoua-ne005007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.876",
+      "lon": "5.873"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

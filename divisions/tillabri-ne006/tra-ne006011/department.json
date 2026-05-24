@@ -1,0 +1,47 @@
+{
+  "id": "NE006011",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Téra",
+    "en": "Téra",
+    "slug": "tra-ne006011"
+  },
+  "code": {
+    "id": "NE006011",
+    "iso": null
+  },
+  "parent": {
+    "id": "NE006",
+    "level": 1,
+    "name": {
+      "local": "Tillabéri",
+      "en": "Tillabéri",
+      "slug": "tillabri-ne006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NE006",
+      "level": 1,
+      "name": {
+        "local": "Tillabéri",
+        "en": "Tillabéri",
+        "slug": "tillabri-ne006"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.311",
+    "lon": "0.896"
+  },
+  "metadata": {},
+  "source": {}
+}

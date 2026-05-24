@@ -1,0 +1,272 @@
+[
+  {
+    "id": "NE004005001",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Chadakori",
+      "en": "Chadakori",
+      "slug": "chadakori-ne004005001"
+    },
+    "code": {
+      "id": "NE004005001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE004005",
+      "level": 2,
+      "name": {
+        "local": "Guidan Roumdji",
+        "en": "Guidan Roumdji",
+        "slug": "guidan-roumdji-ne004005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE004",
+        "level": 1,
+        "name": {
+          "local": "Maradi",
+          "en": "Maradi",
+          "slug": "maradi-ne004"
+        }
+      },
+      {
+        "id": "NE004005",
+        "level": 2,
+        "name": {
+          "local": "Guidan Roumdji",
+          "en": "Guidan Roumdji",
+          "slug": "guidan-roumdji-ne004005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.763",
+      "lon": "6.881"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE004005002",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Guidan Roumdji",
+      "en": "Guidan Roumdji",
+      "slug": "guidan-roumdji-ne004005002"
+    },
+    "code": {
+      "id": "NE004005002",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE004005",
+      "level": 2,
+      "name": {
+        "local": "Guidan Roumdji",
+        "en": "Guidan Roumdji",
+        "slug": "guidan-roumdji-ne004005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE004",
+        "level": 1,
+        "name": {
+          "local": "Maradi",
+          "en": "Maradi",
+          "slug": "maradi-ne004"
+        }
+      },
+      {
+        "id": "NE004005",
+        "level": 2,
+        "name": {
+          "local": "Guidan Roumdji",
+          "en": "Guidan Roumdji",
+          "slug": "guidan-roumdji-ne004005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.723",
+      "lon": "6.486"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE004005003",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Guidan Sori",
+      "en": "Guidan Sori",
+      "slug": "guidan-sori-ne004005003"
+    },
+    "code": {
+      "id": "NE004005003",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE004005",
+      "level": 2,
+      "name": {
+        "local": "Guidan Roumdji",
+        "en": "Guidan Roumdji",
+        "slug": "guidan-roumdji-ne004005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE004",
+        "level": 1,
+        "name": {
+          "local": "Maradi",
+          "en": "Maradi",
+          "slug": "maradi-ne004"
+        }
+      },
+      {
+        "id": "NE004005",
+        "level": 2,
+        "name": {
+          "local": "Guidan Roumdji",
+          "en": "Guidan Roumdji",
+          "slug": "guidan-roumdji-ne004005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.55",
+      "lon": "6.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE004005004",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Saé Saboua",
+      "en": "Saé Saboua",
+      "slug": "sa-saboua-ne004005004"
+    },
+    "code": {
+      "id": "NE004005004",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE004005",
+      "level": 2,
+      "name": {
+        "local": "Guidan Roumdji",
+        "en": "Guidan Roumdji",
+        "slug": "guidan-roumdji-ne004005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE004",
+        "level": 1,
+        "name": {
+          "local": "Maradi",
+          "en": "Maradi",
+          "slug": "maradi-ne004"
+        }
+      },
+      {
+        "id": "NE004005",
+        "level": 2,
+        "name": {
+          "local": "Guidan Roumdji",
+          "en": "Guidan Roumdji",
+          "slug": "guidan-roumdji-ne004005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.621",
+      "lon": "7.37"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE004005005",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tibiri",
+      "en": "Tibiri",
+      "slug": "tibiri-ne004005005"
+    },
+    "code": {
+      "id": "NE004005005",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE004005",
+      "level": 2,
+      "name": {
+        "local": "Guidan Roumdji",
+        "en": "Guidan Roumdji",
+        "slug": "guidan-roumdji-ne004005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE004",
+        "level": 1,
+        "name": {
+          "local": "Maradi",
+          "en": "Maradi",
+          "slug": "maradi-ne004"
+        }
+      },
+      {
+        "id": "NE004005",
+        "level": 2,
+        "name": {
+          "local": "Guidan Roumdji",
+          "en": "Guidan Roumdji",
+          "slug": "guidan-roumdji-ne004005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.434",
+      "lon": "6.752"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

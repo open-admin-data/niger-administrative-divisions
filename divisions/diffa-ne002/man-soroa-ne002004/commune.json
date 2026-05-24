@@ -1,0 +1,164 @@
+[
+  {
+    "id": "NE002004001",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Foulatari",
+      "en": "Foulatari",
+      "slug": "foulatari-ne002004001"
+    },
+    "code": {
+      "id": "NE002004001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE002004",
+      "level": 2,
+      "name": {
+        "local": "Maïné Soroa",
+        "en": "Maïné Soroa",
+        "slug": "man-soroa-ne002004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE002",
+        "level": 1,
+        "name": {
+          "local": "Diffa",
+          "en": "Diffa",
+          "slug": "diffa-ne002"
+        }
+      },
+      {
+        "id": "NE002004",
+        "level": 2,
+        "name": {
+          "local": "Maïné Soroa",
+          "en": "Maïné Soroa",
+          "slug": "man-soroa-ne002004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.626",
+      "lon": "12.054"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE002004002",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Maïné Soroa",
+      "en": "Maïné Soroa",
+      "slug": "man-soroa-ne002004002"
+    },
+    "code": {
+      "id": "NE002004002",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE002004",
+      "level": 2,
+      "name": {
+        "local": "Maïné Soroa",
+        "en": "Maïné Soroa",
+        "slug": "man-soroa-ne002004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE002",
+        "level": 1,
+        "name": {
+          "local": "Diffa",
+          "en": "Diffa",
+          "slug": "diffa-ne002"
+        }
+      },
+      {
+        "id": "NE002004",
+        "level": 2,
+        "name": {
+          "local": "Maïné Soroa",
+          "en": "Maïné Soroa",
+          "slug": "man-soroa-ne002004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.506",
+      "lon": "11.856"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE002004003",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "N'Guelbely",
+      "en": "N'Guelbely",
+      "slug": "nguelbely-ne002004003"
+    },
+    "code": {
+      "id": "NE002004003",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE002004",
+      "level": 2,
+      "name": {
+        "local": "Maïné Soroa",
+        "en": "Maïné Soroa",
+        "slug": "man-soroa-ne002004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE002",
+        "level": 1,
+        "name": {
+          "local": "Diffa",
+          "en": "Diffa",
+          "slug": "diffa-ne002"
+        }
+      },
+      {
+        "id": "NE002004",
+        "level": 2,
+        "name": {
+          "local": "Maïné Soroa",
+          "en": "Maïné Soroa",
+          "slug": "man-soroa-ne002004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.064",
+      "lon": "11.866"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

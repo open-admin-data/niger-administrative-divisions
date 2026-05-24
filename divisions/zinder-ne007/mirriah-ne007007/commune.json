@@ -1,0 +1,434 @@
+[
+  {
+    "id": "NE007007001",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dogo",
+      "en": "Dogo",
+      "slug": "dogo-ne007007001"
+    },
+    "code": {
+      "id": "NE007007001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE007007",
+      "level": 2,
+      "name": {
+        "local": "Mirriah",
+        "en": "Mirriah",
+        "slug": "mirriah-ne007007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE007",
+        "level": 1,
+        "name": {
+          "local": "Zinder",
+          "en": "Zinder",
+          "slug": "zinder-ne007"
+        }
+      },
+      {
+        "id": "NE007007",
+        "level": 2,
+        "name": {
+          "local": "Mirriah",
+          "en": "Mirriah",
+          "slug": "mirriah-ne007007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.427",
+      "lon": "8.958"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE007007002",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Droum",
+      "en": "Droum",
+      "slug": "droum-ne007007002"
+    },
+    "code": {
+      "id": "NE007007002",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE007007",
+      "level": 2,
+      "name": {
+        "local": "Mirriah",
+        "en": "Mirriah",
+        "slug": "mirriah-ne007007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE007",
+        "level": 1,
+        "name": {
+          "local": "Zinder",
+          "en": "Zinder",
+          "slug": "zinder-ne007"
+        }
+      },
+      {
+        "id": "NE007007",
+        "level": 2,
+        "name": {
+          "local": "Mirriah",
+          "en": "Mirriah",
+          "slug": "mirriah-ne007007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.606",
+      "lon": "8.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE007007003",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Gaffati",
+      "en": "Gaffati",
+      "slug": "gaffati-ne007007003"
+    },
+    "code": {
+      "id": "NE007007003",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE007007",
+      "level": 2,
+      "name": {
+        "local": "Mirriah",
+        "en": "Mirriah",
+        "slug": "mirriah-ne007007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE007",
+        "level": 1,
+        "name": {
+          "local": "Zinder",
+          "en": "Zinder",
+          "slug": "zinder-ne007"
+        }
+      },
+      {
+        "id": "NE007007",
+        "level": 2,
+        "name": {
+          "local": "Mirriah",
+          "en": "Mirriah",
+          "slug": "mirriah-ne007007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.867",
+      "lon": "9.184"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE007007004",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Gouna",
+      "en": "Gouna",
+      "slug": "gouna-ne007007004"
+    },
+    "code": {
+      "id": "NE007007004",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE007007",
+      "level": 2,
+      "name": {
+        "local": "Mirriah",
+        "en": "Mirriah",
+        "slug": "mirriah-ne007007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE007",
+        "level": 1,
+        "name": {
+          "local": "Zinder",
+          "en": "Zinder",
+          "slug": "zinder-ne007"
+        }
+      },
+      {
+        "id": "NE007007",
+        "level": 2,
+        "name": {
+          "local": "Mirriah",
+          "en": "Mirriah",
+          "slug": "mirriah-ne007007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.485",
+      "lon": "9.158"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE007007005",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Hamdara",
+      "en": "Hamdara",
+      "slug": "hamdara-ne007007005"
+    },
+    "code": {
+      "id": "NE007007005",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE007007",
+      "level": 2,
+      "name": {
+        "local": "Mirriah",
+        "en": "Mirriah",
+        "slug": "mirriah-ne007007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE007",
+        "level": 1,
+        "name": {
+          "local": "Zinder",
+          "en": "Zinder",
+          "slug": "zinder-ne007"
+        }
+      },
+      {
+        "id": "NE007007",
+        "level": 2,
+        "name": {
+          "local": "Mirriah",
+          "en": "Mirriah",
+          "slug": "mirriah-ne007007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.655",
+      "lon": "9.396"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE007007006",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kolleram",
+      "en": "Kolleram",
+      "slug": "kolleram-ne007007006"
+    },
+    "code": {
+      "id": "NE007007006",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE007007",
+      "level": 2,
+      "name": {
+        "local": "Mirriah",
+        "en": "Mirriah",
+        "slug": "mirriah-ne007007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE007",
+        "level": 1,
+        "name": {
+          "local": "Zinder",
+          "en": "Zinder",
+          "slug": "zinder-ne007"
+        }
+      },
+      {
+        "id": "NE007007",
+        "level": 2,
+        "name": {
+          "local": "Mirriah",
+          "en": "Mirriah",
+          "slug": "mirriah-ne007007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.679",
+      "lon": "9.089"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE007007007",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mirriah",
+      "en": "Mirriah",
+      "slug": "mirriah-ne007007007"
+    },
+    "code": {
+      "id": "NE007007007",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE007007",
+      "level": 2,
+      "name": {
+        "local": "Mirriah",
+        "en": "Mirriah",
+        "slug": "mirriah-ne007007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE007",
+        "level": 1,
+        "name": {
+          "local": "Zinder",
+          "en": "Zinder",
+          "slug": "zinder-ne007"
+        }
+      },
+      {
+        "id": "NE007007",
+        "level": 2,
+        "name": {
+          "local": "Mirriah",
+          "en": "Mirriah",
+          "slug": "mirriah-ne007007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.663",
+      "lon": "9.21"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE007007008",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Zermou",
+      "en": "Zermou",
+      "slug": "zermou-ne007007008"
+    },
+    "code": {
+      "id": "NE007007008",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE007007",
+      "level": 2,
+      "name": {
+        "local": "Mirriah",
+        "en": "Mirriah",
+        "slug": "mirriah-ne007007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE007",
+        "level": 1,
+        "name": {
+          "local": "Zinder",
+          "en": "Zinder",
+          "slug": "zinder-ne007"
+        }
+      },
+      {
+        "id": "NE007007",
+        "level": 2,
+        "name": {
+          "local": "Mirriah",
+          "en": "Mirriah",
+          "slug": "mirriah-ne007007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.835",
+      "lon": "9.309"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

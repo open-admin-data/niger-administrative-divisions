@@ -1,0 +1,47 @@
+{
+  "id": "NE007007",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Mirriah",
+    "en": "Mirriah",
+    "slug": "mirriah-ne007007"
+  },
+  "code": {
+    "id": "NE007007",
+    "iso": null
+  },
+  "parent": {
+    "id": "NE007",
+    "level": 1,
+    "name": {
+      "local": "Zinder",
+      "en": "Zinder",
+      "slug": "zinder-ne007"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NE007",
+      "level": 1,
+      "name": {
+        "local": "Zinder",
+        "en": "Zinder",
+        "slug": "zinder-ne007"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.629",
+    "lon": "9.29"
+  },
+  "metadata": {},
+  "source": {}
+}

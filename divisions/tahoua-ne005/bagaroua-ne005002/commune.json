@@ -1,0 +1,56 @@
+[
+  {
+    "id": "NE005002001",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bagaroua",
+      "en": "Bagaroua",
+      "slug": "bagaroua-ne005002001"
+    },
+    "code": {
+      "id": "NE005002001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE005002",
+      "level": 2,
+      "name": {
+        "local": "Bagaroua",
+        "en": "Bagaroua",
+        "slug": "bagaroua-ne005002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE005",
+        "level": 1,
+        "name": {
+          "local": "Tahoua",
+          "en": "Tahoua",
+          "slug": "tahoua-ne005"
+        }
+      },
+      {
+        "id": "NE005002",
+        "level": 2,
+        "name": {
+          "local": "Bagaroua",
+          "en": "Bagaroua",
+          "slug": "bagaroua-ne005002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.37",
+      "lon": "4.663"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

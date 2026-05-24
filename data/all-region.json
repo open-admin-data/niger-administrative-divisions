@@ -1,0 +1,242 @@
+[
+  {
+    "id": "NE007",
+    "level": 1,
+    "level_name": {
+      "local": "Région",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Zinder",
+      "en": "Zinder",
+      "slug": "zinder-ne007"
+    },
+    "code": {
+      "id": "NE007",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "department": 11,
+      "commune": 55
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.219",
+      "lon": "9.715"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE003",
+    "level": 1,
+    "level_name": {
+      "local": "Région",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Dosso",
+      "en": "Dosso",
+      "slug": "dosso-ne003"
+    },
+    "code": {
+      "id": "NE003",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "department": 8,
+      "commune": 43
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.167",
+      "lon": "3.299"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE006",
+    "level": 1,
+    "level_name": {
+      "local": "Région",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Tillabéri",
+      "en": "Tillabéri",
+      "slug": "tillabri-ne006"
+    },
+    "code": {
+      "id": "NE006",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "department": 13,
+      "commune": 45
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.805",
+      "lon": "2.041"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE005",
+    "level": 1,
+    "level_name": {
+      "local": "Région",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Tahoua",
+      "en": "Tahoua",
+      "slug": "tahoua-ne005"
+    },
+    "code": {
+      "id": "NE005",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "department": 13,
+      "commune": 44
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.146",
+      "lon": "5.341"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE001",
+    "level": 1,
+    "level_name": {
+      "local": "Région",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Agadez",
+      "en": "Agadez",
+      "slug": "agadez-ne001"
+    },
+    "code": {
+      "id": "NE001",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "department": 6,
+      "commune": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.427",
+      "lon": "10.707"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE008",
+    "level": 1,
+    "level_name": {
+      "local": "Région",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Niamey",
+      "en": "Niamey",
+      "slug": "niamey-ne008"
+    },
+    "code": {
+      "id": "NE008",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "department": 1,
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.526",
+      "lon": "2.119"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE002",
+    "level": 1,
+    "level_name": {
+      "local": "Région",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Diffa",
+      "en": "Diffa",
+      "slug": "diffa-ne002"
+    },
+    "code": {
+      "id": "NE002",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "department": 6,
+      "commune": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.538",
+      "lon": "13.161"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE004",
+    "level": 1,
+    "level_name": {
+      "local": "Région",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Maradi",
+      "en": "Maradi",
+      "slug": "maradi-ne004"
+    },
+    "code": {
+      "id": "NE004",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "department": 9,
+      "commune": 47
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.232",
+      "lon": "7.475"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

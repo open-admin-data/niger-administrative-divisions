@@ -1,0 +1,30 @@
+{
+  "id": "NE005",
+  "level": 1,
+  "level_name": {
+    "local": "Région",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Tahoua",
+    "en": "Tahoua",
+    "slug": "tahoua-ne005"
+  },
+  "code": {
+    "id": "NE005",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "department": 13,
+    "commune": 44
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.146",
+    "lon": "5.341"
+  },
+  "metadata": {},
+  "source": {}
+}

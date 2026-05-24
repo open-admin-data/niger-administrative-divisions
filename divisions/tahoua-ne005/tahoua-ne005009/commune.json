@@ -1,0 +1,326 @@
+[
+  {
+    "id": "NE005009001",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Affala",
+      "en": "Affala",
+      "slug": "affala-ne005009001"
+    },
+    "code": {
+      "id": "NE005009001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE005009",
+      "level": 2,
+      "name": {
+        "local": "Tahoua",
+        "en": "Tahoua",
+        "slug": "tahoua-ne005009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE005",
+        "level": 1,
+        "name": {
+          "local": "Tahoua",
+          "en": "Tahoua",
+          "slug": "tahoua-ne005"
+        }
+      },
+      {
+        "id": "NE005009",
+        "level": 2,
+        "name": {
+          "local": "Tahoua",
+          "en": "Tahoua",
+          "slug": "tahoua-ne005009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.2",
+      "lon": "5.176"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE005009002",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bambeye",
+      "en": "Bambeye",
+      "slug": "bambeye-ne005009002"
+    },
+    "code": {
+      "id": "NE005009002",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE005009",
+      "level": 2,
+      "name": {
+        "local": "Tahoua",
+        "en": "Tahoua",
+        "slug": "tahoua-ne005009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE005",
+        "level": 1,
+        "name": {
+          "local": "Tahoua",
+          "en": "Tahoua",
+          "slug": "tahoua-ne005"
+        }
+      },
+      {
+        "id": "NE005009",
+        "level": 2,
+        "name": {
+          "local": "Tahoua",
+          "en": "Tahoua",
+          "slug": "tahoua-ne005009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.725",
+      "lon": "5.035"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE005009003",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Barmou",
+      "en": "Barmou",
+      "slug": "barmou-ne005009003"
+    },
+    "code": {
+      "id": "NE005009003",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE005009",
+      "level": 2,
+      "name": {
+        "local": "Tahoua",
+        "en": "Tahoua",
+        "slug": "tahoua-ne005009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE005",
+        "level": 1,
+        "name": {
+          "local": "Tahoua",
+          "en": "Tahoua",
+          "slug": "tahoua-ne005"
+        }
+      },
+      {
+        "id": "NE005009",
+        "level": 2,
+        "name": {
+          "local": "Tahoua",
+          "en": "Tahoua",
+          "slug": "tahoua-ne005009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.092",
+      "lon": "5.463"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE005009004",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kalfou",
+      "en": "Kalfou",
+      "slug": "kalfou-ne005009004"
+    },
+    "code": {
+      "id": "NE005009004",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE005009",
+      "level": 2,
+      "name": {
+        "local": "Tahoua",
+        "en": "Tahoua",
+        "slug": "tahoua-ne005009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE005",
+        "level": 1,
+        "name": {
+          "local": "Tahoua",
+          "en": "Tahoua",
+          "slug": "tahoua-ne005"
+        }
+      },
+      {
+        "id": "NE005009",
+        "level": 2,
+        "name": {
+          "local": "Tahoua",
+          "en": "Tahoua",
+          "slug": "tahoua-ne005009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.78",
+      "lon": "5.489"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE005009005",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Takanamat",
+      "en": "Takanamat",
+      "slug": "takanamat-ne005009005"
+    },
+    "code": {
+      "id": "NE005009005",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE005009",
+      "level": 2,
+      "name": {
+        "local": "Tahoua",
+        "en": "Tahoua",
+        "slug": "tahoua-ne005009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE005",
+        "level": 1,
+        "name": {
+          "local": "Tahoua",
+          "en": "Tahoua",
+          "slug": "tahoua-ne005"
+        }
+      },
+      {
+        "id": "NE005009",
+        "level": 2,
+        "name": {
+          "local": "Tahoua",
+          "en": "Tahoua",
+          "slug": "tahoua-ne005009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.114",
+      "lon": "4.763"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE005009006",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tebaram",
+      "en": "Tebaram",
+      "slug": "tebaram-ne005009006"
+    },
+    "code": {
+      "id": "NE005009006",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE005009",
+      "level": 2,
+      "name": {
+        "local": "Tahoua",
+        "en": "Tahoua",
+        "slug": "tahoua-ne005009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE005",
+        "level": 1,
+        "name": {
+          "local": "Tahoua",
+          "en": "Tahoua",
+          "slug": "tahoua-ne005"
+        }
+      },
+      {
+        "id": "NE005009",
+        "level": 2,
+        "name": {
+          "local": "Tahoua",
+          "en": "Tahoua",
+          "slug": "tahoua-ne005009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.887",
+      "lon": "4.357"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

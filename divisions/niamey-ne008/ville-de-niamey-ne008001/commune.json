@@ -1,0 +1,272 @@
+[
+  {
+    "id": "NE008001001",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Niamey I",
+      "en": "Niamey I",
+      "slug": "niamey-i-ne008001001"
+    },
+    "code": {
+      "id": "NE008001001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE008001",
+      "level": 2,
+      "name": {
+        "local": "Ville de Niamey",
+        "en": "Ville de Niamey",
+        "slug": "ville-de-niamey-ne008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE008",
+        "level": 1,
+        "name": {
+          "local": "Niamey",
+          "en": "Niamey",
+          "slug": "niamey-ne008"
+        }
+      },
+      {
+        "id": "NE008001",
+        "level": 2,
+        "name": {
+          "local": "Ville de Niamey",
+          "en": "Ville de Niamey",
+          "slug": "ville-de-niamey-ne008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.579",
+      "lon": "2.049"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE008001002",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Niamey II",
+      "en": "Niamey II",
+      "slug": "niamey-ii-ne008001002"
+    },
+    "code": {
+      "id": "NE008001002",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE008001",
+      "level": 2,
+      "name": {
+        "local": "Ville de Niamey",
+        "en": "Ville de Niamey",
+        "slug": "ville-de-niamey-ne008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE008",
+        "level": 1,
+        "name": {
+          "local": "Niamey",
+          "en": "Niamey",
+          "slug": "niamey-ne008"
+        }
+      },
+      {
+        "id": "NE008001",
+        "level": 2,
+        "name": {
+          "local": "Ville de Niamey",
+          "en": "Ville de Niamey",
+          "slug": "ville-de-niamey-ne008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.576",
+      "lon": "2.127"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE008001003",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Niamey III",
+      "en": "Niamey III",
+      "slug": "niamey-iii-ne008001003"
+    },
+    "code": {
+      "id": "NE008001003",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE008001",
+      "level": 2,
+      "name": {
+        "local": "Ville de Niamey",
+        "en": "Ville de Niamey",
+        "slug": "ville-de-niamey-ne008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE008",
+        "level": 1,
+        "name": {
+          "local": "Niamey",
+          "en": "Niamey",
+          "slug": "niamey-ne008"
+        }
+      },
+      {
+        "id": "NE008001",
+        "level": 2,
+        "name": {
+          "local": "Ville de Niamey",
+          "en": "Ville de Niamey",
+          "slug": "ville-de-niamey-ne008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.57",
+      "lon": "2.188"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE008001004",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Niamey IV",
+      "en": "Niamey IV",
+      "slug": "niamey-iv-ne008001004"
+    },
+    "code": {
+      "id": "NE008001004",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE008001",
+      "level": 2,
+      "name": {
+        "local": "Ville de Niamey",
+        "en": "Ville de Niamey",
+        "slug": "ville-de-niamey-ne008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE008",
+        "level": 1,
+        "name": {
+          "local": "Niamey",
+          "en": "Niamey",
+          "slug": "niamey-ne008"
+        }
+      },
+      {
+        "id": "NE008001",
+        "level": 2,
+        "name": {
+          "local": "Ville de Niamey",
+          "en": "Ville de Niamey",
+          "slug": "ville-de-niamey-ne008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.499",
+      "lon": "2.177"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE008001005",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Niamey V",
+      "en": "Niamey V",
+      "slug": "niamey-v-ne008001005"
+    },
+    "code": {
+      "id": "NE008001005",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE008001",
+      "level": 2,
+      "name": {
+        "local": "Ville de Niamey",
+        "en": "Ville de Niamey",
+        "slug": "ville-de-niamey-ne008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE008",
+        "level": 1,
+        "name": {
+          "local": "Niamey",
+          "en": "Niamey",
+          "slug": "niamey-ne008"
+        }
+      },
+      {
+        "id": "NE008001",
+        "level": 2,
+        "name": {
+          "local": "Ville de Niamey",
+          "en": "Ville de Niamey",
+          "slug": "ville-de-niamey-ne008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.468",
+      "lon": "2.048"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

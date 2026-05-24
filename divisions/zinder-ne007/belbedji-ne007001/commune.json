@@ -1,0 +1,56 @@
+[
+  {
+    "id": "NE007001001",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tarka",
+      "en": "Tarka",
+      "slug": "tarka-ne007001001"
+    },
+    "code": {
+      "id": "NE007001001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE007001",
+      "level": 2,
+      "name": {
+        "local": "Belbedji",
+        "en": "Belbedji",
+        "slug": "belbedji-ne007001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE007",
+        "level": 1,
+        "name": {
+          "local": "Zinder",
+          "en": "Zinder",
+          "slug": "zinder-ne007"
+        }
+      },
+      {
+        "id": "NE007001",
+        "level": 2,
+        "name": {
+          "local": "Belbedji",
+          "en": "Belbedji",
+          "slug": "belbedji-ne007001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.984",
+      "lon": "7.812"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

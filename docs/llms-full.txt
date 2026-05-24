@@ -1,0 +1,27 @@
+# Niger Administrative Divisions — Full Reference
+
+> Last updated: 2026-05-24. License: CC-BY-4.0.
+
+## Per-Region Data Files
+
+- [Zinder](https://github.com/open-admin-data/niger-administrative-divisions/blob/main/docs/llms-full/zinder-ne007.txt) — 11 departments, 55 communes
+- [Dosso](https://github.com/open-admin-data/niger-administrative-divisions/blob/main/docs/llms-full/dosso-ne003.txt) — 8 departments, 43 communes
+- [Tillabéri](https://github.com/open-admin-data/niger-administrative-divisions/blob/main/docs/llms-full/tillabri-ne006.txt) — 13 departments, 45 communes
+- [Tahoua](https://github.com/open-admin-data/niger-administrative-divisions/blob/main/docs/llms-full/tahoua-ne005.txt) — 13 departments, 44 communes
+- [Agadez](https://github.com/open-admin-data/niger-administrative-divisions/blob/main/docs/llms-full/agadez-ne001.txt) — 6 departments, 15 communes
+- [Niamey](https://github.com/open-admin-data/niger-administrative-divisions/blob/main/docs/llms-full/niamey-ne008.txt) — 1 departments, 5 communes
+- [Diffa](https://github.com/open-admin-data/niger-administrative-divisions/blob/main/docs/llms-full/diffa-ne002.txt) — 6 departments, 12 communes
+- [Maradi](https://github.com/open-admin-data/niger-administrative-divisions/blob/main/docs/llms-full/maradi-ne004.txt) — 9 departments, 47 communes
+
+## Summary
+
+| Region | Departments | Communes | 
+|---|---|---|
+| Zinder | 11 | 55 | 
+| Dosso | 8 | 43 | 
+| Tillabéri | 13 | 45 | 
+| Tahoua | 13 | 44 | 
+| Agadez | 6 | 15 | 
+| Niamey | 1 | 5 | 
+| Diffa | 6 | 12 | 
+| Maradi | 9 | 47 | 

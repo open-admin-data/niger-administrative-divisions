@@ -1,0 +1,47 @@
+{
+  "id": "NE004006",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Madarounfa",
+    "en": "Madarounfa",
+    "slug": "madarounfa-ne004006"
+  },
+  "code": {
+    "id": "NE004006",
+    "iso": null
+  },
+  "parent": {
+    "id": "NE004",
+    "level": 1,
+    "name": {
+      "local": "Maradi",
+      "en": "Maradi",
+      "slug": "maradi-ne004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NE004",
+      "level": 1,
+      "name": {
+        "local": "Maradi",
+        "en": "Maradi",
+        "slug": "maradi-ne004"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.269",
+    "lon": "7.183"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "NE001002",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Arlit",
+    "en": "Arlit",
+    "slug": "arlit-ne001002"
+  },
+  "code": {
+    "id": "NE001002",
+    "iso": null
+  },
+  "parent": {
+    "id": "NE001",
+    "level": 1,
+    "name": {
+      "local": "Agadez",
+      "en": "Agadez",
+      "slug": "agadez-ne001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NE001",
+      "level": 1,
+      "name": {
+        "local": "Agadez",
+        "en": "Agadez",
+        "slug": "agadez-ne001"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.534",
+    "lon": "6.963"
+  },
+  "metadata": {},
+  "source": {}
+}

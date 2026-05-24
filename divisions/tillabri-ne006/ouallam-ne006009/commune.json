@@ -1,0 +1,218 @@
+[
+  {
+    "id": "NE006009001",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dingazi",
+      "en": "Dingazi",
+      "slug": "dingazi-ne006009001"
+    },
+    "code": {
+      "id": "NE006009001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE006009",
+      "level": 2,
+      "name": {
+        "local": "Ouallam",
+        "en": "Ouallam",
+        "slug": "ouallam-ne006009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE006",
+        "level": 1,
+        "name": {
+          "local": "Tillabéri",
+          "en": "Tillabéri",
+          "slug": "tillabri-ne006"
+        }
+      },
+      {
+        "id": "NE006009",
+        "level": 2,
+        "name": {
+          "local": "Ouallam",
+          "en": "Ouallam",
+          "slug": "ouallam-ne006009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.479",
+      "lon": "2.597"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE006009002",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouallam",
+      "en": "Ouallam",
+      "slug": "ouallam-ne006009002"
+    },
+    "code": {
+      "id": "NE006009002",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE006009",
+      "level": 2,
+      "name": {
+        "local": "Ouallam",
+        "en": "Ouallam",
+        "slug": "ouallam-ne006009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE006",
+        "level": 1,
+        "name": {
+          "local": "Tillabéri",
+          "en": "Tillabéri",
+          "slug": "tillabri-ne006"
+        }
+      },
+      {
+        "id": "NE006009",
+        "level": 2,
+        "name": {
+          "local": "Ouallam",
+          "en": "Ouallam",
+          "slug": "ouallam-ne006009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.258",
+      "lon": "1.96"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE006009003",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Simiri",
+      "en": "Simiri",
+      "slug": "simiri-ne006009003"
+    },
+    "code": {
+      "id": "NE006009003",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE006009",
+      "level": 2,
+      "name": {
+        "local": "Ouallam",
+        "en": "Ouallam",
+        "slug": "ouallam-ne006009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE006",
+        "level": 1,
+        "name": {
+          "local": "Tillabéri",
+          "en": "Tillabéri",
+          "slug": "tillabri-ne006"
+        }
+      },
+      {
+        "id": "NE006009",
+        "level": 2,
+        "name": {
+          "local": "Ouallam",
+          "en": "Ouallam",
+          "slug": "ouallam-ne006009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.068",
+      "lon": "2.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE006009004",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tondikiwindi",
+      "en": "Tondikiwindi",
+      "slug": "tondikiwindi-ne006009004"
+    },
+    "code": {
+      "id": "NE006009004",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE006009",
+      "level": 2,
+      "name": {
+        "local": "Ouallam",
+        "en": "Ouallam",
+        "slug": "ouallam-ne006009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE006",
+        "level": 1,
+        "name": {
+          "local": "Tillabéri",
+          "en": "Tillabéri",
+          "slug": "tillabri-ne006"
+        }
+      },
+      {
+        "id": "NE006009",
+        "level": 2,
+        "name": {
+          "local": "Ouallam",
+          "en": "Ouallam",
+          "slug": "ouallam-ne006009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.806",
+      "lon": "1.934"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

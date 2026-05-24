@@ -1,0 +1,47 @@
+{
+  "id": "NE003008",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Tibiri",
+    "en": "Tibiri",
+    "slug": "tibiri-ne003008"
+  },
+  "code": {
+    "id": "NE003008",
+    "iso": null
+  },
+  "parent": {
+    "id": "NE003",
+    "level": 1,
+    "name": {
+      "local": "Dosso",
+      "en": "Dosso",
+      "slug": "dosso-ne003"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NE003",
+      "level": 1,
+      "name": {
+        "local": "Dosso",
+        "en": "Dosso",
+        "slug": "dosso-ne003"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.09",
+    "lon": "3.919"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,164 @@
+[
+  {
+    "id": "NE002002001",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Chetimari",
+      "en": "Chetimari",
+      "slug": "chetimari-ne002002001"
+    },
+    "code": {
+      "id": "NE002002001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE002002",
+      "level": 2,
+      "name": {
+        "local": "Diffa",
+        "en": "Diffa",
+        "slug": "diffa-ne002002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE002",
+        "level": 1,
+        "name": {
+          "local": "Diffa",
+          "en": "Diffa",
+          "slug": "diffa-ne002"
+        }
+      },
+      {
+        "id": "NE002002",
+        "level": 2,
+        "name": {
+          "local": "Diffa",
+          "en": "Diffa",
+          "slug": "diffa-ne002002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.405",
+      "lon": "12.341"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE002002002",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Diffa",
+      "en": "Diffa",
+      "slug": "diffa-ne002002002"
+    },
+    "code": {
+      "id": "NE002002002",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE002002",
+      "level": 2,
+      "name": {
+        "local": "Diffa",
+        "en": "Diffa",
+        "slug": "diffa-ne002002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE002",
+        "level": 1,
+        "name": {
+          "local": "Diffa",
+          "en": "Diffa",
+          "slug": "diffa-ne002"
+        }
+      },
+      {
+        "id": "NE002002",
+        "level": 2,
+        "name": {
+          "local": "Diffa",
+          "en": "Diffa",
+          "slug": "diffa-ne002002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.405",
+      "lon": "12.563"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE002002003",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Gueskérou",
+      "en": "Gueskérou",
+      "slug": "gueskrou-ne002002003"
+    },
+    "code": {
+      "id": "NE002002003",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE002002",
+      "level": 2,
+      "name": {
+        "local": "Diffa",
+        "en": "Diffa",
+        "slug": "diffa-ne002002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE002",
+        "level": 1,
+        "name": {
+          "local": "Diffa",
+          "en": "Diffa",
+          "slug": "diffa-ne002"
+        }
+      },
+      {
+        "id": "NE002002",
+        "level": 2,
+        "name": {
+          "local": "Diffa",
+          "en": "Diffa",
+          "slug": "diffa-ne002002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.59",
+      "lon": "12.721"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

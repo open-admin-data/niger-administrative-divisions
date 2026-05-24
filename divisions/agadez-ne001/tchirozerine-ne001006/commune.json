@@ -1,0 +1,218 @@
+[
+  {
+    "id": "NE001006001",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Agadez",
+      "en": "Agadez",
+      "slug": "agadez-ne001006001"
+    },
+    "code": {
+      "id": "NE001006001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE001006",
+      "level": 2,
+      "name": {
+        "local": "Tchirozerine",
+        "en": "Tchirozerine",
+        "slug": "tchirozerine-ne001006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE001",
+        "level": 1,
+        "name": {
+          "local": "Agadez",
+          "en": "Agadez",
+          "slug": "agadez-ne001"
+        }
+      },
+      {
+        "id": "NE001006",
+        "level": 2,
+        "name": {
+          "local": "Tchirozerine",
+          "en": "Tchirozerine",
+          "slug": "tchirozerine-ne001006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.953",
+      "lon": "7.969"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE001006002",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dabaga",
+      "en": "Dabaga",
+      "slug": "dabaga-ne001006002"
+    },
+    "code": {
+      "id": "NE001006002",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE001006",
+      "level": 2,
+      "name": {
+        "local": "Tchirozerine",
+        "en": "Tchirozerine",
+        "slug": "tchirozerine-ne001006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE001",
+        "level": 1,
+        "name": {
+          "local": "Agadez",
+          "en": "Agadez",
+          "slug": "agadez-ne001"
+        }
+      },
+      {
+        "id": "NE001006",
+        "level": 2,
+        "name": {
+          "local": "Tchirozerine",
+          "en": "Tchirozerine",
+          "slug": "tchirozerine-ne001006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.513",
+      "lon": "8.275"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE001006003",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tabelot",
+      "en": "Tabelot",
+      "slug": "tabelot-ne001006003"
+    },
+    "code": {
+      "id": "NE001006003",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE001006",
+      "level": 2,
+      "name": {
+        "local": "Tchirozerine",
+        "en": "Tchirozerine",
+        "slug": "tchirozerine-ne001006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE001",
+        "level": 1,
+        "name": {
+          "local": "Agadez",
+          "en": "Agadez",
+          "slug": "agadez-ne001"
+        }
+      },
+      {
+        "id": "NE001006",
+        "level": 2,
+        "name": {
+          "local": "Tchirozerine",
+          "en": "Tchirozerine",
+          "slug": "tchirozerine-ne001006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.526",
+      "lon": "9.194"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE001006004",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tchirozerine",
+      "en": "Tchirozerine",
+      "slug": "tchirozerine-ne001006004"
+    },
+    "code": {
+      "id": "NE001006004",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE001006",
+      "level": 2,
+      "name": {
+        "local": "Tchirozerine",
+        "en": "Tchirozerine",
+        "slug": "tchirozerine-ne001006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE001",
+        "level": 1,
+        "name": {
+          "local": "Agadez",
+          "en": "Agadez",
+          "slug": "agadez-ne001"
+        }
+      },
+      {
+        "id": "NE001006",
+        "level": 2,
+        "name": {
+          "local": "Tchirozerine",
+          "en": "Tchirozerine",
+          "slug": "tchirozerine-ne001006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.339",
+      "lon": "7.775"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "id": "NE003002001",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dioundiou",
+      "en": "Dioundiou",
+      "slug": "dioundiou-ne003002001"
+    },
+    "code": {
+      "id": "NE003002001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE003002",
+      "level": 2,
+      "name": {
+        "local": "Dioundiou",
+        "en": "Dioundiou",
+        "slug": "dioundiou-ne003002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE003",
+        "level": 1,
+        "name": {
+          "local": "Dosso",
+          "en": "Dosso",
+          "slug": "dosso-ne003"
+        }
+      },
+      {
+        "id": "NE003002",
+        "level": 2,
+        "name": {
+          "local": "Dioundiou",
+          "en": "Dioundiou",
+          "slug": "dioundiou-ne003002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.512",
+      "lon": "3.526"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE003002002",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Karakara",
+      "en": "Karakara",
+      "slug": "karakara-ne003002002"
+    },
+    "code": {
+      "id": "NE003002002",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE003002",
+      "level": 2,
+      "name": {
+        "local": "Dioundiou",
+        "en": "Dioundiou",
+        "slug": "dioundiou-ne003002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE003",
+        "level": 1,
+        "name": {
+          "local": "Dosso",
+          "en": "Dosso",
+          "slug": "dosso-ne003"
+        }
+      },
+      {
+        "id": "NE003002",
+        "level": 2,
+        "name": {
+          "local": "Dioundiou",
+          "en": "Dioundiou",
+          "slug": "dioundiou-ne003002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.737",
+      "lon": "3.684"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE003002003",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Zabori",
+      "en": "Zabori",
+      "slug": "zabori-ne003002003"
+    },
+    "code": {
+      "id": "NE003002003",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE003002",
+      "level": 2,
+      "name": {
+        "local": "Dioundiou",
+        "en": "Dioundiou",
+        "slug": "dioundiou-ne003002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE003",
+        "level": 1,
+        "name": {
+          "local": "Dosso",
+          "en": "Dosso",
+          "slug": "dosso-ne003"
+        }
+      },
+      {
+        "id": "NE003002",
+        "level": 2,
+        "name": {
+          "local": "Dioundiou",
+          "en": "Dioundiou",
+          "slug": "dioundiou-ne003002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.668",
+      "lon": "3.589"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

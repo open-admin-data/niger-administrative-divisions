@@ -1,0 +1,47 @@
+{
+  "id": "NE004008",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Mayahi",
+    "en": "Mayahi",
+    "slug": "mayahi-ne004008"
+  },
+  "code": {
+    "id": "NE004008",
+    "iso": null
+  },
+  "parent": {
+    "id": "NE004",
+    "level": 1,
+    "name": {
+      "local": "Maradi",
+      "en": "Maradi",
+      "slug": "maradi-ne004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NE004",
+      "level": 1,
+      "name": {
+        "local": "Maradi",
+        "en": "Maradi",
+        "slug": "maradi-ne004"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.129",
+    "lon": "7.612"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,164 @@
+[
+  {
+    "id": "NE004007001",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Maradi I",
+      "en": "Maradi I",
+      "slug": "maradi-i-ne004007001"
+    },
+    "code": {
+      "id": "NE004007001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE004007",
+      "level": 2,
+      "name": {
+        "local": "Ville de Maradi",
+        "en": "Ville de Maradi",
+        "slug": "ville-de-maradi-ne004007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE004",
+        "level": 1,
+        "name": {
+          "local": "Maradi",
+          "en": "Maradi",
+          "slug": "maradi-ne004"
+        }
+      },
+      {
+        "id": "NE004007",
+        "level": 2,
+        "name": {
+          "local": "Ville de Maradi",
+          "en": "Ville de Maradi",
+          "slug": "ville-de-maradi-ne004007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.516",
+      "lon": "7.107"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE004007002",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Maradi II",
+      "en": "Maradi II",
+      "slug": "maradi-ii-ne004007002"
+    },
+    "code": {
+      "id": "NE004007002",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE004007",
+      "level": 2,
+      "name": {
+        "local": "Ville de Maradi",
+        "en": "Ville de Maradi",
+        "slug": "ville-de-maradi-ne004007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE004",
+        "level": 1,
+        "name": {
+          "local": "Maradi",
+          "en": "Maradi",
+          "slug": "maradi-ne004"
+        }
+      },
+      {
+        "id": "NE004007",
+        "level": 2,
+        "name": {
+          "local": "Ville de Maradi",
+          "en": "Ville de Maradi",
+          "slug": "ville-de-maradi-ne004007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.506",
+      "lon": "7.132"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE004007003",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Maradi III",
+      "en": "Maradi III",
+      "slug": "maradi-iii-ne004007003"
+    },
+    "code": {
+      "id": "NE004007003",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE004007",
+      "level": 2,
+      "name": {
+        "local": "Ville de Maradi",
+        "en": "Ville de Maradi",
+        "slug": "ville-de-maradi-ne004007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE004",
+        "level": 1,
+        "name": {
+          "local": "Maradi",
+          "en": "Maradi",
+          "slug": "maradi-ne004"
+        }
+      },
+      {
+        "id": "NE004007",
+        "level": 2,
+        "name": {
+          "local": "Ville de Maradi",
+          "en": "Ville de Maradi",
+          "slug": "ville-de-maradi-ne004007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.474",
+      "lon": "7.127"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

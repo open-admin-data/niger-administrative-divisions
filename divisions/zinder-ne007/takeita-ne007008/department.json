@@ -1,0 +1,47 @@
+{
+  "id": "NE007008",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Takeita",
+    "en": "Takeita",
+    "slug": "takeita-ne007008"
+  },
+  "code": {
+    "id": "NE007008",
+    "iso": null
+  },
+  "parent": {
+    "id": "NE007",
+    "level": 1,
+    "name": {
+      "local": "Zinder",
+      "en": "Zinder",
+      "slug": "zinder-ne007"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NE007",
+      "level": 1,
+      "name": {
+        "local": "Zinder",
+        "en": "Zinder",
+        "slug": "zinder-ne007"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.937",
+    "lon": "8.866"
+  },
+  "metadata": {},
+  "source": {}
+}

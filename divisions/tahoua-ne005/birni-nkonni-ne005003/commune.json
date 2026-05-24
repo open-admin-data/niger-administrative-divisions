@@ -1,0 +1,218 @@
+[
+  {
+    "id": "NE005003001",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Alléla",
+      "en": "Alléla",
+      "slug": "allla-ne005003001"
+    },
+    "code": {
+      "id": "NE005003001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE005003",
+      "level": 2,
+      "name": {
+        "local": "Birni N'Konni",
+        "en": "Birni N'Konni",
+        "slug": "birni-nkonni-ne005003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE005",
+        "level": 1,
+        "name": {
+          "local": "Tahoua",
+          "en": "Tahoua",
+          "slug": "tahoua-ne005"
+        }
+      },
+      {
+        "id": "NE005003",
+        "level": 2,
+        "name": {
+          "local": "Birni N'Konni",
+          "en": "Birni N'Konni",
+          "slug": "birni-nkonni-ne005003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.906",
+      "lon": "4.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE005003002",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bazaga",
+      "en": "Bazaga",
+      "slug": "bazaga-ne005003002"
+    },
+    "code": {
+      "id": "NE005003002",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE005003",
+      "level": 2,
+      "name": {
+        "local": "Birni N'Konni",
+        "en": "Birni N'Konni",
+        "slug": "birni-nkonni-ne005003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE005",
+        "level": 1,
+        "name": {
+          "local": "Tahoua",
+          "en": "Tahoua",
+          "slug": "tahoua-ne005"
+        }
+      },
+      {
+        "id": "NE005003",
+        "level": 2,
+        "name": {
+          "local": "Birni N'Konni",
+          "en": "Birni N'Konni",
+          "slug": "birni-nkonni-ne005003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.811",
+      "lon": "5.081"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE005003003",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Birni N'Konni",
+      "en": "Birni N'Konni",
+      "slug": "birni-nkonni-ne005003003"
+    },
+    "code": {
+      "id": "NE005003003",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE005003",
+      "level": 2,
+      "name": {
+        "local": "Birni N'Konni",
+        "en": "Birni N'Konni",
+        "slug": "birni-nkonni-ne005003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE005",
+        "level": 1,
+        "name": {
+          "local": "Tahoua",
+          "en": "Tahoua",
+          "slug": "tahoua-ne005"
+        }
+      },
+      {
+        "id": "NE005003",
+        "level": 2,
+        "name": {
+          "local": "Birni N'Konni",
+          "en": "Birni N'Konni",
+          "slug": "birni-nkonni-ne005003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.937",
+      "lon": "5.127"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE005003004",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tsernaoua",
+      "en": "Tsernaoua",
+      "slug": "tsernaoua-ne005003004"
+    },
+    "code": {
+      "id": "NE005003004",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE005003",
+      "level": 2,
+      "name": {
+        "local": "Birni N'Konni",
+        "en": "Birni N'Konni",
+        "slug": "birni-nkonni-ne005003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE005",
+        "level": 1,
+        "name": {
+          "local": "Tahoua",
+          "en": "Tahoua",
+          "slug": "tahoua-ne005"
+        }
+      },
+      {
+        "id": "NE005003",
+        "level": 2,
+        "name": {
+          "local": "Birni N'Konni",
+          "en": "Birni N'Konni",
+          "slug": "birni-nkonni-ne005003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.932",
+      "lon": "5.319"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

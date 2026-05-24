@@ -1,0 +1,30 @@
+{
+  "id": "NE007",
+  "level": 1,
+  "level_name": {
+    "local": "Région",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Zinder",
+    "en": "Zinder",
+    "slug": "zinder-ne007"
+  },
+  "code": {
+    "id": "NE007",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "department": 11,
+    "commune": 55
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.219",
+    "lon": "9.715"
+  },
+  "metadata": {},
+  "source": {}
+}

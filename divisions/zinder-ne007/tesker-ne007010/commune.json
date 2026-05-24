@@ -1,0 +1,56 @@
+[
+  {
+    "id": "NE007010001",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tesker",
+      "en": "Tesker",
+      "slug": "tesker-ne007010001"
+    },
+    "code": {
+      "id": "NE007010001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE007010",
+      "level": 2,
+      "name": {
+        "local": "Tesker",
+        "en": "Tesker",
+        "slug": "tesker-ne007010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE007",
+        "level": 1,
+        "name": {
+          "local": "Zinder",
+          "en": "Zinder",
+          "slug": "zinder-ne007"
+        }
+      },
+      {
+        "id": "NE007010",
+        "level": 2,
+        "name": {
+          "local": "Tesker",
+          "en": "Tesker",
+          "slug": "tesker-ne007010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.908",
+      "lon": "10.815"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

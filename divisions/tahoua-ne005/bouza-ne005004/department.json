@@ -1,0 +1,47 @@
+{
+  "id": "NE005004",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Bouza",
+    "en": "Bouza",
+    "slug": "bouza-ne005004"
+  },
+  "code": {
+    "id": "NE005004",
+    "iso": null
+  },
+  "parent": {
+    "id": "NE005",
+    "level": 1,
+    "name": {
+      "local": "Tahoua",
+      "en": "Tahoua",
+      "slug": "tahoua-ne005"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NE005",
+      "level": 1,
+      "name": {
+        "local": "Tahoua",
+        "en": "Tahoua",
+        "slug": "tahoua-ne005"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.499",
+    "lon": "6.085"
+  },
+  "metadata": {},
+  "source": {}
+}

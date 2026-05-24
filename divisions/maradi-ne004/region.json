@@ -1,0 +1,30 @@
+{
+  "id": "NE004",
+  "level": 1,
+  "level_name": {
+    "local": "Région",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Maradi",
+    "en": "Maradi",
+    "slug": "maradi-ne004"
+  },
+  "code": {
+    "id": "NE004",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "department": 9,
+    "commune": 47
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.232",
+    "lon": "7.475"
+  },
+  "metadata": {},
+  "source": {}
+}

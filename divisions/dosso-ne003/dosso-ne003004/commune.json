@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NE003004001",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dosso",
+      "en": "Dosso",
+      "slug": "dosso-ne003004001"
+    },
+    "code": {
+      "id": "NE003004001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE003004",
+      "level": 2,
+      "name": {
+        "local": "Dosso",
+        "en": "Dosso",
+        "slug": "dosso-ne003004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE003",
+        "level": 1,
+        "name": {
+          "local": "Dosso",
+          "en": "Dosso",
+          "slug": "dosso-ne003"
+        }
+      },
+      {
+        "id": "NE003004",
+        "level": 2,
+        "name": {
+          "local": "Dosso",
+          "en": "Dosso",
+          "slug": "dosso-ne003004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.034",
+      "lon": "3.188"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE003004002",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Farey",
+      "en": "Farey",
+      "slug": "farey-ne003004002"
+    },
+    "code": {
+      "id": "NE003004002",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE003004",
+      "level": 2,
+      "name": {
+        "local": "Dosso",
+        "en": "Dosso",
+        "slug": "dosso-ne003004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE003",
+        "level": 1,
+        "name": {
+          "local": "Dosso",
+          "en": "Dosso",
+          "slug": "dosso-ne003"
+        }
+      },
+      {
+        "id": "NE003004",
+        "level": 2,
+        "name": {
+          "local": "Dosso",
+          "en": "Dosso",
+          "slug": "dosso-ne003004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.616",
+      "lon": "3.271"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE003004003",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Garankédey",
+      "en": "Garankédey",
+      "slug": "garankdey-ne003004003"
+    },
+    "code": {
+      "id": "NE003004003",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE003004",
+      "level": 2,
+      "name": {
+        "local": "Dosso",
+        "en": "Dosso",
+        "slug": "dosso-ne003004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE003",
+        "level": 1,
+        "name": {
+          "local": "Dosso",
+          "en": "Dosso",
+          "slug": "dosso-ne003"
+        }
+      },
+      {
+        "id": "NE003004",
+        "level": 2,
+        "name": {
+          "local": "Dosso",
+          "en": "Dosso",
+          "slug": "dosso-ne003004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.296",
+      "lon": "3.095"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE003004004",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Gollé",
+      "en": "Gollé",
+      "slug": "goll-ne003004004"
+    },
+    "code": {
+      "id": "NE003004004",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE003004",
+      "level": 2,
+      "name": {
+        "local": "Dosso",
+        "en": "Dosso",
+        "slug": "dosso-ne003004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE003",
+        "level": 1,
+        "name": {
+          "local": "Dosso",
+          "en": "Dosso",
+          "slug": "dosso-ne003"
+        }
+      },
+      {
+        "id": "NE003004",
+        "level": 2,
+        "name": {
+          "local": "Dosso",
+          "en": "Dosso",
+          "slug": "dosso-ne003004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.749",
+      "lon": "3.071"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE003004005",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Goroubankassam",
+      "en": "Goroubankassam",
+      "slug": "goroubankassam-ne003004005"
+    },
+    "code": {
+      "id": "NE003004005",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE003004",
+      "level": 2,
+      "name": {
+        "local": "Dosso",
+        "en": "Dosso",
+        "slug": "dosso-ne003004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE003",
+        "level": 1,
+        "name": {
+          "local": "Dosso",
+          "en": "Dosso",
+          "slug": "dosso-ne003"
+        }
+      },
+      {
+        "id": "NE003004",
+        "level": 2,
+        "name": {
+          "local": "Dosso",
+          "en": "Dosso",
+          "slug": "dosso-ne003004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.065",
+      "lon": "3.379"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE003004006",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Karguibangou",
+      "en": "Karguibangou",
+      "slug": "karguibangou-ne003004006"
+    },
+    "code": {
+      "id": "NE003004006",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE003004",
+      "level": 2,
+      "name": {
+        "local": "Dosso",
+        "en": "Dosso",
+        "slug": "dosso-ne003004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE003",
+        "level": 1,
+        "name": {
+          "local": "Dosso",
+          "en": "Dosso",
+          "slug": "dosso-ne003"
+        }
+      },
+      {
+        "id": "NE003004",
+        "level": 2,
+        "name": {
+          "local": "Dosso",
+          "en": "Dosso",
+          "slug": "dosso-ne003004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.901",
+      "lon": "3.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE003004007",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mokko",
+      "en": "Mokko",
+      "slug": "mokko-ne003004007"
+    },
+    "code": {
+      "id": "NE003004007",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE003004",
+      "level": 2,
+      "name": {
+        "local": "Dosso",
+        "en": "Dosso",
+        "slug": "dosso-ne003004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE003",
+        "level": 1,
+        "name": {
+          "local": "Dosso",
+          "en": "Dosso",
+          "slug": "dosso-ne003"
+        }
+      },
+      {
+        "id": "NE003004",
+        "level": 2,
+        "name": {
+          "local": "Dosso",
+          "en": "Dosso",
+          "slug": "dosso-ne003004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.353",
+      "lon": "3.345"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE003004008",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sambéra",
+      "en": "Sambéra",
+      "slug": "sambra-ne003004008"
+    },
+    "code": {
+      "id": "NE003004008",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE003004",
+      "level": 2,
+      "name": {
+        "local": "Dosso",
+        "en": "Dosso",
+        "slug": "dosso-ne003004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE003",
+        "level": 1,
+        "name": {
+          "local": "Dosso",
+          "en": "Dosso",
+          "slug": "dosso-ne003"
+        }
+      },
+      {
+        "id": "NE003004",
+        "level": 2,
+        "name": {
+          "local": "Dosso",
+          "en": "Dosso",
+          "slug": "dosso-ne003004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.32",
+      "lon": "3.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE003004009",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tessa",
+      "en": "Tessa",
+      "slug": "tessa-ne003004009"
+    },
+    "code": {
+      "id": "NE003004009",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE003004",
+      "level": 2,
+      "name": {
+        "local": "Dosso",
+        "en": "Dosso",
+        "slug": "dosso-ne003004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE003",
+        "level": 1,
+        "name": {
+          "local": "Dosso",
+          "en": "Dosso",
+          "slug": "dosso-ne003"
+        }
+      },
+      {
+        "id": "NE003004",
+        "level": 2,
+        "name": {
+          "local": "Dosso",
+          "en": "Dosso",
+          "slug": "dosso-ne003004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.78",
+      "lon": "3.404"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE003004010",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tombokoirey I",
+      "en": "Tombokoirey I",
+      "slug": "tombokoirey-i-ne003004010"
+    },
+    "code": {
+      "id": "NE003004010",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE003004",
+      "level": 2,
+      "name": {
+        "local": "Dosso",
+        "en": "Dosso",
+        "slug": "dosso-ne003004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE003",
+        "level": 1,
+        "name": {
+          "local": "Dosso",
+          "en": "Dosso",
+          "slug": "dosso-ne003"
+        }
+      },
+      {
+        "id": "NE003004",
+        "level": 2,
+        "name": {
+          "local": "Dosso",
+          "en": "Dosso",
+          "slug": "dosso-ne003004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.316",
+      "lon": "3.545"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE003004011",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tombokoirey II",
+      "en": "Tombokoirey II",
+      "slug": "tombokoirey-ii-ne003004011"
+    },
+    "code": {
+      "id": "NE003004011",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE003004",
+      "level": 2,
+      "name": {
+        "local": "Dosso",
+        "en": "Dosso",
+        "slug": "dosso-ne003004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE003",
+        "level": 1,
+        "name": {
+          "local": "Dosso",
+          "en": "Dosso",
+          "slug": "dosso-ne003"
+        }
+      },
+      {
+        "id": "NE003004",
+        "level": 2,
+        "name": {
+          "local": "Dosso",
+          "en": "Dosso",
+          "slug": "dosso-ne003004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.3",
+      "lon": "3.685"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

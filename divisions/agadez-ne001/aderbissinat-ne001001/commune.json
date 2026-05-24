@@ -1,0 +1,56 @@
+[
+  {
+    "id": "NE001001001",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Aderbissinat",
+      "en": "Aderbissinat",
+      "slug": "aderbissinat-ne001001001"
+    },
+    "code": {
+      "id": "NE001001001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE001001",
+      "level": 2,
+      "name": {
+        "local": "Aderbissinat",
+        "en": "Aderbissinat",
+        "slug": "aderbissinat-ne001001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE001",
+        "level": 1,
+        "name": {
+          "local": "Agadez",
+          "en": "Agadez",
+          "slug": "agadez-ne001"
+        }
+      },
+      {
+        "id": "NE001001",
+        "level": 2,
+        "name": {
+          "local": "Aderbissinat",
+          "en": "Aderbissinat",
+          "slug": "aderbissinat-ne001001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.464",
+      "lon": "8.703"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

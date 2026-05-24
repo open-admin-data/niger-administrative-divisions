@@ -1,0 +1,110 @@
+[
+  {
+    "id": "NE006013001",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Makalondi",
+      "en": "Makalondi",
+      "slug": "makalondi-ne006013001"
+    },
+    "code": {
+      "id": "NE006013001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE006013",
+      "level": 2,
+      "name": {
+        "local": "Torodi",
+        "en": "Torodi",
+        "slug": "torodi-ne006013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE006",
+        "level": 1,
+        "name": {
+          "local": "Tillabéri",
+          "en": "Tillabéri",
+          "slug": "tillabri-ne006"
+        }
+      },
+      {
+        "id": "NE006013",
+        "level": 2,
+        "name": {
+          "local": "Torodi",
+          "en": "Torodi",
+          "slug": "torodi-ne006013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.853",
+      "lon": "1.646"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE006013002",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Torodi",
+      "en": "Torodi",
+      "slug": "torodi-ne006013002"
+    },
+    "code": {
+      "id": "NE006013002",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE006013",
+      "level": 2,
+      "name": {
+        "local": "Torodi",
+        "en": "Torodi",
+        "slug": "torodi-ne006013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE006",
+        "level": 1,
+        "name": {
+          "local": "Tillabéri",
+          "en": "Tillabéri",
+          "slug": "tillabri-ne006"
+        }
+      },
+      {
+        "id": "NE006013",
+        "level": 2,
+        "name": {
+          "local": "Torodi",
+          "en": "Torodi",
+          "slug": "torodi-ne006013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.223",
+      "lon": "1.447"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

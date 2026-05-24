@@ -1,0 +1,47 @@
+{
+  "id": "NE003005",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Falmey",
+    "en": "Falmey",
+    "slug": "falmey-ne003005"
+  },
+  "code": {
+    "id": "NE003005",
+    "iso": null
+  },
+  "parent": {
+    "id": "NE003",
+    "level": 1,
+    "name": {
+      "local": "Dosso",
+      "en": "Dosso",
+      "slug": "dosso-ne003"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NE003",
+      "level": 1,
+      "name": {
+        "local": "Dosso",
+        "en": "Dosso",
+        "slug": "dosso-ne003"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.557",
+    "lon": "2.848"
+  },
+  "metadata": {},
+  "source": {}
+}

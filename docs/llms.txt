@@ -1,0 +1,68 @@
+# Niger Administrative Divisions
+
+> Open dataset of Niger's administrative hierarchy:
+> 8 regions, 67 departments, 266 communes.
+> CC-BY-4.0 licensed.
+
+## Quick Reference
+
+- Total regions: 8
+- Total departments: 67
+- Total communes: 266
+- Coordinates: included (all levels)
+- Last updated: 2026-05-24
+- License: CC-BY-4.0
+
+## Aggregate Data Files
+
+- [All regions (JSON)](https://raw.githubusercontent.com/open-admin-data/niger-administrative-divisions/main/data/all-region.json)
+- [All departments (JSON)](https://raw.githubusercontent.com/open-admin-data/niger-administrative-divisions/main/data/all-department.json)
+- [All communes (JSON)](https://raw.githubusercontent.com/open-admin-data/niger-administrative-divisions/main/data/all-commune.json)
+- [Flat array (NDJSON)](https://raw.githubusercontent.com/open-admin-data/niger-administrative-divisions/main/data/all-flat.ndjson)
+- [Hierarchy tree (JSON)](https://raw.githubusercontent.com/open-admin-data/niger-administrative-divisions/main/data/hierarchy.json)
+- [JSON Schema](https://raw.githubusercontent.com/open-admin-data/niger-administrative-divisions/main/data/schema.json)
+
+## Browse by Region
+
+- [Zinder](https://github.com/open-admin-data/niger-administrative-divisions/tree/main/divisions/zinder-ne007/) — 11 departments, 55 communes
+- [Dosso](https://github.com/open-admin-data/niger-administrative-divisions/tree/main/divisions/dosso-ne003/) — 8 departments, 43 communes
+- [Tillabéri](https://github.com/open-admin-data/niger-administrative-divisions/tree/main/divisions/tillabri-ne006/) — 13 departments, 45 communes
+- [Tahoua](https://github.com/open-admin-data/niger-administrative-divisions/tree/main/divisions/tahoua-ne005/) — 13 departments, 44 communes
+- [Agadez](https://github.com/open-admin-data/niger-administrative-divisions/tree/main/divisions/agadez-ne001/) — 6 departments, 15 communes
+- [Niamey](https://github.com/open-admin-data/niger-administrative-divisions/tree/main/divisions/niamey-ne008/) — 1 departments, 5 communes
+- [Diffa](https://github.com/open-admin-data/niger-administrative-divisions/tree/main/divisions/diffa-ne002/) — 6 departments, 12 communes
+- [Maradi](https://github.com/open-admin-data/niger-administrative-divisions/tree/main/divisions/maradi-ne004/) — 9 departments, 47 communes
+
+## Per-Region Full Data
+
+- [Zinder](https://raw.githubusercontent.com/open-admin-data/niger-administrative-divisions/main/docs/llms-full/zinder-ne007.txt)
+- [Dosso](https://raw.githubusercontent.com/open-admin-data/niger-administrative-divisions/main/docs/llms-full/dosso-ne003.txt)
+- [Tillabéri](https://raw.githubusercontent.com/open-admin-data/niger-administrative-divisions/main/docs/llms-full/tillabri-ne006.txt)
+- [Tahoua](https://raw.githubusercontent.com/open-admin-data/niger-administrative-divisions/main/docs/llms-full/tahoua-ne005.txt)
+- [Agadez](https://raw.githubusercontent.com/open-admin-data/niger-administrative-divisions/main/docs/llms-full/agadez-ne001.txt)
+- [Niamey](https://raw.githubusercontent.com/open-admin-data/niger-administrative-divisions/main/docs/llms-full/niamey-ne008.txt)
+- [Diffa](https://raw.githubusercontent.com/open-admin-data/niger-administrative-divisions/main/docs/llms-full/diffa-ne002.txt)
+- [Maradi](https://raw.githubusercontent.com/open-admin-data/niger-administrative-divisions/main/docs/llms-full/maradi-ne004.txt)
+
+## Schema Fields
+
+- id: Unique identifier
+- level: 1 (region), 2 (department), 3 (commune)
+- name: Local and English names with URL slug
+- code: Government codes
+- parent: Reference to parent division
+- ancestors: Full chain to root
+- children_count: Count of children per level
+- zip_codes: Postal codes (where available)
+- geo: Geographic coordinates (lat/lon, WGS84, all levels)
+
+## Citation
+
+Niger Administrative Divisions Dataset (CC-BY-4.0)
+URL: https://github.com/open-admin-data/niger-administrative-divisions
+
+## Related
+
+- [ListBase](https://www.listbase.org) — Structured reference data for every country
+- [open-admin-data](https://github.com/open-admin-data) — Open admin data for ASEAN
+- [thailand-administrative-divisions](https://github.com/open-admin-data/thailand-administrative-divisions)

@@ -1,0 +1,488 @@
+[
+  {
+    "id": "NE007005001",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dan Barto",
+      "en": "Dan Barto",
+      "slug": "dan-barto-ne007005001"
+    },
+    "code": {
+      "id": "NE007005001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE007005",
+      "level": 2,
+      "name": {
+        "local": "Kantché",
+        "en": "Kantché",
+        "slug": "kantch-ne007005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE007",
+        "level": 1,
+        "name": {
+          "local": "Zinder",
+          "en": "Zinder",
+          "slug": "zinder-ne007"
+        }
+      },
+      {
+        "id": "NE007005",
+        "level": 2,
+        "name": {
+          "local": "Kantché",
+          "en": "Kantché",
+          "slug": "kantch-ne007005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.225",
+      "lon": "8.351"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE007005002",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Daouché",
+      "en": "Daouché",
+      "slug": "daouch-ne007005002"
+    },
+    "code": {
+      "id": "NE007005002",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE007005",
+      "level": 2,
+      "name": {
+        "local": "Kantché",
+        "en": "Kantché",
+        "slug": "kantch-ne007005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE007",
+        "level": 1,
+        "name": {
+          "local": "Zinder",
+          "en": "Zinder",
+          "slug": "zinder-ne007"
+        }
+      },
+      {
+        "id": "NE007005",
+        "level": 2,
+        "name": {
+          "local": "Kantché",
+          "en": "Kantché",
+          "slug": "kantch-ne007005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.432",
+      "lon": "8.389"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE007005003",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Doungou",
+      "en": "Doungou",
+      "slug": "doungou-ne007005003"
+    },
+    "code": {
+      "id": "NE007005003",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE007005",
+      "level": 2,
+      "name": {
+        "local": "Kantché",
+        "en": "Kantché",
+        "slug": "kantch-ne007005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE007",
+        "level": 1,
+        "name": {
+          "local": "Zinder",
+          "en": "Zinder",
+          "slug": "zinder-ne007"
+        }
+      },
+      {
+        "id": "NE007005",
+        "level": 2,
+        "name": {
+          "local": "Kantché",
+          "en": "Kantché",
+          "slug": "kantch-ne007005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.44",
+      "lon": "8.692"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE007005004",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ichirnawa",
+      "en": "Ichirnawa",
+      "slug": "ichirnawa-ne007005004"
+    },
+    "code": {
+      "id": "NE007005004",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE007005",
+      "level": 2,
+      "name": {
+        "local": "Kantché",
+        "en": "Kantché",
+        "slug": "kantch-ne007005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE007",
+        "level": 1,
+        "name": {
+          "local": "Zinder",
+          "en": "Zinder",
+          "slug": "zinder-ne007"
+        }
+      },
+      {
+        "id": "NE007005",
+        "level": 2,
+        "name": {
+          "local": "Kantché",
+          "en": "Kantché",
+          "slug": "kantch-ne007005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.537",
+      "lon": "8.603"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE007005005",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kantché",
+      "en": "Kantché",
+      "slug": "kantch-ne007005005"
+    },
+    "code": {
+      "id": "NE007005005",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE007005",
+      "level": 2,
+      "name": {
+        "local": "Kantché",
+        "en": "Kantché",
+        "slug": "kantch-ne007005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE007",
+        "level": 1,
+        "name": {
+          "local": "Zinder",
+          "en": "Zinder",
+          "slug": "zinder-ne007"
+        }
+      },
+      {
+        "id": "NE007005",
+        "level": 2,
+        "name": {
+          "local": "Kantché",
+          "en": "Kantché",
+          "slug": "kantch-ne007005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.547",
+      "lon": "8.428"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE007005006",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kourni",
+      "en": "Kourni",
+      "slug": "kourni-ne007005006"
+    },
+    "code": {
+      "id": "NE007005006",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE007005",
+      "level": 2,
+      "name": {
+        "local": "Kantché",
+        "en": "Kantché",
+        "slug": "kantch-ne007005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE007",
+        "level": 1,
+        "name": {
+          "local": "Zinder",
+          "en": "Zinder",
+          "slug": "zinder-ne007"
+        }
+      },
+      {
+        "id": "NE007005",
+        "level": 2,
+        "name": {
+          "local": "Kantché",
+          "en": "Kantché",
+          "slug": "kantch-ne007005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.256",
+      "lon": "8.481"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE007005007",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Matamey",
+      "en": "Matamey",
+      "slug": "matamey-ne007005007"
+    },
+    "code": {
+      "id": "NE007005007",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE007005",
+      "level": 2,
+      "name": {
+        "local": "Kantché",
+        "en": "Kantché",
+        "slug": "kantch-ne007005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE007",
+        "level": 1,
+        "name": {
+          "local": "Zinder",
+          "en": "Zinder",
+          "slug": "zinder-ne007"
+        }
+      },
+      {
+        "id": "NE007005",
+        "level": 2,
+        "name": {
+          "local": "Kantché",
+          "en": "Kantché",
+          "slug": "kantch-ne007005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.386",
+      "lon": "8.537"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE007005008",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tsaouni",
+      "en": "Tsaouni",
+      "slug": "tsaouni-ne007005008"
+    },
+    "code": {
+      "id": "NE007005008",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE007005",
+      "level": 2,
+      "name": {
+        "local": "Kantché",
+        "en": "Kantché",
+        "slug": "kantch-ne007005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE007",
+        "level": 1,
+        "name": {
+          "local": "Zinder",
+          "en": "Zinder",
+          "slug": "zinder-ne007"
+        }
+      },
+      {
+        "id": "NE007005",
+        "level": 2,
+        "name": {
+          "local": "Kantché",
+          "en": "Kantché",
+          "slug": "kantch-ne007005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.343",
+      "lon": "8.419"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE007005009",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Yaouri",
+      "en": "Yaouri",
+      "slug": "yaouri-ne007005009"
+    },
+    "code": {
+      "id": "NE007005009",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE007005",
+      "level": 2,
+      "name": {
+        "local": "Kantché",
+        "en": "Kantché",
+        "slug": "kantch-ne007005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE007",
+        "level": 1,
+        "name": {
+          "local": "Zinder",
+          "en": "Zinder",
+          "slug": "zinder-ne007"
+        }
+      },
+      {
+        "id": "NE007005",
+        "level": 2,
+        "name": {
+          "local": "Kantché",
+          "en": "Kantché",
+          "slug": "kantch-ne007005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.29",
+      "lon": "8.637"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

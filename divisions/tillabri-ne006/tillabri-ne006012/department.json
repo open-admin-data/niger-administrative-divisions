@@ -1,0 +1,47 @@
+{
+  "id": "NE006012",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Tillabéri",
+    "en": "Tillabéri",
+    "slug": "tillabri-ne006012"
+  },
+  "code": {
+    "id": "NE006012",
+    "iso": null
+  },
+  "parent": {
+    "id": "NE006",
+    "level": 1,
+    "name": {
+      "local": "Tillabéri",
+      "en": "Tillabéri",
+      "slug": "tillabri-ne006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NE006",
+      "level": 1,
+      "name": {
+        "local": "Tillabéri",
+        "en": "Tillabéri",
+        "slug": "tillabri-ne006"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.386",
+    "lon": "1.414"
+  },
+  "metadata": {},
+  "source": {}
+}

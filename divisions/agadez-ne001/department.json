@@ -1,0 +1,284 @@
+[
+  {
+    "id": "NE001001",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Aderbissinat",
+      "en": "Aderbissinat",
+      "slug": "aderbissinat-ne001001"
+    },
+    "code": {
+      "id": "NE001001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE001",
+      "level": 1,
+      "name": {
+        "local": "Agadez",
+        "en": "Agadez",
+        "slug": "agadez-ne001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE001",
+        "level": 1,
+        "name": {
+          "local": "Agadez",
+          "en": "Agadez",
+          "slug": "agadez-ne001"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.464",
+      "lon": "8.703"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE001002",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Arlit",
+      "en": "Arlit",
+      "slug": "arlit-ne001002"
+    },
+    "code": {
+      "id": "NE001002",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE001",
+      "level": 1,
+      "name": {
+        "local": "Agadez",
+        "en": "Agadez",
+        "slug": "agadez-ne001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE001",
+        "level": 1,
+        "name": {
+          "local": "Agadez",
+          "en": "Agadez",
+          "slug": "agadez-ne001"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.534",
+      "lon": "6.963"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE001003",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Bilma",
+      "en": "Bilma",
+      "slug": "bilma-ne001003"
+    },
+    "code": {
+      "id": "NE001003",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE001",
+      "level": 1,
+      "name": {
+        "local": "Agadez",
+        "en": "Agadez",
+        "slug": "agadez-ne001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE001",
+        "level": 1,
+        "name": {
+          "local": "Agadez",
+          "en": "Agadez",
+          "slug": "agadez-ne001"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.299",
+      "lon": "13.487"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE001004",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Iferouane",
+      "en": "Iferouane",
+      "slug": "iferouane-ne001004"
+    },
+    "code": {
+      "id": "NE001004",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE001",
+      "level": 1,
+      "name": {
+        "local": "Agadez",
+        "en": "Agadez",
+        "slug": "agadez-ne001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE001",
+        "level": 1,
+        "name": {
+          "local": "Agadez",
+          "en": "Agadez",
+          "slug": "agadez-ne001"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.519",
+      "lon": "9.486"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE001005",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Ingall",
+      "en": "Ingall",
+      "slug": "ingall-ne001005"
+    },
+    "code": {
+      "id": "NE001005",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE001",
+      "level": 1,
+      "name": {
+        "local": "Agadez",
+        "en": "Agadez",
+        "slug": "agadez-ne001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE001",
+        "level": 1,
+        "name": {
+          "local": "Agadez",
+          "en": "Agadez",
+          "slug": "agadez-ne001"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.431",
+      "lon": "6.421"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE001006",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Tchirozerine",
+      "en": "Tchirozerine",
+      "slug": "tchirozerine-ne001006"
+    },
+    "code": {
+      "id": "NE001006",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE001",
+      "level": 1,
+      "name": {
+        "local": "Agadez",
+        "en": "Agadez",
+        "slug": "agadez-ne001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE001",
+        "level": 1,
+        "name": {
+          "local": "Agadez",
+          "en": "Agadez",
+          "slug": "agadez-ne001"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.377",
+      "lon": "8.549"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

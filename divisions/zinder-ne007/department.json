@@ -1,0 +1,519 @@
+[
+  {
+    "id": "NE007001",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Belbedji",
+      "en": "Belbedji",
+      "slug": "belbedji-ne007001"
+    },
+    "code": {
+      "id": "NE007001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE007",
+      "level": 1,
+      "name": {
+        "local": "Zinder",
+        "en": "Zinder",
+        "slug": "zinder-ne007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE007",
+        "level": 1,
+        "name": {
+          "local": "Zinder",
+          "en": "Zinder",
+          "slug": "zinder-ne007"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.984",
+      "lon": "7.812"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE007002",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Damagaram Takaya",
+      "en": "Damagaram Takaya",
+      "slug": "damagaram-takaya-ne007002"
+    },
+    "code": {
+      "id": "NE007002",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE007",
+      "level": 1,
+      "name": {
+        "local": "Zinder",
+        "en": "Zinder",
+        "slug": "zinder-ne007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE007",
+        "level": 1,
+        "name": {
+          "local": "Zinder",
+          "en": "Zinder",
+          "slug": "zinder-ne007"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.05",
+      "lon": "9.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE007003",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Dungass",
+      "en": "Dungass",
+      "slug": "dungass-ne007003"
+    },
+    "code": {
+      "id": "NE007003",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE007",
+      "level": 1,
+      "name": {
+        "local": "Zinder",
+        "en": "Zinder",
+        "slug": "zinder-ne007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE007",
+        "level": 1,
+        "name": {
+          "local": "Zinder",
+          "en": "Zinder",
+          "slug": "zinder-ne007"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.207",
+      "lon": "9.593"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE007004",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Gouré",
+      "en": "Gouré",
+      "slug": "gour-ne007004"
+    },
+    "code": {
+      "id": "NE007004",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE007",
+      "level": 1,
+      "name": {
+        "local": "Zinder",
+        "en": "Zinder",
+        "slug": "zinder-ne007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE007",
+        "level": 1,
+        "name": {
+          "local": "Zinder",
+          "en": "Zinder",
+          "slug": "zinder-ne007"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.05",
+      "lon": "10.493"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE007005",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Kantché",
+      "en": "Kantché",
+      "slug": "kantch-ne007005"
+    },
+    "code": {
+      "id": "NE007005",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE007",
+      "level": 1,
+      "name": {
+        "local": "Zinder",
+        "en": "Zinder",
+        "slug": "zinder-ne007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE007",
+        "level": 1,
+        "name": {
+          "local": "Zinder",
+          "en": "Zinder",
+          "slug": "zinder-ne007"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.414",
+      "lon": "8.565"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE007006",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Magaria",
+      "en": "Magaria",
+      "slug": "magaria-ne007006"
+    },
+    "code": {
+      "id": "NE007006",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE007",
+      "level": 1,
+      "name": {
+        "local": "Zinder",
+        "en": "Zinder",
+        "slug": "zinder-ne007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE007",
+        "level": 1,
+        "name": {
+          "local": "Zinder",
+          "en": "Zinder",
+          "slug": "zinder-ne007"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.059",
+      "lon": "8.819"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE007007",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Mirriah",
+      "en": "Mirriah",
+      "slug": "mirriah-ne007007"
+    },
+    "code": {
+      "id": "NE007007",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE007",
+      "level": 1,
+      "name": {
+        "local": "Zinder",
+        "en": "Zinder",
+        "slug": "zinder-ne007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE007",
+        "level": 1,
+        "name": {
+          "local": "Zinder",
+          "en": "Zinder",
+          "slug": "zinder-ne007"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.629",
+      "lon": "9.29"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE007008",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Takeita",
+      "en": "Takeita",
+      "slug": "takeita-ne007008"
+    },
+    "code": {
+      "id": "NE007008",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE007",
+      "level": 1,
+      "name": {
+        "local": "Zinder",
+        "en": "Zinder",
+        "slug": "zinder-ne007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE007",
+        "level": 1,
+        "name": {
+          "local": "Zinder",
+          "en": "Zinder",
+          "slug": "zinder-ne007"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.937",
+      "lon": "8.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE007009",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Tanout",
+      "en": "Tanout",
+      "slug": "tanout-ne007009"
+    },
+    "code": {
+      "id": "NE007009",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE007",
+      "level": 1,
+      "name": {
+        "local": "Zinder",
+        "en": "Zinder",
+        "slug": "zinder-ne007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE007",
+        "level": 1,
+        "name": {
+          "local": "Zinder",
+          "en": "Zinder",
+          "slug": "zinder-ne007"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.122",
+      "lon": "9.008"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE007010",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Tesker",
+      "en": "Tesker",
+      "slug": "tesker-ne007010"
+    },
+    "code": {
+      "id": "NE007010",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE007",
+      "level": 1,
+      "name": {
+        "local": "Zinder",
+        "en": "Zinder",
+        "slug": "zinder-ne007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE007",
+        "level": 1,
+        "name": {
+          "local": "Zinder",
+          "en": "Zinder",
+          "slug": "zinder-ne007"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.908",
+      "lon": "10.815"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE007011",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Ville de Zinder",
+      "en": "Ville de Zinder",
+      "slug": "ville-de-zinder-ne007011"
+    },
+    "code": {
+      "id": "NE007011",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE007",
+      "level": 1,
+      "name": {
+        "local": "Zinder",
+        "en": "Zinder",
+        "slug": "zinder-ne007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE007",
+        "level": 1,
+        "name": {
+          "local": "Zinder",
+          "en": "Zinder",
+          "slug": "zinder-ne007"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.736",
+      "lon": "9.009"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

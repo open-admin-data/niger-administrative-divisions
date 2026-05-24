@@ -1,0 +1,47 @@
+{
+  "id": "NE007005",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Kantché",
+    "en": "Kantché",
+    "slug": "kantch-ne007005"
+  },
+  "code": {
+    "id": "NE007005",
+    "iso": null
+  },
+  "parent": {
+    "id": "NE007",
+    "level": 1,
+    "name": {
+      "local": "Zinder",
+      "en": "Zinder",
+      "slug": "zinder-ne007"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NE007",
+      "level": 1,
+      "name": {
+        "local": "Zinder",
+        "en": "Zinder",
+        "slug": "zinder-ne007"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.414",
+    "lon": "8.565"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "NE005008",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Malbaza",
+    "en": "Malbaza",
+    "slug": "malbaza-ne005008"
+  },
+  "code": {
+    "id": "NE005008",
+    "iso": null
+  },
+  "parent": {
+    "id": "NE005",
+    "level": 1,
+    "name": {
+      "local": "Tahoua",
+      "en": "Tahoua",
+      "slug": "tahoua-ne005"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NE005",
+      "level": 1,
+      "name": {
+        "local": "Tahoua",
+        "en": "Tahoua",
+        "slug": "tahoua-ne005"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.03",
+    "lon": "5.5"
+  },
+  "metadata": {},
+  "source": {}
+}

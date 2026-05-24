@@ -1,0 +1,326 @@
+[
+  {
+    "id": "NE003003001",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dan-Kassari",
+      "en": "Dan-Kassari",
+      "slug": "dan-kassari-ne003003001"
+    },
+    "code": {
+      "id": "NE003003001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE003003",
+      "level": 2,
+      "name": {
+        "local": "Dogondoutchi",
+        "en": "Dogondoutchi",
+        "slug": "dogondoutchi-ne003003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE003",
+        "level": 1,
+        "name": {
+          "local": "Dosso",
+          "en": "Dosso",
+          "slug": "dosso-ne003"
+        }
+      },
+      {
+        "id": "NE003003",
+        "level": 2,
+        "name": {
+          "local": "Dogondoutchi",
+          "en": "Dogondoutchi",
+          "slug": "dogondoutchi-ne003003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.704",
+      "lon": "4.307"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE003003002",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dogondoutchi",
+      "en": "Dogondoutchi",
+      "slug": "dogondoutchi-ne003003002"
+    },
+    "code": {
+      "id": "NE003003002",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE003003",
+      "level": 2,
+      "name": {
+        "local": "Dogondoutchi",
+        "en": "Dogondoutchi",
+        "slug": "dogondoutchi-ne003003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE003",
+        "level": 1,
+        "name": {
+          "local": "Dosso",
+          "en": "Dosso",
+          "slug": "dosso-ne003"
+        }
+      },
+      {
+        "id": "NE003003",
+        "level": 2,
+        "name": {
+          "local": "Dogondoutchi",
+          "en": "Dogondoutchi",
+          "slug": "dogondoutchi-ne003003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.686",
+      "lon": "3.856"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE003003003",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dogonkiria",
+      "en": "Dogonkiria",
+      "slug": "dogonkiria-ne003003003"
+    },
+    "code": {
+      "id": "NE003003003",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE003003",
+      "level": 2,
+      "name": {
+        "local": "Dogondoutchi",
+        "en": "Dogondoutchi",
+        "slug": "dogondoutchi-ne003003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE003",
+        "level": 1,
+        "name": {
+          "local": "Dosso",
+          "en": "Dosso",
+          "slug": "dosso-ne003"
+        }
+      },
+      {
+        "id": "NE003003",
+        "level": 2,
+        "name": {
+          "local": "Dogondoutchi",
+          "en": "Dogondoutchi",
+          "slug": "dogondoutchi-ne003003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.244",
+      "lon": "4.278"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE003003004",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kiéché",
+      "en": "Kiéché",
+      "slug": "kich-ne003003004"
+    },
+    "code": {
+      "id": "NE003003004",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE003003",
+      "level": 2,
+      "name": {
+        "local": "Dogondoutchi",
+        "en": "Dogondoutchi",
+        "slug": "dogondoutchi-ne003003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE003",
+        "level": 1,
+        "name": {
+          "local": "Dosso",
+          "en": "Dosso",
+          "slug": "dosso-ne003"
+        }
+      },
+      {
+        "id": "NE003003",
+        "level": 2,
+        "name": {
+          "local": "Dogondoutchi",
+          "en": "Dogondoutchi",
+          "slug": "dogondoutchi-ne003003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.458",
+      "lon": "4.022"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE003003005",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Matankari",
+      "en": "Matankari",
+      "slug": "matankari-ne003003005"
+    },
+    "code": {
+      "id": "NE003003005",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE003003",
+      "level": 2,
+      "name": {
+        "local": "Dogondoutchi",
+        "en": "Dogondoutchi",
+        "slug": "dogondoutchi-ne003003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE003",
+        "level": 1,
+        "name": {
+          "local": "Dosso",
+          "en": "Dosso",
+          "slug": "dosso-ne003"
+        }
+      },
+      {
+        "id": "NE003003",
+        "level": 2,
+        "name": {
+          "local": "Dogondoutchi",
+          "en": "Dogondoutchi",
+          "slug": "dogondoutchi-ne003003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.818",
+      "lon": "4.006"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE003003006",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Soucoucoutane",
+      "en": "Soucoucoutane",
+      "slug": "soucoucoutane-ne003003006"
+    },
+    "code": {
+      "id": "NE003003006",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE003003",
+      "level": 2,
+      "name": {
+        "local": "Dogondoutchi",
+        "en": "Dogondoutchi",
+        "slug": "dogondoutchi-ne003003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE003",
+        "level": 1,
+        "name": {
+          "local": "Dosso",
+          "en": "Dosso",
+          "slug": "dosso-ne003"
+        }
+      },
+      {
+        "id": "NE003003",
+        "level": 2,
+        "name": {
+          "local": "Dogondoutchi",
+          "en": "Dogondoutchi",
+          "slug": "dogondoutchi-ne003003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.192",
+      "lon": "3.939"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

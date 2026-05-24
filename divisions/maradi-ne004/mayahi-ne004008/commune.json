@@ -1,0 +1,434 @@
+[
+  {
+    "id": "NE004008001",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Attantane",
+      "en": "Attantane",
+      "slug": "attantane-ne004008001"
+    },
+    "code": {
+      "id": "NE004008001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE004008",
+      "level": 2,
+      "name": {
+        "local": "Mayahi",
+        "en": "Mayahi",
+        "slug": "mayahi-ne004008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE004",
+        "level": 1,
+        "name": {
+          "local": "Maradi",
+          "en": "Maradi",
+          "slug": "maradi-ne004"
+        }
+      },
+      {
+        "id": "NE004008",
+        "level": 2,
+        "name": {
+          "local": "Mayahi",
+          "en": "Mayahi",
+          "slug": "mayahi-ne004008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.102",
+      "lon": "7.49"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE004008002",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "El Allassane Maïreyrey",
+      "en": "El Allassane Maïreyrey",
+      "slug": "el-allassane-mareyrey-ne004008002"
+    },
+    "code": {
+      "id": "NE004008002",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE004008",
+      "level": 2,
+      "name": {
+        "local": "Mayahi",
+        "en": "Mayahi",
+        "slug": "mayahi-ne004008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE004",
+        "level": 1,
+        "name": {
+          "local": "Maradi",
+          "en": "Maradi",
+          "slug": "maradi-ne004"
+        }
+      },
+      {
+        "id": "NE004008",
+        "level": 2,
+        "name": {
+          "local": "Mayahi",
+          "en": "Mayahi",
+          "slug": "mayahi-ne004008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.272",
+      "lon": "7.894"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE004008003",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Guidan Amoumoune",
+      "en": "Guidan Amoumoune",
+      "slug": "guidan-amoumoune-ne004008003"
+    },
+    "code": {
+      "id": "NE004008003",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE004008",
+      "level": 2,
+      "name": {
+        "local": "Mayahi",
+        "en": "Mayahi",
+        "slug": "mayahi-ne004008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE004",
+        "level": 1,
+        "name": {
+          "local": "Maradi",
+          "en": "Maradi",
+          "slug": "maradi-ne004"
+        }
+      },
+      {
+        "id": "NE004008",
+        "level": 2,
+        "name": {
+          "local": "Mayahi",
+          "en": "Mayahi",
+          "slug": "mayahi-ne004008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.296",
+      "lon": "7.308"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE004008004",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Issawane",
+      "en": "Issawane",
+      "slug": "issawane-ne004008004"
+    },
+    "code": {
+      "id": "NE004008004",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE004008",
+      "level": 2,
+      "name": {
+        "local": "Mayahi",
+        "en": "Mayahi",
+        "slug": "mayahi-ne004008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE004",
+        "level": 1,
+        "name": {
+          "local": "Maradi",
+          "en": "Maradi",
+          "slug": "maradi-ne004"
+        }
+      },
+      {
+        "id": "NE004008",
+        "level": 2,
+        "name": {
+          "local": "Mayahi",
+          "en": "Mayahi",
+          "slug": "mayahi-ne004008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.078",
+      "lon": "7.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE004008005",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kanan-Bakaché",
+      "en": "Kanan-Bakaché",
+      "slug": "kanan-bakach-ne004008005"
+    },
+    "code": {
+      "id": "NE004008005",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE004008",
+      "level": 2,
+      "name": {
+        "local": "Mayahi",
+        "en": "Mayahi",
+        "slug": "mayahi-ne004008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE004",
+        "level": 1,
+        "name": {
+          "local": "Maradi",
+          "en": "Maradi",
+          "slug": "maradi-ne004"
+        }
+      },
+      {
+        "id": "NE004008",
+        "level": 2,
+        "name": {
+          "local": "Mayahi",
+          "en": "Mayahi",
+          "slug": "mayahi-ne004008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.867",
+      "lon": "7.862"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE004008006",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mayahi",
+      "en": "Mayahi",
+      "slug": "mayahi-ne004008006"
+    },
+    "code": {
+      "id": "NE004008006",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE004008",
+      "level": 2,
+      "name": {
+        "local": "Mayahi",
+        "en": "Mayahi",
+        "slug": "mayahi-ne004008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE004",
+        "level": 1,
+        "name": {
+          "local": "Maradi",
+          "en": "Maradi",
+          "slug": "maradi-ne004"
+        }
+      },
+      {
+        "id": "NE004008",
+        "level": 2,
+        "name": {
+          "local": "Mayahi",
+          "en": "Mayahi",
+          "slug": "mayahi-ne004008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.959",
+      "lon": "7.575"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE004008007",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sarkin Haoussa",
+      "en": "Sarkin Haoussa",
+      "slug": "sarkin-haoussa-ne004008007"
+    },
+    "code": {
+      "id": "NE004008007",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE004008",
+      "level": 2,
+      "name": {
+        "local": "Mayahi",
+        "en": "Mayahi",
+        "slug": "mayahi-ne004008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE004",
+        "level": 1,
+        "name": {
+          "local": "Maradi",
+          "en": "Maradi",
+          "slug": "maradi-ne004"
+        }
+      },
+      {
+        "id": "NE004008",
+        "level": 2,
+        "name": {
+          "local": "Mayahi",
+          "en": "Mayahi",
+          "slug": "mayahi-ne004008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.832",
+      "lon": "7.479"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE004008008",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tchaké",
+      "en": "Tchaké",
+      "slug": "tchak-ne004008008"
+    },
+    "code": {
+      "id": "NE004008008",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE004008",
+      "level": 2,
+      "name": {
+        "local": "Mayahi",
+        "en": "Mayahi",
+        "slug": "mayahi-ne004008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE004",
+        "level": 1,
+        "name": {
+          "local": "Maradi",
+          "en": "Maradi",
+          "slug": "maradi-ne004"
+        }
+      },
+      {
+        "id": "NE004008",
+        "level": 2,
+        "name": {
+          "local": "Mayahi",
+          "en": "Mayahi",
+          "slug": "mayahi-ne004008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.271",
+      "lon": "7.629"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

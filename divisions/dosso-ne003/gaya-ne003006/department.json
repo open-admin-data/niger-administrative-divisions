@@ -1,0 +1,47 @@
+{
+  "id": "NE003006",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Gaya",
+    "en": "Gaya",
+    "slug": "gaya-ne003006"
+  },
+  "code": {
+    "id": "NE003006",
+    "iso": null
+  },
+  "parent": {
+    "id": "NE003",
+    "level": 1,
+    "name": {
+      "local": "Dosso",
+      "en": "Dosso",
+      "slug": "dosso-ne003"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NE003",
+      "level": 1,
+      "name": {
+        "local": "Dosso",
+        "en": "Dosso",
+        "slug": "dosso-ne003"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.054",
+    "lon": "3.435"
+  },
+  "metadata": {},
+  "source": {}
+}

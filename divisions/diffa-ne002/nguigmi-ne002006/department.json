@@ -1,0 +1,47 @@
+{
+  "id": "NE002006",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "N'Guigmi",
+    "en": "N'Guigmi",
+    "slug": "nguigmi-ne002006"
+  },
+  "code": {
+    "id": "NE002006",
+    "iso": null
+  },
+  "parent": {
+    "id": "NE002",
+    "level": 1,
+    "name": {
+      "local": "Diffa",
+      "en": "Diffa",
+      "slug": "diffa-ne002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NE002",
+      "level": 1,
+      "name": {
+        "local": "Diffa",
+        "en": "Diffa",
+        "slug": "diffa-ne002"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.165",
+    "lon": "12.785"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,326 @@
+[
+  {
+    "id": "NE004006001",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dan-Issa",
+      "en": "Dan-Issa",
+      "slug": "dan-issa-ne004006001"
+    },
+    "code": {
+      "id": "NE004006001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE004006",
+      "level": 2,
+      "name": {
+        "local": "Madarounfa",
+        "en": "Madarounfa",
+        "slug": "madarounfa-ne004006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE004",
+        "level": 1,
+        "name": {
+          "local": "Maradi",
+          "en": "Maradi",
+          "slug": "maradi-ne004"
+        }
+      },
+      {
+        "id": "NE004006",
+        "level": 2,
+        "name": {
+          "local": "Madarounfa",
+          "en": "Madarounfa",
+          "slug": "madarounfa-ne004006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.248",
+      "lon": "7.415"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE004006002",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Djiratawa",
+      "en": "Djiratawa",
+      "slug": "djiratawa-ne004006002"
+    },
+    "code": {
+      "id": "NE004006002",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE004006",
+      "level": 2,
+      "name": {
+        "local": "Madarounfa",
+        "en": "Madarounfa",
+        "slug": "madarounfa-ne004006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE004",
+        "level": 1,
+        "name": {
+          "local": "Maradi",
+          "en": "Maradi",
+          "slug": "maradi-ne004"
+        }
+      },
+      {
+        "id": "NE004006",
+        "level": 2,
+        "name": {
+          "local": "Madarounfa",
+          "en": "Madarounfa",
+          "slug": "madarounfa-ne004006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.454",
+      "lon": "7.299"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE004006003",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Gabi",
+      "en": "Gabi",
+      "slug": "gabi-ne004006003"
+    },
+    "code": {
+      "id": "NE004006003",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE004006",
+      "level": 2,
+      "name": {
+        "local": "Madarounfa",
+        "en": "Madarounfa",
+        "slug": "madarounfa-ne004006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE004",
+        "level": 1,
+        "name": {
+          "local": "Maradi",
+          "en": "Maradi",
+          "slug": "maradi-ne004"
+        }
+      },
+      {
+        "id": "NE004006",
+        "level": 2,
+        "name": {
+          "local": "Madarounfa",
+          "en": "Madarounfa",
+          "slug": "madarounfa-ne004006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.143",
+      "lon": "7.027"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE004006004",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Madarounfa",
+      "en": "Madarounfa",
+      "slug": "madarounfa-ne004006004"
+    },
+    "code": {
+      "id": "NE004006004",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE004006",
+      "level": 2,
+      "name": {
+        "local": "Madarounfa",
+        "en": "Madarounfa",
+        "slug": "madarounfa-ne004006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE004",
+        "level": 1,
+        "name": {
+          "local": "Maradi",
+          "en": "Maradi",
+          "slug": "maradi-ne004"
+        }
+      },
+      {
+        "id": "NE004006",
+        "level": 2,
+        "name": {
+          "local": "Madarounfa",
+          "en": "Madarounfa",
+          "slug": "madarounfa-ne004006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.188",
+      "lon": "7.202"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE004006005",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Safo",
+      "en": "Safo",
+      "slug": "safo-ne004006005"
+    },
+    "code": {
+      "id": "NE004006005",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE004006",
+      "level": 2,
+      "name": {
+        "local": "Madarounfa",
+        "en": "Madarounfa",
+        "slug": "madarounfa-ne004006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE004",
+        "level": 1,
+        "name": {
+          "local": "Maradi",
+          "en": "Maradi",
+          "slug": "maradi-ne004"
+        }
+      },
+      {
+        "id": "NE004006",
+        "level": 2,
+        "name": {
+          "local": "Madarounfa",
+          "en": "Madarounfa",
+          "slug": "madarounfa-ne004006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.285",
+      "lon": "6.915"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE004006006",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sarkin Yamma",
+      "en": "Sarkin Yamma",
+      "slug": "sarkin-yamma-ne004006006"
+    },
+    "code": {
+      "id": "NE004006006",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE004006",
+      "level": 2,
+      "name": {
+        "local": "Madarounfa",
+        "en": "Madarounfa",
+        "slug": "madarounfa-ne004006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE004",
+        "level": 1,
+        "name": {
+          "local": "Maradi",
+          "en": "Maradi",
+          "slug": "maradi-ne004"
+        }
+      },
+      {
+        "id": "NE004006",
+        "level": 2,
+        "name": {
+          "local": "Madarounfa",
+          "en": "Madarounfa",
+          "slug": "madarounfa-ne004006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.418",
+      "lon": "6.968"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

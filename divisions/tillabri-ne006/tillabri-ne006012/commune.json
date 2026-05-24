@@ -1,0 +1,380 @@
+[
+  {
+    "id": "NE006012001",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Anzourou",
+      "en": "Anzourou",
+      "slug": "anzourou-ne006012001"
+    },
+    "code": {
+      "id": "NE006012001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE006012",
+      "level": 2,
+      "name": {
+        "local": "Tillabéri",
+        "en": "Tillabéri",
+        "slug": "tillabri-ne006012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE006",
+        "level": 1,
+        "name": {
+          "local": "Tillabéri",
+          "en": "Tillabéri",
+          "slug": "tillabri-ne006"
+        }
+      },
+      {
+        "id": "NE006012",
+        "level": 2,
+        "name": {
+          "local": "Tillabéri",
+          "en": "Tillabéri",
+          "slug": "tillabri-ne006012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.717",
+      "lon": "1.373"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE006012002",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bibiyergou",
+      "en": "Bibiyergou",
+      "slug": "bibiyergou-ne006012002"
+    },
+    "code": {
+      "id": "NE006012002",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE006012",
+      "level": 2,
+      "name": {
+        "local": "Tillabéri",
+        "en": "Tillabéri",
+        "slug": "tillabri-ne006012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE006",
+        "level": 1,
+        "name": {
+          "local": "Tillabéri",
+          "en": "Tillabéri",
+          "slug": "tillabri-ne006"
+        }
+      },
+      {
+        "id": "NE006012",
+        "level": 2,
+        "name": {
+          "local": "Tillabéri",
+          "en": "Tillabéri",
+          "slug": "tillabri-ne006012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.44",
+      "lon": "1.223"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE006012003",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dessa",
+      "en": "Dessa",
+      "slug": "dessa-ne006012003"
+    },
+    "code": {
+      "id": "NE006012003",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE006012",
+      "level": 2,
+      "name": {
+        "local": "Tillabéri",
+        "en": "Tillabéri",
+        "slug": "tillabri-ne006012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE006",
+        "level": 1,
+        "name": {
+          "local": "Tillabéri",
+          "en": "Tillabéri",
+          "slug": "tillabri-ne006"
+        }
+      },
+      {
+        "id": "NE006012",
+        "level": 2,
+        "name": {
+          "local": "Tillabéri",
+          "en": "Tillabéri",
+          "slug": "tillabri-ne006012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.553",
+      "lon": "1.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE006012004",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kourteye",
+      "en": "Kourteye",
+      "slug": "kourteye-ne006012004"
+    },
+    "code": {
+      "id": "NE006012004",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE006012",
+      "level": 2,
+      "name": {
+        "local": "Tillabéri",
+        "en": "Tillabéri",
+        "slug": "tillabri-ne006012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE006",
+        "level": 1,
+        "name": {
+          "local": "Tillabéri",
+          "en": "Tillabéri",
+          "slug": "tillabri-ne006"
+        }
+      },
+      {
+        "id": "NE006012",
+        "level": 2,
+        "name": {
+          "local": "Tillabéri",
+          "en": "Tillabéri",
+          "slug": "tillabri-ne006012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.959",
+      "lon": "1.694"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE006012005",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sakoïra",
+      "en": "Sakoïra",
+      "slug": "sakora-ne006012005"
+    },
+    "code": {
+      "id": "NE006012005",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE006012",
+      "level": 2,
+      "name": {
+        "local": "Tillabéri",
+        "en": "Tillabéri",
+        "slug": "tillabri-ne006012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE006",
+        "level": 1,
+        "name": {
+          "local": "Tillabéri",
+          "en": "Tillabéri",
+          "slug": "tillabri-ne006"
+        }
+      },
+      {
+        "id": "NE006012",
+        "level": 2,
+        "name": {
+          "local": "Tillabéri",
+          "en": "Tillabéri",
+          "slug": "tillabri-ne006012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.389",
+      "lon": "1.369"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE006012006",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sinder",
+      "en": "Sinder",
+      "slug": "sinder-ne006012006"
+    },
+    "code": {
+      "id": "NE006012006",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE006012",
+      "level": 2,
+      "name": {
+        "local": "Tillabéri",
+        "en": "Tillabéri",
+        "slug": "tillabri-ne006012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE006",
+        "level": 1,
+        "name": {
+          "local": "Tillabéri",
+          "en": "Tillabéri",
+          "slug": "tillabri-ne006"
+        }
+      },
+      {
+        "id": "NE006012",
+        "level": 2,
+        "name": {
+          "local": "Tillabéri",
+          "en": "Tillabéri",
+          "slug": "tillabri-ne006012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.322",
+      "lon": "1.254"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE006012007",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tillabéri",
+      "en": "Tillabéri",
+      "slug": "tillabri-ne006012007"
+    },
+    "code": {
+      "id": "NE006012007",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE006012",
+      "level": 2,
+      "name": {
+        "local": "Tillabéri",
+        "en": "Tillabéri",
+        "slug": "tillabri-ne006012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE006",
+        "level": 1,
+        "name": {
+          "local": "Tillabéri",
+          "en": "Tillabéri",
+          "slug": "tillabri-ne006"
+        }
+      },
+      {
+        "id": "NE006012",
+        "level": 2,
+        "name": {
+          "local": "Tillabéri",
+          "en": "Tillabéri",
+          "slug": "tillabri-ne006012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.255",
+      "lon": "1.623"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

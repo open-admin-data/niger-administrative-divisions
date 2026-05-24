@@ -1,0 +1,284 @@
+# Zinder — Niger Administrative Divisions
+
+> 11 departments, 55 communes
+> Code: NE007
+> Coordinates: 15.219, 9.715
+> Last updated: 2026-05-24. License: CC-BY-4.0.
+
+## Departments
+
+### Belbedji
+
+Code: NE007001, Coordinates: 14.984, 7.812
+Communes: 1
+
+#### Tarka
+
+Code: NE007001001, Coordinates: 14.984, 7.812
+
+### Damagaram Takaya
+
+Code: NE007002, Coordinates: 14.05, 9.507
+Communes: 6
+
+#### Albarkaram
+
+Code: NE007002001, Coordinates: 14.047, 9.284
+
+#### Damagaram Takaya
+
+Code: NE007002002, Coordinates: 14.142, 9.502
+
+#### Guidimouni
+
+Code: NE007002003, Coordinates: 13.843, 9.448
+
+#### Mazamni
+
+Code: NE007002004, Coordinates: 13.939, 9.385
+
+#### Moa
+
+Code: NE007002005, Coordinates: 14.203, 9.785
+
+#### Wamé
+
+Code: NE007002006, Coordinates: 14.219, 9.168
+
+### Dungass
+
+Code: NE007003, Coordinates: 13.207, 9.593
+Communes: 4
+
+#### Dogo-Dogo
+
+Code: NE007003001, Coordinates: 12.915, 9.376
+
+#### Dungass
+
+Code: NE007003002, Coordinates: 13.087, 9.315
+
+#### Gouchi
+
+Code: NE007003003, Coordinates: 13.365, 9.59
+
+#### Malawa
+
+Code: NE007003004, Coordinates: 12.987, 9.685
+
+### Gouré
+
+Code: NE007004, Coordinates: 14.05, 10.493
+Communes: 6
+
+#### Alakoss
+
+Code: NE007004001, Coordinates: 14.605, 9.644
+
+#### Bouné
+
+Code: NE007004002, Coordinates: 13.367, 10.167
+
+#### Gamou
+
+Code: NE007004003, Coordinates: 14.275, 9.917
+
+#### Gouré
+
+Code: NE007004004, Coordinates: 13.883, 10.509
+
+#### Guidiguir
+
+Code: NE007004005, Coordinates: 13.768, 9.888
+
+#### Kellé
+
+Code: NE007004006, Coordinates: 14.363, 10.406
+
+### Kantché
+
+Code: NE007005, Coordinates: 13.414, 8.565
+Communes: 9
+
+#### Dan Barto
+
+Code: NE007005001, Coordinates: 13.225, 8.351
+
+#### Daouché
+
+Code: NE007005002, Coordinates: 13.432, 8.389
+
+#### Doungou
+
+Code: NE007005003, Coordinates: 13.44, 8.692
+
+#### Ichirnawa
+
+Code: NE007005004, Coordinates: 13.537, 8.603
+
+#### Kantché
+
+Code: NE007005005, Coordinates: 13.547, 8.428
+
+#### Kourni
+
+Code: NE007005006, Coordinates: 13.256, 8.481
+
+#### Matamey
+
+Code: NE007005007, Coordinates: 13.386, 8.537
+
+#### Tsaouni
+
+Code: NE007005008, Coordinates: 13.343, 8.419
+
+#### Yaouri
+
+Code: NE007005009, Coordinates: 13.29, 8.637
+
+### Magaria
+
+Code: NE007006, Coordinates: 13.059, 8.819
+Communes: 7
+
+#### Bandé
+
+Code: NE007006001, Coordinates: 13.169, 8.906
+
+#### Dantchiao
+
+Code: NE007006002, Coordinates: 12.962, 9.081
+
+#### Kwaya
+
+Code: NE007006003, Coordinates: 13.165, 8.671
+
+#### Magaria
+
+Code: NE007006004, Coordinates: 12.98, 8.863
+
+#### Sassoumbroum
+
+Code: NE007006005, Coordinates: 13.126, 8.486
+
+#### Wacha
+
+Code: NE007006006, Coordinates: 13.401, 9.337
+
+#### Yékoua
+
+Code: NE007006007, Coordinates: 13.015, 8.676
+
+### Mirriah
+
+Code: NE007007, Coordinates: 13.629, 9.29
+Communes: 8
+
+#### Dogo
+
+Code: NE007007001, Coordinates: 13.427, 8.958
+
+#### Droum
+
+Code: NE007007002, Coordinates: 13.606, 8.809
+
+#### Gaffati
+
+Code: NE007007003, Coordinates: 13.867, 9.184
+
+#### Gouna
+
+Code: NE007007004, Coordinates: 13.485, 9.158
+
+#### Hamdara
+
+Code: NE007007005, Coordinates: 13.655, 9.396
+
+#### Kolleram
+
+Code: NE007007006, Coordinates: 13.679, 9.089
+
+#### Mirriah
+
+Code: NE007007007, Coordinates: 13.663, 9.21
+
+#### Zermou
+
+Code: NE007007008, Coordinates: 13.835, 9.309
+
+### Takeita
+
+Code: NE007008, Coordinates: 13.937, 8.866
+Communes: 3
+
+#### Dakoussa
+
+Code: NE007008001, Coordinates: 14.061, 8.966
+
+#### Garagoumsa
+
+Code: NE007008002, Coordinates: 13.736, 8.406
+
+#### Tirmini
+
+Code: NE007008003, Coordinates: 13.929, 8.725
+
+### Tanout
+
+Code: NE007009, Coordinates: 15.122, 9.008
+Communes: 5
+
+#### Falenko
+
+Code: NE007009001, Coordinates: 14.234, 8.523
+
+#### Gangara
+
+Code: NE007009002, Coordinates: 14.607, 8.355
+
+#### Olléléwa
+
+Code: NE007009003, Coordinates: 14.448, 8.775
+
+#### Tanout
+
+Code: NE007009004, Coordinates: 14.835, 8.921
+
+#### Tenhya
+
+Code: NE007009005, Coordinates: 15.421, 8.976
+
+### Tesker
+
+Code: NE007010, Coordinates: 15.908, 10.815
+Communes: 1
+
+#### Tesker
+
+Code: NE007010001, Coordinates: 15.908, 10.815
+
+### Ville de Zinder
+
+Code: NE007011, Coordinates: 13.736, 9.009
+Communes: 5
+
+#### Zinder I
+
+Code: NE007011001, Coordinates: 13.809, 8.925
+
+#### Zinder II
+
+Code: NE007011002, Coordinates: 13.863, 8.975
+
+#### Zinder III
+
+Code: NE007011003, Coordinates: 13.85, 9.031
+
+#### Zinder IV
+
+Code: NE007011004, Coordinates: 13.774, 9.005
+
+#### Zinder V
+
+Code: NE007011005, Coordinates: 13.652, 9.009
+

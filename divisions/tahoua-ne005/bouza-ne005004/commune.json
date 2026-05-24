@@ -1,0 +1,380 @@
+[
+  {
+    "id": "NE005004001",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Allakaye",
+      "en": "Allakaye",
+      "slug": "allakaye-ne005004001"
+    },
+    "code": {
+      "id": "NE005004001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE005004",
+      "level": 2,
+      "name": {
+        "local": "Bouza",
+        "en": "Bouza",
+        "slug": "bouza-ne005004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE005",
+        "level": 1,
+        "name": {
+          "local": "Tahoua",
+          "en": "Tahoua",
+          "slug": "tahoua-ne005"
+        }
+      },
+      {
+        "id": "NE005004",
+        "level": 2,
+        "name": {
+          "local": "Bouza",
+          "en": "Bouza",
+          "slug": "bouza-ne005004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.377",
+      "lon": "5.708"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE005004002",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Babankatami",
+      "en": "Babankatami",
+      "slug": "babankatami-ne005004002"
+    },
+    "code": {
+      "id": "NE005004002",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE005004",
+      "level": 2,
+      "name": {
+        "local": "Bouza",
+        "en": "Bouza",
+        "slug": "bouza-ne005004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE005",
+        "level": 1,
+        "name": {
+          "local": "Tahoua",
+          "en": "Tahoua",
+          "slug": "tahoua-ne005"
+        }
+      },
+      {
+        "id": "NE005004",
+        "level": 2,
+        "name": {
+          "local": "Bouza",
+          "en": "Bouza",
+          "slug": "bouza-ne005004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.592",
+      "lon": "6.366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE005004003",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bouza",
+      "en": "Bouza",
+      "slug": "bouza-ne005004003"
+    },
+    "code": {
+      "id": "NE005004003",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE005004",
+      "level": 2,
+      "name": {
+        "local": "Bouza",
+        "en": "Bouza",
+        "slug": "bouza-ne005004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE005",
+        "level": 1,
+        "name": {
+          "local": "Tahoua",
+          "en": "Tahoua",
+          "slug": "tahoua-ne005"
+        }
+      },
+      {
+        "id": "NE005004",
+        "level": 2,
+        "name": {
+          "local": "Bouza",
+          "en": "Bouza",
+          "slug": "bouza-ne005004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.37",
+      "lon": "5.98"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE005004004",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Déoulé",
+      "en": "Déoulé",
+      "slug": "doul-ne005004004"
+    },
+    "code": {
+      "id": "NE005004004",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE005004",
+      "level": 2,
+      "name": {
+        "local": "Bouza",
+        "en": "Bouza",
+        "slug": "bouza-ne005004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE005",
+        "level": 1,
+        "name": {
+          "local": "Tahoua",
+          "en": "Tahoua",
+          "slug": "tahoua-ne005"
+        }
+      },
+      {
+        "id": "NE005004",
+        "level": 2,
+        "name": {
+          "local": "Bouza",
+          "en": "Bouza",
+          "slug": "bouza-ne005004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.547",
+      "lon": "6.019"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE005004005",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Karofane",
+      "en": "Karofane",
+      "slug": "karofane-ne005004005"
+    },
+    "code": {
+      "id": "NE005004005",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE005004",
+      "level": 2,
+      "name": {
+        "local": "Bouza",
+        "en": "Bouza",
+        "slug": "bouza-ne005004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE005",
+        "level": 1,
+        "name": {
+          "local": "Tahoua",
+          "en": "Tahoua",
+          "slug": "tahoua-ne005"
+        }
+      },
+      {
+        "id": "NE005004",
+        "level": 2,
+        "name": {
+          "local": "Bouza",
+          "en": "Bouza",
+          "slug": "bouza-ne005004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.333",
+      "lon": "6.224"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE005004006",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tabotaki",
+      "en": "Tabotaki",
+      "slug": "tabotaki-ne005004006"
+    },
+    "code": {
+      "id": "NE005004006",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE005004",
+      "level": 2,
+      "name": {
+        "local": "Bouza",
+        "en": "Bouza",
+        "slug": "bouza-ne005004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE005",
+        "level": 1,
+        "name": {
+          "local": "Tahoua",
+          "en": "Tahoua",
+          "slug": "tahoua-ne005"
+        }
+      },
+      {
+        "id": "NE005004",
+        "level": 2,
+        "name": {
+          "local": "Bouza",
+          "en": "Bouza",
+          "slug": "bouza-ne005004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.576",
+      "lon": "6.138"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE005004007",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tama",
+      "en": "Tama",
+      "slug": "tama-ne005004007"
+    },
+    "code": {
+      "id": "NE005004007",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE005004",
+      "level": 2,
+      "name": {
+        "local": "Bouza",
+        "en": "Bouza",
+        "slug": "bouza-ne005004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE005",
+        "level": 1,
+        "name": {
+          "local": "Tahoua",
+          "en": "Tahoua",
+          "slug": "tahoua-ne005"
+        }
+      },
+      {
+        "id": "NE005004",
+        "level": 2,
+        "name": {
+          "local": "Bouza",
+          "en": "Bouza",
+          "slug": "bouza-ne005004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.31",
+      "lon": "5.802"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

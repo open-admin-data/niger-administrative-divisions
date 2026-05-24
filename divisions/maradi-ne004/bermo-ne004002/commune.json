@@ -1,0 +1,110 @@
+[
+  {
+    "id": "NE004002001",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bermo",
+      "en": "Bermo",
+      "slug": "bermo-ne004002001"
+    },
+    "code": {
+      "id": "NE004002001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE004002",
+      "level": 2,
+      "name": {
+        "local": "Bermo",
+        "en": "Bermo",
+        "slug": "bermo-ne004002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE004",
+        "level": 1,
+        "name": {
+          "local": "Maradi",
+          "en": "Maradi",
+          "slug": "maradi-ne004"
+        }
+      },
+      {
+        "id": "NE004002",
+        "level": 2,
+        "name": {
+          "local": "Bermo",
+          "en": "Bermo",
+          "slug": "bermo-ne004002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.718",
+      "lon": "6.644"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE004002002",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Gadabedji",
+      "en": "Gadabedji",
+      "slug": "gadabedji-ne004002002"
+    },
+    "code": {
+      "id": "NE004002002",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE004002",
+      "level": 2,
+      "name": {
+        "local": "Bermo",
+        "en": "Bermo",
+        "slug": "bermo-ne004002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE004",
+        "level": 1,
+        "name": {
+          "local": "Maradi",
+          "en": "Maradi",
+          "slug": "maradi-ne004"
+        }
+      },
+      {
+        "id": "NE004002",
+        "level": 2,
+        "name": {
+          "local": "Bermo",
+          "en": "Bermo",
+          "slug": "bermo-ne004002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.104",
+      "lon": "7.011"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

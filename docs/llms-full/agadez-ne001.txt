@@ -1,0 +1,99 @@
+# Agadez — Niger Administrative Divisions
+
+> 6 departments, 15 communes
+> Code: NE001
+> Coordinates: 19.427, 10.707
+> Last updated: 2026-05-24. License: CC-BY-4.0.
+
+## Departments
+
+### Aderbissinat
+
+Code: NE001001, Coordinates: 16.464, 8.703
+Communes: 1
+
+#### Aderbissinat
+
+Code: NE001001001, Coordinates: 16.464, 8.703
+
+### Arlit
+
+Code: NE001002, Coordinates: 19.534, 6.963
+Communes: 3
+
+#### Arlit
+
+Code: NE001002001, Coordinates: 18.729, 7.428
+
+#### Dannet
+
+Code: NE001002002, Coordinates: 18.254, 6.912
+
+#### Gougaram
+
+Code: NE001002003, Coordinates: 19.612, 7.008
+
+### Bilma
+
+Code: NE001003, Coordinates: 20.299, 13.487
+Communes: 4
+
+#### Bilma
+
+Code: NE001003001, Coordinates: 18.398, 13.876
+
+#### Dirkou
+
+Code: NE001003002, Coordinates: 19.806, 14.631
+
+#### Djado
+
+Code: NE001003003, Coordinates: 21.582, 13.091
+
+#### Fachi
+
+Code: NE001003004, Coordinates: 18.372, 11.584
+
+### Iferouane
+
+Code: NE001004, Coordinates: 20.519, 9.486
+Communes: 2
+
+#### Iferouane
+
+Code: NE001004001, Coordinates: 20.519, 9.486
+
+#### Timia
+
+Code: NE001004002, Coordinates: 18.398, 9.711
+
+### Ingall
+
+Code: NE001005, Coordinates: 17.431, 6.421
+Communes: 1
+
+#### Ingall
+
+Code: NE001005001, Coordinates: 17.431, 6.421
+
+### Tchirozerine
+
+Code: NE001006, Coordinates: 17.377, 8.549
+Communes: 4
+
+#### Agadez
+
+Code: NE001006001, Coordinates: 16.953, 7.969
+
+#### Dabaga
+
+Code: NE001006002, Coordinates: 17.513, 8.275
+
+#### Tabelot
+
+Code: NE001006003, Coordinates: 17.526, 9.194
+
+#### Tchirozerine
+
+Code: NE001006004, Coordinates: 17.339, 7.775
+

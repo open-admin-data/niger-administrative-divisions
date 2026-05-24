@@ -1,0 +1,47 @@
+{
+  "id": "NE003007",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Loga",
+    "en": "Loga",
+    "slug": "loga-ne003007"
+  },
+  "code": {
+    "id": "NE003007",
+    "iso": null
+  },
+  "parent": {
+    "id": "NE003",
+    "level": 1,
+    "name": {
+      "local": "Dosso",
+      "en": "Dosso",
+      "slug": "dosso-ne003"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NE003",
+      "level": 1,
+      "name": {
+        "local": "Dosso",
+        "en": "Dosso",
+        "slug": "dosso-ne003"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.632",
+    "lon": "3.446"
+  },
+  "metadata": {},
+  "source": {}
+}

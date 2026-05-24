@@ -1,0 +1,221 @@
+# Dosso — Niger Administrative Divisions
+
+> 8 departments, 43 communes
+> Code: NE003
+> Coordinates: 13.167, 3.299
+> Last updated: 2026-05-24. License: CC-BY-4.0.
+
+## Departments
+
+### Boboye
+
+Code: NE003001, Coordinates: 13.167, 2.723
+Communes: 8
+
+#### Birni N&#39;Gaouré
+
+Code: NE003001001, Coordinates: 13.069, 2.874
+
+#### Fabidji
+
+Code: NE003001002, Coordinates: 12.914, 2.793
+
+#### Fakara
+
+Code: NE003001003, Coordinates: 13.139, 2.594
+
+#### Harikanassou
+
+Code: NE003001004, Coordinates: 13.319, 2.855
+
+#### Kankandi
+
+Code: NE003001005, Coordinates: 12.843, 2.956
+
+#### Kiota
+
+Code: NE003001006, Coordinates: 13.288, 2.949
+
+#### Koygolo
+
+Code: NE003001007, Coordinates: 13.501, 2.98
+
+#### N&#39;Gonga
+
+Code: NE003001008, Coordinates: 13.194, 2.847
+
+### Dioundiou
+
+Code: NE003002, Coordinates: 12.659, 3.666
+Communes: 3
+
+#### Dioundiou
+
+Code: NE003002001, Coordinates: 12.512, 3.526
+
+#### Karakara
+
+Code: NE003002002, Coordinates: 12.737, 3.684
+
+#### Zabori
+
+Code: NE003002003, Coordinates: 12.668, 3.589
+
+### Dogondoutchi
+
+Code: NE003003, Coordinates: 13.973, 4.091
+Communes: 6
+
+#### Dan-Kassari
+
+Code: NE003003001, Coordinates: 13.704, 4.307
+
+#### Dogondoutchi
+
+Code: NE003003002, Coordinates: 13.686, 3.856
+
+#### Dogonkiria
+
+Code: NE003003003, Coordinates: 14.244, 4.278
+
+#### Kiéché
+
+Code: NE003003004, Coordinates: 13.458, 4.022
+
+#### Matankari
+
+Code: NE003003005, Coordinates: 13.818, 4.006
+
+#### Soucoucoutane
+
+Code: NE003003006, Coordinates: 14.192, 3.939
+
+### Dosso
+
+Code: NE003004, Coordinates: 12.841, 3.255
+Communes: 11
+
+#### Dosso
+
+Code: NE003004001, Coordinates: 13.034, 3.188
+
+#### Farey
+
+Code: NE003004002, Coordinates: 12.616, 3.271
+
+#### Garankédey
+
+Code: NE003004003, Coordinates: 13.296, 3.095
+
+#### Gollé
+
+Code: NE003004004, Coordinates: 12.749, 3.071
+
+#### Goroubankassam
+
+Code: NE003004005, Coordinates: 13.065, 3.379
+
+#### Karguibangou
+
+Code: NE003004006, Coordinates: 12.901, 3.533
+
+#### Mokko
+
+Code: NE003004007, Coordinates: 13.353, 3.345
+
+#### Sambéra
+
+Code: NE003004008, Coordinates: 12.32, 3.15
+
+#### Tessa
+
+Code: NE003004009, Coordinates: 12.78, 3.404
+
+#### Tombokoirey I
+
+Code: NE003004010, Coordinates: 13.316, 3.545
+
+#### Tombokoirey II
+
+Code: NE003004011, Coordinates: 13.3, 3.685
+
+### Falmey
+
+Code: NE003005, Coordinates: 12.557, 2.848
+Communes: 2
+
+#### Falmey
+
+Code: NE003005001, Coordinates: 12.583, 2.749
+
+#### Guilladjé
+
+Code: NE003005002, Coordinates: 12.512, 2.932
+
+### Gaya
+
+Code: NE003006, Coordinates: 12.054, 3.435
+Communes: 6
+
+#### Bana
+
+Code: NE003006001, Coordinates: 12.056, 3.549
+
+#### Bengou
+
+Code: NE003006002, Coordinates: 11.962, 3.547
+
+#### Gaya
+
+Code: NE003006003, Coordinates: 11.883, 3.487
+
+#### Tanda
+
+Code: NE003006004, Coordinates: 12.054, 3.335
+
+#### Tounouga
+
+Code: NE003006005, Coordinates: 11.813, 3.6
+
+#### Yélou
+
+Code: NE003006006, Coordinates: 12.234, 3.472
+
+### Loga
+
+Code: NE003007, Coordinates: 13.632, 3.446
+Communes: 3
+
+#### Falwel
+
+Code: NE003007001, Coordinates: 13.552, 3.64
+
+#### Loga
+
+Code: NE003007002, Coordinates: 13.734, 3.347
+
+#### Sokorbé
+
+Code: NE003007003, Coordinates: 13.454, 3.154
+
+### Tibiri
+
+Code: NE003008, Coordinates: 13.09, 3.919
+Communes: 4
+
+#### Doumega
+
+Code: NE003008001, Coordinates: 12.981, 3.999
+
+#### Guéchémé
+
+Code: NE003008002, Coordinates: 12.912, 3.807
+
+#### Koré Maïroua
+
+Code: NE003008003, Coordinates: 13.32, 3.929
+
+#### Tibiri
+
+Code: NE003008004, Coordinates: 13.142, 3.955
+

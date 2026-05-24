@@ -1,0 +1,47 @@
+{
+  "id": "NE006004",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Banibangou",
+    "en": "Banibangou",
+    "slug": "banibangou-ne006004"
+  },
+  "code": {
+    "id": "NE006004",
+    "iso": null
+  },
+  "parent": {
+    "id": "NE006",
+    "level": 1,
+    "name": {
+      "local": "Tillabéri",
+      "en": "Tillabéri",
+      "slug": "tillabri-ne006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NE006",
+      "level": 1,
+      "name": {
+        "local": "Tillabéri",
+        "en": "Tillabéri",
+        "slug": "tillabri-ne006"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.035",
+    "lon": "2.457"
+  },
+  "metadata": {},
+  "source": {}
+}

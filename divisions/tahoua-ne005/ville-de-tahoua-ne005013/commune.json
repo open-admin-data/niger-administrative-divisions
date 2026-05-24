@@ -1,0 +1,110 @@
+[
+  {
+    "id": "NE005013001",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tahoua I",
+      "en": "Tahoua I",
+      "slug": "tahoua-i-ne005013001"
+    },
+    "code": {
+      "id": "NE005013001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE005013",
+      "level": 2,
+      "name": {
+        "local": "Ville de Tahoua",
+        "en": "Ville de Tahoua",
+        "slug": "ville-de-tahoua-ne005013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE005",
+        "level": 1,
+        "name": {
+          "local": "Tahoua",
+          "en": "Tahoua",
+          "slug": "tahoua-ne005"
+        }
+      },
+      {
+        "id": "NE005013",
+        "level": 2,
+        "name": {
+          "local": "Ville de Tahoua",
+          "en": "Ville de Tahoua",
+          "slug": "ville-de-tahoua-ne005013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.889",
+      "lon": "5.175"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE005013002",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tahoua II",
+      "en": "Tahoua II",
+      "slug": "tahoua-ii-ne005013002"
+    },
+    "code": {
+      "id": "NE005013002",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE005013",
+      "level": 2,
+      "name": {
+        "local": "Ville de Tahoua",
+        "en": "Ville de Tahoua",
+        "slug": "ville-de-tahoua-ne005013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE005",
+        "level": 1,
+        "name": {
+          "local": "Tahoua",
+          "en": "Tahoua",
+          "slug": "tahoua-ne005"
+        }
+      },
+      {
+        "id": "NE005013",
+        "level": 2,
+        "name": {
+          "local": "Ville de Tahoua",
+          "en": "Ville de Tahoua",
+          "slug": "ville-de-tahoua-ne005013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.889",
+      "lon": "5.312"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

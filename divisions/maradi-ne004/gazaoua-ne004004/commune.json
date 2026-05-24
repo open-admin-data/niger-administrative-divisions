@@ -1,0 +1,110 @@
+[
+  {
+    "id": "NE004004001",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Gangara",
+      "en": "Gangara",
+      "slug": "gangara-ne004004001"
+    },
+    "code": {
+      "id": "NE004004001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE004004",
+      "level": 2,
+      "name": {
+        "local": "Gazaoua",
+        "en": "Gazaoua",
+        "slug": "gazaoua-ne004004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE004",
+        "level": 1,
+        "name": {
+          "local": "Maradi",
+          "en": "Maradi",
+          "slug": "maradi-ne004"
+        }
+      },
+      {
+        "id": "NE004004",
+        "level": 2,
+        "name": {
+          "local": "Gazaoua",
+          "en": "Gazaoua",
+          "slug": "gazaoua-ne004004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.367",
+      "lon": "7.804"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE004004002",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Gazaoua",
+      "en": "Gazaoua",
+      "slug": "gazaoua-ne004004002"
+    },
+    "code": {
+      "id": "NE004004002",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE004004",
+      "level": 2,
+      "name": {
+        "local": "Gazaoua",
+        "en": "Gazaoua",
+        "slug": "gazaoua-ne004004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE004",
+        "level": 1,
+        "name": {
+          "local": "Maradi",
+          "en": "Maradi",
+          "slug": "maradi-ne004"
+        }
+      },
+      {
+        "id": "NE004004",
+        "level": 2,
+        "name": {
+          "local": "Gazaoua",
+          "en": "Gazaoua",
+          "slug": "gazaoua-ne004004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.435",
+      "lon": "8.014"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

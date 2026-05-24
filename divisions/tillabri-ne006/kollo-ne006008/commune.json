@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NE006008001",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bitinkodji",
+      "en": "Bitinkodji",
+      "slug": "bitinkodji-ne006008001"
+    },
+    "code": {
+      "id": "NE006008001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE006008",
+      "level": 2,
+      "name": {
+        "local": "Kollo",
+        "en": "Kollo",
+        "slug": "kollo-ne006008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE006",
+        "level": 1,
+        "name": {
+          "local": "Tillabéri",
+          "en": "Tillabéri",
+          "slug": "tillabri-ne006"
+        }
+      },
+      {
+        "id": "NE006008",
+        "level": 2,
+        "name": {
+          "local": "Kollo",
+          "en": "Kollo",
+          "slug": "kollo-ne006008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.366",
+      "lon": "1.988"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE006008002",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Diantchandou",
+      "en": "Diantchandou",
+      "slug": "diantchandou-ne006008002"
+    },
+    "code": {
+      "id": "NE006008002",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE006008",
+      "level": 2,
+      "name": {
+        "local": "Kollo",
+        "en": "Kollo",
+        "slug": "kollo-ne006008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE006",
+        "level": 1,
+        "name": {
+          "local": "Tillabéri",
+          "en": "Tillabéri",
+          "slug": "tillabri-ne006"
+        }
+      },
+      {
+        "id": "NE006008",
+        "level": 2,
+        "name": {
+          "local": "Kollo",
+          "en": "Kollo",
+          "slug": "kollo-ne006008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.525",
+      "lon": "2.723"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE006008003",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Hamdallaye",
+      "en": "Hamdallaye",
+      "slug": "hamdallaye-ne006008003"
+    },
+    "code": {
+      "id": "NE006008003",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE006008",
+      "level": 2,
+      "name": {
+        "local": "Kollo",
+        "en": "Kollo",
+        "slug": "kollo-ne006008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE006",
+        "level": 1,
+        "name": {
+          "local": "Tillabéri",
+          "en": "Tillabéri",
+          "slug": "tillabri-ne006"
+        }
+      },
+      {
+        "id": "NE006008",
+        "level": 2,
+        "name": {
+          "local": "Kollo",
+          "en": "Kollo",
+          "slug": "kollo-ne006008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.678",
+      "lon": "2.355"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE006008004",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Karma",
+      "en": "Karma",
+      "slug": "karma-ne006008004"
+    },
+    "code": {
+      "id": "NE006008004",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE006008",
+      "level": 2,
+      "name": {
+        "local": "Kollo",
+        "en": "Kollo",
+        "slug": "kollo-ne006008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE006",
+        "level": 1,
+        "name": {
+          "local": "Tillabéri",
+          "en": "Tillabéri",
+          "slug": "tillabri-ne006"
+        }
+      },
+      {
+        "id": "NE006008",
+        "level": 2,
+        "name": {
+          "local": "Kollo",
+          "en": "Kollo",
+          "slug": "kollo-ne006008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.735",
+      "lon": "1.892"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE006008005",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kirtachi",
+      "en": "Kirtachi",
+      "slug": "kirtachi-ne006008005"
+    },
+    "code": {
+      "id": "NE006008005",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE006008",
+      "level": 2,
+      "name": {
+        "local": "Kollo",
+        "en": "Kollo",
+        "slug": "kollo-ne006008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE006",
+        "level": 1,
+        "name": {
+          "local": "Tillabéri",
+          "en": "Tillabéri",
+          "slug": "tillabri-ne006"
+        }
+      },
+      {
+        "id": "NE006008",
+        "level": 2,
+        "name": {
+          "local": "Kollo",
+          "en": "Kollo",
+          "slug": "kollo-ne006008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.811",
+      "lon": "2.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE006008006",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kollo",
+      "en": "Kollo",
+      "slug": "kollo-ne006008006"
+    },
+    "code": {
+      "id": "NE006008006",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE006008",
+      "level": 2,
+      "name": {
+        "local": "Kollo",
+        "en": "Kollo",
+        "slug": "kollo-ne006008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE006",
+        "level": 1,
+        "name": {
+          "local": "Tillabéri",
+          "en": "Tillabéri",
+          "slug": "tillabri-ne006"
+        }
+      },
+      {
+        "id": "NE006008",
+        "level": 2,
+        "name": {
+          "local": "Kollo",
+          "en": "Kollo",
+          "slug": "kollo-ne006008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.263",
+      "lon": "2.422"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE006008007",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kouré",
+      "en": "Kouré",
+      "slug": "kour-ne006008007"
+    },
+    "code": {
+      "id": "NE006008007",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE006008",
+      "level": 2,
+      "name": {
+        "local": "Kollo",
+        "en": "Kollo",
+        "slug": "kollo-ne006008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE006",
+        "level": 1,
+        "name": {
+          "local": "Tillabéri",
+          "en": "Tillabéri",
+          "slug": "tillabri-ne006"
+        }
+      },
+      {
+        "id": "NE006008",
+        "level": 2,
+        "name": {
+          "local": "Kollo",
+          "en": "Kollo",
+          "slug": "kollo-ne006008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.362",
+      "lon": "2.619"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE006008008",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Liboré",
+      "en": "Liboré",
+      "slug": "libor-ne006008008"
+    },
+    "code": {
+      "id": "NE006008008",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE006008",
+      "level": 2,
+      "name": {
+        "local": "Kollo",
+        "en": "Kollo",
+        "slug": "kollo-ne006008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE006",
+        "level": 1,
+        "name": {
+          "local": "Tillabéri",
+          "en": "Tillabéri",
+          "slug": "tillabri-ne006"
+        }
+      },
+      {
+        "id": "NE006008",
+        "level": 2,
+        "name": {
+          "local": "Kollo",
+          "en": "Kollo",
+          "slug": "kollo-ne006008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.511",
+      "lon": "2.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE006008009",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "N'Dounga",
+      "en": "N'Dounga",
+      "slug": "ndounga-ne006008009"
+    },
+    "code": {
+      "id": "NE006008009",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE006008",
+      "level": 2,
+      "name": {
+        "local": "Kollo",
+        "en": "Kollo",
+        "slug": "kollo-ne006008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE006",
+        "level": 1,
+        "name": {
+          "local": "Tillabéri",
+          "en": "Tillabéri",
+          "slug": "tillabri-ne006"
+        }
+      },
+      {
+        "id": "NE006008",
+        "level": 2,
+        "name": {
+          "local": "Kollo",
+          "en": "Kollo",
+          "slug": "kollo-ne006008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.42",
+      "lon": "2.314"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE006008010",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Namaro",
+      "en": "Namaro",
+      "slug": "namaro-ne006008010"
+    },
+    "code": {
+      "id": "NE006008010",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE006008",
+      "level": 2,
+      "name": {
+        "local": "Kollo",
+        "en": "Kollo",
+        "slug": "kollo-ne006008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE006",
+        "level": 1,
+        "name": {
+          "local": "Tillabéri",
+          "en": "Tillabéri",
+          "slug": "tillabri-ne006"
+        }
+      },
+      {
+        "id": "NE006008",
+        "level": 2,
+        "name": {
+          "local": "Kollo",
+          "en": "Kollo",
+          "slug": "kollo-ne006008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.547",
+      "lon": "1.732"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE006008011",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Youri",
+      "en": "Youri",
+      "slug": "youri-ne006008011"
+    },
+    "code": {
+      "id": "NE006008011",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE006008",
+      "level": 2,
+      "name": {
+        "local": "Kollo",
+        "en": "Kollo",
+        "slug": "kollo-ne006008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE006",
+        "level": 1,
+        "name": {
+          "local": "Tillabéri",
+          "en": "Tillabéri",
+          "slug": "tillabri-ne006"
+        }
+      },
+      {
+        "id": "NE006008",
+        "level": 2,
+        "name": {
+          "local": "Kollo",
+          "en": "Kollo",
+          "slug": "kollo-ne006008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.287",
+      "lon": "2.197"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

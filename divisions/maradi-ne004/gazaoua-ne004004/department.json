@@ -1,0 +1,47 @@
+{
+  "id": "NE004004",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Gazaoua",
+    "en": "Gazaoua",
+    "slug": "gazaoua-ne004004"
+  },
+  "code": {
+    "id": "NE004004",
+    "iso": null
+  },
+  "parent": {
+    "id": "NE004",
+    "level": 1,
+    "name": {
+      "local": "Maradi",
+      "en": "Maradi",
+      "slug": "maradi-ne004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NE004",
+      "level": 1,
+      "name": {
+        "local": "Maradi",
+        "en": "Maradi",
+        "slug": "maradi-ne004"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.428",
+    "lon": "7.935"
+  },
+  "metadata": {},
+  "source": {}
+}

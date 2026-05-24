@@ -1,0 +1,326 @@
+[
+  {
+    "id": "NE007002001",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Albarkaram",
+      "en": "Albarkaram",
+      "slug": "albarkaram-ne007002001"
+    },
+    "code": {
+      "id": "NE007002001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE007002",
+      "level": 2,
+      "name": {
+        "local": "Damagaram Takaya",
+        "en": "Damagaram Takaya",
+        "slug": "damagaram-takaya-ne007002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE007",
+        "level": 1,
+        "name": {
+          "local": "Zinder",
+          "en": "Zinder",
+          "slug": "zinder-ne007"
+        }
+      },
+      {
+        "id": "NE007002",
+        "level": 2,
+        "name": {
+          "local": "Damagaram Takaya",
+          "en": "Damagaram Takaya",
+          "slug": "damagaram-takaya-ne007002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.047",
+      "lon": "9.284"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE007002002",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Damagaram Takaya",
+      "en": "Damagaram Takaya",
+      "slug": "damagaram-takaya-ne007002002"
+    },
+    "code": {
+      "id": "NE007002002",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE007002",
+      "level": 2,
+      "name": {
+        "local": "Damagaram Takaya",
+        "en": "Damagaram Takaya",
+        "slug": "damagaram-takaya-ne007002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE007",
+        "level": 1,
+        "name": {
+          "local": "Zinder",
+          "en": "Zinder",
+          "slug": "zinder-ne007"
+        }
+      },
+      {
+        "id": "NE007002",
+        "level": 2,
+        "name": {
+          "local": "Damagaram Takaya",
+          "en": "Damagaram Takaya",
+          "slug": "damagaram-takaya-ne007002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.142",
+      "lon": "9.502"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE007002003",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Guidimouni",
+      "en": "Guidimouni",
+      "slug": "guidimouni-ne007002003"
+    },
+    "code": {
+      "id": "NE007002003",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE007002",
+      "level": 2,
+      "name": {
+        "local": "Damagaram Takaya",
+        "en": "Damagaram Takaya",
+        "slug": "damagaram-takaya-ne007002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE007",
+        "level": 1,
+        "name": {
+          "local": "Zinder",
+          "en": "Zinder",
+          "slug": "zinder-ne007"
+        }
+      },
+      {
+        "id": "NE007002",
+        "level": 2,
+        "name": {
+          "local": "Damagaram Takaya",
+          "en": "Damagaram Takaya",
+          "slug": "damagaram-takaya-ne007002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.843",
+      "lon": "9.448"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE007002004",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mazamni",
+      "en": "Mazamni",
+      "slug": "mazamni-ne007002004"
+    },
+    "code": {
+      "id": "NE007002004",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE007002",
+      "level": 2,
+      "name": {
+        "local": "Damagaram Takaya",
+        "en": "Damagaram Takaya",
+        "slug": "damagaram-takaya-ne007002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE007",
+        "level": 1,
+        "name": {
+          "local": "Zinder",
+          "en": "Zinder",
+          "slug": "zinder-ne007"
+        }
+      },
+      {
+        "id": "NE007002",
+        "level": 2,
+        "name": {
+          "local": "Damagaram Takaya",
+          "en": "Damagaram Takaya",
+          "slug": "damagaram-takaya-ne007002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.939",
+      "lon": "9.385"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE007002005",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Moa",
+      "en": "Moa",
+      "slug": "moa-ne007002005"
+    },
+    "code": {
+      "id": "NE007002005",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE007002",
+      "level": 2,
+      "name": {
+        "local": "Damagaram Takaya",
+        "en": "Damagaram Takaya",
+        "slug": "damagaram-takaya-ne007002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE007",
+        "level": 1,
+        "name": {
+          "local": "Zinder",
+          "en": "Zinder",
+          "slug": "zinder-ne007"
+        }
+      },
+      {
+        "id": "NE007002",
+        "level": 2,
+        "name": {
+          "local": "Damagaram Takaya",
+          "en": "Damagaram Takaya",
+          "slug": "damagaram-takaya-ne007002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.203",
+      "lon": "9.785"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE007002006",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Wamé",
+      "en": "Wamé",
+      "slug": "wam-ne007002006"
+    },
+    "code": {
+      "id": "NE007002006",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE007002",
+      "level": 2,
+      "name": {
+        "local": "Damagaram Takaya",
+        "en": "Damagaram Takaya",
+        "slug": "damagaram-takaya-ne007002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE007",
+        "level": 1,
+        "name": {
+          "local": "Zinder",
+          "en": "Zinder",
+          "slug": "zinder-ne007"
+        }
+      },
+      {
+        "id": "NE007002",
+        "level": 2,
+        "name": {
+          "local": "Damagaram Takaya",
+          "en": "Damagaram Takaya",
+          "slug": "damagaram-takaya-ne007002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.219",
+      "lon": "9.168"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

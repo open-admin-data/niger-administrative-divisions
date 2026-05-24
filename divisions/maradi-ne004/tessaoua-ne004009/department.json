@@ -1,0 +1,47 @@
+{
+  "id": "NE004009",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Tessaoua",
+    "en": "Tessaoua",
+    "slug": "tessaoua-ne004009"
+  },
+  "code": {
+    "id": "NE004009",
+    "iso": null
+  },
+  "parent": {
+    "id": "NE004",
+    "level": 1,
+    "name": {
+      "local": "Maradi",
+      "en": "Maradi",
+      "slug": "maradi-ne004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NE004",
+      "level": 1,
+      "name": {
+        "local": "Maradi",
+        "en": "Maradi",
+        "slug": "maradi-ne004"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.828",
+    "lon": "8.149"
+  },
+  "metadata": {},
+  "source": {}
+}

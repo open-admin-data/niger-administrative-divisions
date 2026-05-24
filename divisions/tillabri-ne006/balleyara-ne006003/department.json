@@ -1,0 +1,47 @@
+{
+  "id": "NE006003",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Balleyara",
+    "en": "Balleyara",
+    "slug": "balleyara-ne006003"
+  },
+  "code": {
+    "id": "NE006003",
+    "iso": null
+  },
+  "parent": {
+    "id": "NE006",
+    "level": 1,
+    "name": {
+      "local": "Tillabéri",
+      "en": "Tillabéri",
+      "slug": "tillabri-ne006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NE006",
+      "level": 1,
+      "name": {
+        "local": "Tillabéri",
+        "en": "Tillabéri",
+        "slug": "tillabri-ne006"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.704",
+    "lon": "2.891"
+  },
+  "metadata": {},
+  "source": {}
+}

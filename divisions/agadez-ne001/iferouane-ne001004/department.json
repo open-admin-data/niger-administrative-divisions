@@ -1,0 +1,47 @@
+{
+  "id": "NE001004",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Iferouane",
+    "en": "Iferouane",
+    "slug": "iferouane-ne001004"
+  },
+  "code": {
+    "id": "NE001004",
+    "iso": null
+  },
+  "parent": {
+    "id": "NE001",
+    "level": 1,
+    "name": {
+      "local": "Agadez",
+      "en": "Agadez",
+      "slug": "agadez-ne001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NE001",
+      "level": 1,
+      "name": {
+        "local": "Agadez",
+        "en": "Agadez",
+        "slug": "agadez-ne001"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.519",
+    "lon": "9.486"
+  },
+  "metadata": {},
+  "source": {}
+}

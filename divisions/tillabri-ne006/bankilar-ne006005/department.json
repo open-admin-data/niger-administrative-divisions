@@ -1,0 +1,47 @@
+{
+  "id": "NE006005",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Bankilaré",
+    "en": "Bankilaré",
+    "slug": "bankilar-ne006005"
+  },
+  "code": {
+    "id": "NE006005",
+    "iso": null
+  },
+  "parent": {
+    "id": "NE006",
+    "level": 1,
+    "name": {
+      "local": "Tillabéri",
+      "en": "Tillabéri",
+      "slug": "tillabri-ne006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NE006",
+      "level": 1,
+      "name": {
+        "local": "Tillabéri",
+        "en": "Tillabéri",
+        "slug": "tillabri-ne006"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.444",
+    "lon": "0.632"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "NE007006",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Magaria",
+    "en": "Magaria",
+    "slug": "magaria-ne007006"
+  },
+  "code": {
+    "id": "NE007006",
+    "iso": null
+  },
+  "parent": {
+    "id": "NE007",
+    "level": 1,
+    "name": {
+      "local": "Zinder",
+      "en": "Zinder",
+      "slug": "zinder-ne007"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NE007",
+      "level": 1,
+      "name": {
+        "local": "Zinder",
+        "en": "Zinder",
+        "slug": "zinder-ne007"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.059",
+    "lon": "8.819"
+  },
+  "metadata": {},
+  "source": {}
+}

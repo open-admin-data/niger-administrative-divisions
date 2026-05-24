@@ -1,0 +1,218 @@
+[
+  {
+    "id": "NE005006001",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Garhanga",
+      "en": "Garhanga",
+      "slug": "garhanga-ne005006001"
+    },
+    "code": {
+      "id": "NE005006001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE005006",
+      "level": 2,
+      "name": {
+        "local": "Keita",
+        "en": "Keita",
+        "slug": "keita-ne005006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE005",
+        "level": 1,
+        "name": {
+          "local": "Tahoua",
+          "en": "Tahoua",
+          "slug": "tahoua-ne005"
+        }
+      },
+      {
+        "id": "NE005006",
+        "level": 2,
+        "name": {
+          "local": "Keita",
+          "en": "Keita",
+          "slug": "keita-ne005006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.63",
+      "lon": "5.815"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE005006002",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ibohamane",
+      "en": "Ibohamane",
+      "slug": "ibohamane-ne005006002"
+    },
+    "code": {
+      "id": "NE005006002",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE005006",
+      "level": 2,
+      "name": {
+        "local": "Keita",
+        "en": "Keita",
+        "slug": "keita-ne005006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE005",
+        "level": 1,
+        "name": {
+          "local": "Tahoua",
+          "en": "Tahoua",
+          "slug": "tahoua-ne005"
+        }
+      },
+      {
+        "id": "NE005006",
+        "level": 2,
+        "name": {
+          "local": "Keita",
+          "en": "Keita",
+          "slug": "keita-ne005006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.834",
+      "lon": "5.965"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE005006003",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Keita",
+      "en": "Keita",
+      "slug": "keita-ne005006003"
+    },
+    "code": {
+      "id": "NE005006003",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE005006",
+      "level": 2,
+      "name": {
+        "local": "Keita",
+        "en": "Keita",
+        "slug": "keita-ne005006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE005",
+        "level": 1,
+        "name": {
+          "local": "Tahoua",
+          "en": "Tahoua",
+          "slug": "tahoua-ne005"
+        }
+      },
+      {
+        "id": "NE005006",
+        "level": 2,
+        "name": {
+          "local": "Keita",
+          "en": "Keita",
+          "slug": "keita-ne005006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.865",
+      "lon": "5.728"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE005006004",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tamaské",
+      "en": "Tamaské",
+      "slug": "tamask-ne005006004"
+    },
+    "code": {
+      "id": "NE005006004",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE005006",
+      "level": 2,
+      "name": {
+        "local": "Keita",
+        "en": "Keita",
+        "slug": "keita-ne005006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE005",
+        "level": 1,
+        "name": {
+          "local": "Tahoua",
+          "en": "Tahoua",
+          "slug": "tahoua-ne005"
+        }
+      },
+      {
+        "id": "NE005006",
+        "level": 2,
+        "name": {
+          "local": "Keita",
+          "en": "Keita",
+          "slug": "keita-ne005006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.66",
+      "lon": "5.598"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

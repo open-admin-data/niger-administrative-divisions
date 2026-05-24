@@ -1,0 +1,650 @@
+[
+  {
+    "id": "NE004003001",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Adjekoria",
+      "en": "Adjekoria",
+      "slug": "adjekoria-ne004003001"
+    },
+    "code": {
+      "id": "NE004003001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE004003",
+      "level": 2,
+      "name": {
+        "local": "Dakoro",
+        "en": "Dakoro",
+        "slug": "dakoro-ne004003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE004",
+        "level": 1,
+        "name": {
+          "local": "Maradi",
+          "en": "Maradi",
+          "slug": "maradi-ne004"
+        }
+      },
+      {
+        "id": "NE004003",
+        "level": 2,
+        "name": {
+          "local": "Dakoro",
+          "en": "Dakoro",
+          "slug": "dakoro-ne004003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.339",
+      "lon": "6.627"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE004003002",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Azagor",
+      "en": "Azagor",
+      "slug": "azagor-ne004003002"
+    },
+    "code": {
+      "id": "NE004003002",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE004003",
+      "level": 2,
+      "name": {
+        "local": "Dakoro",
+        "en": "Dakoro",
+        "slug": "dakoro-ne004003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE004",
+        "level": 1,
+        "name": {
+          "local": "Maradi",
+          "en": "Maradi",
+          "slug": "maradi-ne004"
+        }
+      },
+      {
+        "id": "NE004003",
+        "level": 2,
+        "name": {
+          "local": "Dakoro",
+          "en": "Dakoro",
+          "slug": "dakoro-ne004003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.661",
+      "lon": "6.897"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE004003003",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bader Goula",
+      "en": "Bader Goula",
+      "slug": "bader-goula-ne004003003"
+    },
+    "code": {
+      "id": "NE004003003",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE004003",
+      "level": 2,
+      "name": {
+        "local": "Dakoro",
+        "en": "Dakoro",
+        "slug": "dakoro-ne004003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE004",
+        "level": 1,
+        "name": {
+          "local": "Maradi",
+          "en": "Maradi",
+          "slug": "maradi-ne004"
+        }
+      },
+      {
+        "id": "NE004003",
+        "level": 2,
+        "name": {
+          "local": "Dakoro",
+          "en": "Dakoro",
+          "slug": "dakoro-ne004003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.702",
+      "lon": "7.21"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE004003004",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Birni Lallé",
+      "en": "Birni Lallé",
+      "slug": "birni-lall-ne004003004"
+    },
+    "code": {
+      "id": "NE004003004",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE004003",
+      "level": 2,
+      "name": {
+        "local": "Dakoro",
+        "en": "Dakoro",
+        "slug": "dakoro-ne004003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE004",
+        "level": 1,
+        "name": {
+          "local": "Maradi",
+          "en": "Maradi",
+          "slug": "maradi-ne004"
+        }
+      },
+      {
+        "id": "NE004003",
+        "level": 2,
+        "name": {
+          "local": "Dakoro",
+          "en": "Dakoro",
+          "slug": "dakoro-ne004003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.478",
+      "lon": "6.901"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE004003005",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dakoro",
+      "en": "Dakoro",
+      "slug": "dakoro-ne004003005"
+    },
+    "code": {
+      "id": "NE004003005",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE004003",
+      "level": 2,
+      "name": {
+        "local": "Dakoro",
+        "en": "Dakoro",
+        "slug": "dakoro-ne004003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE004",
+        "level": 1,
+        "name": {
+          "local": "Maradi",
+          "en": "Maradi",
+          "slug": "maradi-ne004"
+        }
+      },
+      {
+        "id": "NE004003",
+        "level": 2,
+        "name": {
+          "local": "Dakoro",
+          "en": "Dakoro",
+          "slug": "dakoro-ne004003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.563",
+      "lon": "6.761"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE004003006",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dan-Goulbi",
+      "en": "Dan-Goulbi",
+      "slug": "dan-goulbi-ne004003006"
+    },
+    "code": {
+      "id": "NE004003006",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE004003",
+      "level": 2,
+      "name": {
+        "local": "Dakoro",
+        "en": "Dakoro",
+        "slug": "dakoro-ne004003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE004",
+        "level": 1,
+        "name": {
+          "local": "Maradi",
+          "en": "Maradi",
+          "slug": "maradi-ne004"
+        }
+      },
+      {
+        "id": "NE004003",
+        "level": 2,
+        "name": {
+          "local": "Dakoro",
+          "en": "Dakoro",
+          "slug": "dakoro-ne004003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.97",
+      "lon": "6.548"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE004003007",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Korahane",
+      "en": "Korahane",
+      "slug": "korahane-ne004003007"
+    },
+    "code": {
+      "id": "NE004003007",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE004003",
+      "level": 2,
+      "name": {
+        "local": "Dakoro",
+        "en": "Dakoro",
+        "slug": "dakoro-ne004003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE004",
+        "level": 1,
+        "name": {
+          "local": "Maradi",
+          "en": "Maradi",
+          "slug": "maradi-ne004"
+        }
+      },
+      {
+        "id": "NE004003",
+        "level": 2,
+        "name": {
+          "local": "Dakoro",
+          "en": "Dakoro",
+          "slug": "dakoro-ne004003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.551",
+      "lon": "6.607"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE004003008",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kornaka",
+      "en": "Kornaka",
+      "slug": "kornaka-ne004003008"
+    },
+    "code": {
+      "id": "NE004003008",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE004003",
+      "level": 2,
+      "name": {
+        "local": "Dakoro",
+        "en": "Dakoro",
+        "slug": "dakoro-ne004003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE004",
+        "level": 1,
+        "name": {
+          "local": "Maradi",
+          "en": "Maradi",
+          "slug": "maradi-ne004"
+        }
+      },
+      {
+        "id": "NE004003",
+        "level": 2,
+        "name": {
+          "local": "Dakoro",
+          "en": "Dakoro",
+          "slug": "dakoro-ne004003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.22",
+      "lon": "7.02"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE004003009",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Maïyara",
+      "en": "Maïyara",
+      "slug": "mayara-ne004003009"
+    },
+    "code": {
+      "id": "NE004003009",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE004003",
+      "level": 2,
+      "name": {
+        "local": "Dakoro",
+        "en": "Dakoro",
+        "slug": "dakoro-ne004003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE004",
+        "level": 1,
+        "name": {
+          "local": "Maradi",
+          "en": "Maradi",
+          "slug": "maradi-ne004"
+        }
+      },
+      {
+        "id": "NE004003",
+        "level": 2,
+        "name": {
+          "local": "Dakoro",
+          "en": "Dakoro",
+          "slug": "dakoro-ne004003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.895",
+      "lon": "7.218"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE004003010",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Roumbou I",
+      "en": "Roumbou I",
+      "slug": "roumbou-i-ne004003010"
+    },
+    "code": {
+      "id": "NE004003010",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE004003",
+      "level": 2,
+      "name": {
+        "local": "Dakoro",
+        "en": "Dakoro",
+        "slug": "dakoro-ne004003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE004",
+        "level": 1,
+        "name": {
+          "local": "Maradi",
+          "en": "Maradi",
+          "slug": "maradi-ne004"
+        }
+      },
+      {
+        "id": "NE004003",
+        "level": 2,
+        "name": {
+          "local": "Dakoro",
+          "en": "Dakoro",
+          "slug": "dakoro-ne004003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.743",
+      "lon": "6.782"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE004003011",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sabon Machi",
+      "en": "Sabon Machi",
+      "slug": "sabon-machi-ne004003011"
+    },
+    "code": {
+      "id": "NE004003011",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE004003",
+      "level": 2,
+      "name": {
+        "local": "Dakoro",
+        "en": "Dakoro",
+        "slug": "dakoro-ne004003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE004",
+        "level": 1,
+        "name": {
+          "local": "Maradi",
+          "en": "Maradi",
+          "slug": "maradi-ne004"
+        }
+      },
+      {
+        "id": "NE004003",
+        "level": 2,
+        "name": {
+          "local": "Dakoro",
+          "en": "Dakoro",
+          "slug": "dakoro-ne004003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.859",
+      "lon": "7.072"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE004003012",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tagriss",
+      "en": "Tagriss",
+      "slug": "tagriss-ne004003012"
+    },
+    "code": {
+      "id": "NE004003012",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE004003",
+      "level": 2,
+      "name": {
+        "local": "Dakoro",
+        "en": "Dakoro",
+        "slug": "dakoro-ne004003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE004",
+        "level": 1,
+        "name": {
+          "local": "Maradi",
+          "en": "Maradi",
+          "slug": "maradi-ne004"
+        }
+      },
+      {
+        "id": "NE004003",
+        "level": 2,
+        "name": {
+          "local": "Dakoro",
+          "en": "Dakoro",
+          "slug": "dakoro-ne004003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.69",
+      "lon": "7.504"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

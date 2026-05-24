@@ -1,0 +1,30 @@
+{
+  "id": "NE008",
+  "level": 1,
+  "level_name": {
+    "local": "Région",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Niamey",
+    "en": "Niamey",
+    "slug": "niamey-ne008"
+  },
+  "code": {
+    "id": "NE008",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "department": 1,
+    "commune": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.526",
+    "lon": "2.119"
+  },
+  "metadata": {},
+  "source": {}
+}

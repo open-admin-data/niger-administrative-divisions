@@ -1,0 +1,9 @@
+id,name.local,name.en,name.slug,code.id,children_count.commune,geo.lat,geo.lon
+NE003001,Boboye,Boboye,boboye-ne003001,NE003001,8,13.167,2.723
+NE003002,Dioundiou,Dioundiou,dioundiou-ne003002,NE003002,3,12.659,3.666
+NE003003,Dogondoutchi,Dogondoutchi,dogondoutchi-ne003003,NE003003,6,13.973,4.091
+NE003004,Dosso,Dosso,dosso-ne003004,NE003004,11,12.841,3.255
+NE003005,Falmey,Falmey,falmey-ne003005,NE003005,2,12.557,2.848
+NE003006,Gaya,Gaya,gaya-ne003006,NE003006,6,12.054,3.435
+NE003007,Loga,Loga,loga-ne003007,NE003007,3,13.632,3.446
+NE003008,Tibiri,Tibiri,tibiri-ne003008,NE003008,4,13.09,3.919

@@ -1,0 +1,425 @@
+[
+  {
+    "id": "NE004001",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Aguié",
+      "en": "Aguié",
+      "slug": "agui-ne004001"
+    },
+    "code": {
+      "id": "NE004001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE004",
+      "level": 1,
+      "name": {
+        "local": "Maradi",
+        "en": "Maradi",
+        "slug": "maradi-ne004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE004",
+        "level": 1,
+        "name": {
+          "local": "Maradi",
+          "en": "Maradi",
+          "slug": "maradi-ne004"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.482",
+      "lon": "7.631"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE004002",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Bermo",
+      "en": "Bermo",
+      "slug": "bermo-ne004002"
+    },
+    "code": {
+      "id": "NE004002",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE004",
+      "level": 1,
+      "name": {
+        "local": "Maradi",
+        "en": "Maradi",
+        "slug": "maradi-ne004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE004",
+        "level": 1,
+        "name": {
+          "local": "Maradi",
+          "en": "Maradi",
+          "slug": "maradi-ne004"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.972",
+      "lon": "6.975"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE004003",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Dakoro",
+      "en": "Dakoro",
+      "slug": "dakoro-ne004003"
+    },
+    "code": {
+      "id": "NE004003",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE004",
+      "level": 1,
+      "name": {
+        "local": "Maradi",
+        "en": "Maradi",
+        "slug": "maradi-ne004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE004",
+        "level": 1,
+        "name": {
+          "local": "Maradi",
+          "en": "Maradi",
+          "slug": "maradi-ne004"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.374",
+      "lon": "6.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE004004",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Gazaoua",
+      "en": "Gazaoua",
+      "slug": "gazaoua-ne004004"
+    },
+    "code": {
+      "id": "NE004004",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE004",
+      "level": 1,
+      "name": {
+        "local": "Maradi",
+        "en": "Maradi",
+        "slug": "maradi-ne004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE004",
+        "level": 1,
+        "name": {
+          "local": "Maradi",
+          "en": "Maradi",
+          "slug": "maradi-ne004"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.428",
+      "lon": "7.935"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE004005",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Guidan Roumdji",
+      "en": "Guidan Roumdji",
+      "slug": "guidan-roumdji-ne004005"
+    },
+    "code": {
+      "id": "NE004005",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE004",
+      "level": 1,
+      "name": {
+        "local": "Maradi",
+        "en": "Maradi",
+        "slug": "maradi-ne004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE004",
+        "level": 1,
+        "name": {
+          "local": "Maradi",
+          "en": "Maradi",
+          "slug": "maradi-ne004"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.57",
+      "lon": "6.959"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE004006",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Madarounfa",
+      "en": "Madarounfa",
+      "slug": "madarounfa-ne004006"
+    },
+    "code": {
+      "id": "NE004006",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE004",
+      "level": 1,
+      "name": {
+        "local": "Maradi",
+        "en": "Maradi",
+        "slug": "maradi-ne004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE004",
+        "level": 1,
+        "name": {
+          "local": "Maradi",
+          "en": "Maradi",
+          "slug": "maradi-ne004"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.269",
+      "lon": "7.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE004008",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Mayahi",
+      "en": "Mayahi",
+      "slug": "mayahi-ne004008"
+    },
+    "code": {
+      "id": "NE004008",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE004",
+      "level": 1,
+      "name": {
+        "local": "Maradi",
+        "en": "Maradi",
+        "slug": "maradi-ne004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE004",
+        "level": 1,
+        "name": {
+          "local": "Maradi",
+          "en": "Maradi",
+          "slug": "maradi-ne004"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.129",
+      "lon": "7.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE004009",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Tessaoua",
+      "en": "Tessaoua",
+      "slug": "tessaoua-ne004009"
+    },
+    "code": {
+      "id": "NE004009",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE004",
+      "level": 1,
+      "name": {
+        "local": "Maradi",
+        "en": "Maradi",
+        "slug": "maradi-ne004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE004",
+        "level": 1,
+        "name": {
+          "local": "Maradi",
+          "en": "Maradi",
+          "slug": "maradi-ne004"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.828",
+      "lon": "8.149"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE004007",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Ville de Maradi",
+      "en": "Ville de Maradi",
+      "slug": "ville-de-maradi-ne004007"
+    },
+    "code": {
+      "id": "NE004007",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE004",
+      "level": 1,
+      "name": {
+        "local": "Maradi",
+        "en": "Maradi",
+        "slug": "maradi-ne004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE004",
+        "level": 1,
+        "name": {
+          "local": "Maradi",
+          "en": "Maradi",
+          "slug": "maradi-ne004"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.49",
+      "lon": "7.125"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

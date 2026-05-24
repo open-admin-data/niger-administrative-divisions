@@ -1,0 +1,56 @@
+[
+  {
+    "id": "NE005012001",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tillia",
+      "en": "Tillia",
+      "slug": "tillia-ne005012001"
+    },
+    "code": {
+      "id": "NE005012001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE005012",
+      "level": 2,
+      "name": {
+        "local": "Tillia",
+        "en": "Tillia",
+        "slug": "tillia-ne005012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE005",
+        "level": 1,
+        "name": {
+          "local": "Tahoua",
+          "en": "Tahoua",
+          "slug": "tahoua-ne005"
+        }
+      },
+      {
+        "id": "NE005012",
+        "level": 2,
+        "name": {
+          "local": "Tillia",
+          "en": "Tillia",
+          "slug": "tillia-ne005012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.899",
+      "lon": "4.616"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

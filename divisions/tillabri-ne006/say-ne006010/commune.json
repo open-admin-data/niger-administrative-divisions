@@ -1,0 +1,164 @@
+[
+  {
+    "id": "NE006010001",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouro Guéladjo",
+      "en": "Ouro Guéladjo",
+      "slug": "ouro-guladjo-ne006010001"
+    },
+    "code": {
+      "id": "NE006010001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE006010",
+      "level": 2,
+      "name": {
+        "local": "Say",
+        "en": "Say",
+        "slug": "say-ne006010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE006",
+        "level": 1,
+        "name": {
+          "local": "Tillabéri",
+          "en": "Tillabéri",
+          "slug": "tillabri-ne006"
+        }
+      },
+      {
+        "id": "NE006010",
+        "level": 2,
+        "name": {
+          "local": "Say",
+          "en": "Say",
+          "slug": "say-ne006010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.931",
+      "lon": "1.881"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE006010002",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Say",
+      "en": "Say",
+      "slug": "say-ne006010002"
+    },
+    "code": {
+      "id": "NE006010002",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE006010",
+      "level": 2,
+      "name": {
+        "local": "Say",
+        "en": "Say",
+        "slug": "say-ne006010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE006",
+        "level": 1,
+        "name": {
+          "local": "Tillabéri",
+          "en": "Tillabéri",
+          "slug": "tillabri-ne006"
+        }
+      },
+      {
+        "id": "NE006010",
+        "level": 2,
+        "name": {
+          "local": "Say",
+          "en": "Say",
+          "slug": "say-ne006010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.129",
+      "lon": "2.244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE006010003",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tamou",
+      "en": "Tamou",
+      "slug": "tamou-ne006010003"
+    },
+    "code": {
+      "id": "NE006010003",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE006010",
+      "level": 2,
+      "name": {
+        "local": "Say",
+        "en": "Say",
+        "slug": "say-ne006010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE006",
+        "level": 1,
+        "name": {
+          "local": "Tillabéri",
+          "en": "Tillabéri",
+          "slug": "tillabri-ne006"
+        }
+      },
+      {
+        "id": "NE006010",
+        "level": 2,
+        "name": {
+          "local": "Say",
+          "en": "Say",
+          "slug": "say-ne006010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.459",
+      "lon": "2.502"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "NE003003",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Dogondoutchi",
+    "en": "Dogondoutchi",
+    "slug": "dogondoutchi-ne003003"
+  },
+  "code": {
+    "id": "NE003003",
+    "iso": null
+  },
+  "parent": {
+    "id": "NE003",
+    "level": 1,
+    "name": {
+      "local": "Dosso",
+      "en": "Dosso",
+      "slug": "dosso-ne003"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NE003",
+      "level": 1,
+      "name": {
+        "local": "Dosso",
+        "en": "Dosso",
+        "slug": "dosso-ne003"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.973",
+    "lon": "4.091"
+  },
+  "metadata": {},
+  "source": {}
+}

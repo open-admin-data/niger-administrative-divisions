@@ -1,0 +1,164 @@
+[
+  {
+    "id": "NE001002001",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Arlit",
+      "en": "Arlit",
+      "slug": "arlit-ne001002001"
+    },
+    "code": {
+      "id": "NE001002001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE001002",
+      "level": 2,
+      "name": {
+        "local": "Arlit",
+        "en": "Arlit",
+        "slug": "arlit-ne001002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE001",
+        "level": 1,
+        "name": {
+          "local": "Agadez",
+          "en": "Agadez",
+          "slug": "agadez-ne001"
+        }
+      },
+      {
+        "id": "NE001002",
+        "level": 2,
+        "name": {
+          "local": "Arlit",
+          "en": "Arlit",
+          "slug": "arlit-ne001002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.729",
+      "lon": "7.428"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE001002002",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dannet",
+      "en": "Dannet",
+      "slug": "dannet-ne001002002"
+    },
+    "code": {
+      "id": "NE001002002",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE001002",
+      "level": 2,
+      "name": {
+        "local": "Arlit",
+        "en": "Arlit",
+        "slug": "arlit-ne001002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE001",
+        "level": 1,
+        "name": {
+          "local": "Agadez",
+          "en": "Agadez",
+          "slug": "agadez-ne001"
+        }
+      },
+      {
+        "id": "NE001002",
+        "level": 2,
+        "name": {
+          "local": "Arlit",
+          "en": "Arlit",
+          "slug": "arlit-ne001002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.254",
+      "lon": "6.912"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE001002003",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Gougaram",
+      "en": "Gougaram",
+      "slug": "gougaram-ne001002003"
+    },
+    "code": {
+      "id": "NE001002003",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE001002",
+      "level": 2,
+      "name": {
+        "local": "Arlit",
+        "en": "Arlit",
+        "slug": "arlit-ne001002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE001",
+        "level": 1,
+        "name": {
+          "local": "Agadez",
+          "en": "Agadez",
+          "slug": "agadez-ne001"
+        }
+      },
+      {
+        "id": "NE001002",
+        "level": 2,
+        "name": {
+          "local": "Arlit",
+          "en": "Arlit",
+          "slug": "arlit-ne001002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.612",
+      "lon": "7.008"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

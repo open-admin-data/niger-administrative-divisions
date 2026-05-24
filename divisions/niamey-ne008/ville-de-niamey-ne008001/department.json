@@ -1,0 +1,47 @@
+{
+  "id": "NE008001",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Ville de Niamey",
+    "en": "Ville de Niamey",
+    "slug": "ville-de-niamey-ne008001"
+  },
+  "code": {
+    "id": "NE008001",
+    "iso": null
+  },
+  "parent": {
+    "id": "NE008",
+    "level": 1,
+    "name": {
+      "local": "Niamey",
+      "en": "Niamey",
+      "slug": "niamey-ne008"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NE008",
+      "level": 1,
+      "name": {
+        "local": "Niamey",
+        "en": "Niamey",
+        "slug": "niamey-ne008"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.526",
+    "lon": "2.119"
+  },
+  "metadata": {},
+  "source": {}
+}

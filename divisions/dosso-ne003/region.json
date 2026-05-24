@@ -1,0 +1,30 @@
+{
+  "id": "NE003",
+  "level": 1,
+  "level_name": {
+    "local": "Région",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Dosso",
+    "en": "Dosso",
+    "slug": "dosso-ne003"
+  },
+  "code": {
+    "id": "NE003",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "department": 8,
+    "commune": 43
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.167",
+    "lon": "3.299"
+  },
+  "metadata": {},
+  "source": {}
+}

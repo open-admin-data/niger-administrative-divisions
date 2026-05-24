@@ -1,0 +1,110 @@
+[
+  {
+    "id": "NE004001001",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Aguié",
+      "en": "Aguié",
+      "slug": "agui-ne004001001"
+    },
+    "code": {
+      "id": "NE004001001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE004001",
+      "level": 2,
+      "name": {
+        "local": "Aguié",
+        "en": "Aguié",
+        "slug": "agui-ne004001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE004",
+        "level": 1,
+        "name": {
+          "local": "Maradi",
+          "en": "Maradi",
+          "slug": "maradi-ne004"
+        }
+      },
+      {
+        "id": "NE004001",
+        "level": 2,
+        "name": {
+          "local": "Aguié",
+          "en": "Aguié",
+          "slug": "agui-ne004001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.481",
+      "lon": "7.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE004001002",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tchadoua",
+      "en": "Tchadoua",
+      "slug": "tchadoua-ne004001002"
+    },
+    "code": {
+      "id": "NE004001002",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE004001",
+      "level": 2,
+      "name": {
+        "local": "Aguié",
+        "en": "Aguié",
+        "slug": "agui-ne004001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE004",
+        "level": 1,
+        "name": {
+          "local": "Maradi",
+          "en": "Maradi",
+          "slug": "maradi-ne004"
+        }
+      },
+      {
+        "id": "NE004001",
+        "level": 2,
+        "name": {
+          "local": "Aguié",
+          "en": "Aguié",
+          "slug": "agui-ne004001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.513",
+      "lon": "7.499"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

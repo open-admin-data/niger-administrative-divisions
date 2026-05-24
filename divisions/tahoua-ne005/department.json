@@ -1,0 +1,613 @@
+[
+  {
+    "id": "NE005001",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Abalak",
+      "en": "Abalak",
+      "slug": "abalak-ne005001"
+    },
+    "code": {
+      "id": "NE005001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE005",
+      "level": 1,
+      "name": {
+        "local": "Tahoua",
+        "en": "Tahoua",
+        "slug": "tahoua-ne005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE005",
+        "level": 1,
+        "name": {
+          "local": "Tahoua",
+          "en": "Tahoua",
+          "slug": "tahoua-ne005"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.463",
+      "lon": "6.249"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE005002",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Bagaroua",
+      "en": "Bagaroua",
+      "slug": "bagaroua-ne005002"
+    },
+    "code": {
+      "id": "NE005002",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE005",
+      "level": 1,
+      "name": {
+        "local": "Tahoua",
+        "en": "Tahoua",
+        "slug": "tahoua-ne005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE005",
+        "level": 1,
+        "name": {
+          "local": "Tahoua",
+          "en": "Tahoua",
+          "slug": "tahoua-ne005"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.37",
+      "lon": "4.663"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE005003",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Birni N'Konni",
+      "en": "Birni N'Konni",
+      "slug": "birni-nkonni-ne005003"
+    },
+    "code": {
+      "id": "NE005003",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE005",
+      "level": 1,
+      "name": {
+        "local": "Tahoua",
+        "en": "Tahoua",
+        "slug": "tahoua-ne005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE005",
+        "level": 1,
+        "name": {
+          "local": "Tahoua",
+          "en": "Tahoua",
+          "slug": "tahoua-ne005"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.92",
+      "lon": "5.038"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE005004",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Bouza",
+      "en": "Bouza",
+      "slug": "bouza-ne005004"
+    },
+    "code": {
+      "id": "NE005004",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE005",
+      "level": 1,
+      "name": {
+        "local": "Tahoua",
+        "en": "Tahoua",
+        "slug": "tahoua-ne005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE005",
+        "level": 1,
+        "name": {
+          "local": "Tahoua",
+          "en": "Tahoua",
+          "slug": "tahoua-ne005"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.499",
+      "lon": "6.085"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE005005",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Illéla",
+      "en": "Illéla",
+      "slug": "illla-ne005005"
+    },
+    "code": {
+      "id": "NE005005",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE005",
+      "level": 1,
+      "name": {
+        "local": "Tahoua",
+        "en": "Tahoua",
+        "slug": "tahoua-ne005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE005",
+        "level": 1,
+        "name": {
+          "local": "Tahoua",
+          "en": "Tahoua",
+          "slug": "tahoua-ne005"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.277",
+      "lon": "5.269"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE005006",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Keita",
+      "en": "Keita",
+      "slug": "keita-ne005006"
+    },
+    "code": {
+      "id": "NE005006",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE005",
+      "level": 1,
+      "name": {
+        "local": "Tahoua",
+        "en": "Tahoua",
+        "slug": "tahoua-ne005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE005",
+        "level": 1,
+        "name": {
+          "local": "Tahoua",
+          "en": "Tahoua",
+          "slug": "tahoua-ne005"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.771",
+      "lon": "5.919"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE005007",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Madaoua",
+      "en": "Madaoua",
+      "slug": "madaoua-ne005007"
+    },
+    "code": {
+      "id": "NE005007",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE005",
+      "level": 1,
+      "name": {
+        "local": "Tahoua",
+        "en": "Tahoua",
+        "slug": "tahoua-ne005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE005",
+        "level": 1,
+        "name": {
+          "local": "Tahoua",
+          "en": "Tahoua",
+          "slug": "tahoua-ne005"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.001",
+      "lon": "6.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE005008",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Malbaza",
+      "en": "Malbaza",
+      "slug": "malbaza-ne005008"
+    },
+    "code": {
+      "id": "NE005008",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE005",
+      "level": 1,
+      "name": {
+        "local": "Tahoua",
+        "en": "Tahoua",
+        "slug": "tahoua-ne005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE005",
+        "level": 1,
+        "name": {
+          "local": "Tahoua",
+          "en": "Tahoua",
+          "slug": "tahoua-ne005"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.03",
+      "lon": "5.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE005009",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Tahoua",
+      "en": "Tahoua",
+      "slug": "tahoua-ne005009"
+    },
+    "code": {
+      "id": "NE005009",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE005",
+      "level": 1,
+      "name": {
+        "local": "Tahoua",
+        "en": "Tahoua",
+        "slug": "tahoua-ne005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE005",
+        "level": 1,
+        "name": {
+          "local": "Tahoua",
+          "en": "Tahoua",
+          "slug": "tahoua-ne005"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.977",
+      "lon": "4.618"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE005010",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Tassara",
+      "en": "Tassara",
+      "slug": "tassara-ne005010"
+    },
+    "code": {
+      "id": "NE005010",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE005",
+      "level": 1,
+      "name": {
+        "local": "Tahoua",
+        "en": "Tahoua",
+        "slug": "tahoua-ne005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE005",
+        "level": 1,
+        "name": {
+          "local": "Tahoua",
+          "en": "Tahoua",
+          "slug": "tahoua-ne005"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.485",
+      "lon": "4.73"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE005011",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Tchintabaraden",
+      "en": "Tchintabaraden",
+      "slug": "tchintabaraden-ne005011"
+    },
+    "code": {
+      "id": "NE005011",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE005",
+      "level": 1,
+      "name": {
+        "local": "Tahoua",
+        "en": "Tahoua",
+        "slug": "tahoua-ne005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE005",
+        "level": 1,
+        "name": {
+          "local": "Tahoua",
+          "en": "Tahoua",
+          "slug": "tahoua-ne005"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.959",
+      "lon": "5.644"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE005012",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Tillia",
+      "en": "Tillia",
+      "slug": "tillia-ne005012"
+    },
+    "code": {
+      "id": "NE005012",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE005",
+      "level": 1,
+      "name": {
+        "local": "Tahoua",
+        "en": "Tahoua",
+        "slug": "tahoua-ne005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE005",
+        "level": 1,
+        "name": {
+          "local": "Tahoua",
+          "en": "Tahoua",
+          "slug": "tahoua-ne005"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.899",
+      "lon": "4.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE005013",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Ville de Tahoua",
+      "en": "Ville de Tahoua",
+      "slug": "ville-de-tahoua-ne005013"
+    },
+    "code": {
+      "id": "NE005013",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE005",
+      "level": 1,
+      "name": {
+        "local": "Tahoua",
+        "en": "Tahoua",
+        "slug": "tahoua-ne005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE005",
+        "level": 1,
+        "name": {
+          "local": "Tahoua",
+          "en": "Tahoua",
+          "slug": "tahoua-ne005"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.882",
+      "lon": "5.234"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

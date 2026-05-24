@@ -1,0 +1,47 @@
+{
+  "id": "NE007002",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Damagaram Takaya",
+    "en": "Damagaram Takaya",
+    "slug": "damagaram-takaya-ne007002"
+  },
+  "code": {
+    "id": "NE007002",
+    "iso": null
+  },
+  "parent": {
+    "id": "NE007",
+    "level": 1,
+    "name": {
+      "local": "Zinder",
+      "en": "Zinder",
+      "slug": "zinder-ne007"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NE007",
+      "level": 1,
+      "name": {
+        "local": "Zinder",
+        "en": "Zinder",
+        "slug": "zinder-ne007"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.05",
+    "lon": "9.507"
+  },
+  "metadata": {},
+  "source": {}
+}

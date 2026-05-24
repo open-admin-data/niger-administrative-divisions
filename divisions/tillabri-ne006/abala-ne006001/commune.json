@@ -1,0 +1,110 @@
+[
+  {
+    "id": "NE006001001",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Abala",
+      "en": "Abala",
+      "slug": "abala-ne006001001"
+    },
+    "code": {
+      "id": "NE006001001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE006001",
+      "level": 2,
+      "name": {
+        "local": "Abala",
+        "en": "Abala",
+        "slug": "abala-ne006001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE006",
+        "level": 1,
+        "name": {
+          "local": "Tillabéri",
+          "en": "Tillabéri",
+          "slug": "tillabri-ne006"
+        }
+      },
+      {
+        "id": "NE006001",
+        "level": 2,
+        "name": {
+          "local": "Abala",
+          "en": "Abala",
+          "slug": "abala-ne006001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.919",
+      "lon": "3.294"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE006001002",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sanam",
+      "en": "Sanam",
+      "slug": "sanam-ne006001002"
+    },
+    "code": {
+      "id": "NE006001002",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE006001",
+      "level": 2,
+      "name": {
+        "local": "Abala",
+        "en": "Abala",
+        "slug": "abala-ne006001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE006",
+        "level": 1,
+        "name": {
+          "local": "Tillabéri",
+          "en": "Tillabéri",
+          "slug": "tillabri-ne006"
+        }
+      },
+      {
+        "id": "NE006001",
+        "level": 2,
+        "name": {
+          "local": "Abala",
+          "en": "Abala",
+          "slug": "abala-ne006001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.069",
+      "lon": "3.907"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "NE005006",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Keita",
+    "en": "Keita",
+    "slug": "keita-ne005006"
+  },
+  "code": {
+    "id": "NE005006",
+    "iso": null
+  },
+  "parent": {
+    "id": "NE005",
+    "level": 1,
+    "name": {
+      "local": "Tahoua",
+      "en": "Tahoua",
+      "slug": "tahoua-ne005"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NE005",
+      "level": 1,
+      "name": {
+        "local": "Tahoua",
+        "en": "Tahoua",
+        "slug": "tahoua-ne005"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.771",
+    "lon": "5.919"
+  },
+  "metadata": {},
+  "source": {}
+}

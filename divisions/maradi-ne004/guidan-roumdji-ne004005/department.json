@@ -1,0 +1,47 @@
+{
+  "id": "NE004005",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Guidan Roumdji",
+    "en": "Guidan Roumdji",
+    "slug": "guidan-roumdji-ne004005"
+  },
+  "code": {
+    "id": "NE004005",
+    "iso": null
+  },
+  "parent": {
+    "id": "NE004",
+    "level": 1,
+    "name": {
+      "local": "Maradi",
+      "en": "Maradi",
+      "slug": "maradi-ne004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NE004",
+      "level": 1,
+      "name": {
+        "local": "Maradi",
+        "en": "Maradi",
+        "slug": "maradi-ne004"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.57",
+    "lon": "6.959"
+  },
+  "metadata": {},
+  "source": {}
+}

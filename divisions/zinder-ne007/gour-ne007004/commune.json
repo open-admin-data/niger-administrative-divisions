@@ -1,0 +1,326 @@
+[
+  {
+    "id": "NE007004001",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Alakoss",
+      "en": "Alakoss",
+      "slug": "alakoss-ne007004001"
+    },
+    "code": {
+      "id": "NE007004001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE007004",
+      "level": 2,
+      "name": {
+        "local": "Gouré",
+        "en": "Gouré",
+        "slug": "gour-ne007004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE007",
+        "level": 1,
+        "name": {
+          "local": "Zinder",
+          "en": "Zinder",
+          "slug": "zinder-ne007"
+        }
+      },
+      {
+        "id": "NE007004",
+        "level": 2,
+        "name": {
+          "local": "Gouré",
+          "en": "Gouré",
+          "slug": "gour-ne007004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.605",
+      "lon": "9.644"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE007004002",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bouné",
+      "en": "Bouné",
+      "slug": "boun-ne007004002"
+    },
+    "code": {
+      "id": "NE007004002",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE007004",
+      "level": 2,
+      "name": {
+        "local": "Gouré",
+        "en": "Gouré",
+        "slug": "gour-ne007004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE007",
+        "level": 1,
+        "name": {
+          "local": "Zinder",
+          "en": "Zinder",
+          "slug": "zinder-ne007"
+        }
+      },
+      {
+        "id": "NE007004",
+        "level": 2,
+        "name": {
+          "local": "Gouré",
+          "en": "Gouré",
+          "slug": "gour-ne007004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.367",
+      "lon": "10.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE007004003",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Gamou",
+      "en": "Gamou",
+      "slug": "gamou-ne007004003"
+    },
+    "code": {
+      "id": "NE007004003",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE007004",
+      "level": 2,
+      "name": {
+        "local": "Gouré",
+        "en": "Gouré",
+        "slug": "gour-ne007004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE007",
+        "level": 1,
+        "name": {
+          "local": "Zinder",
+          "en": "Zinder",
+          "slug": "zinder-ne007"
+        }
+      },
+      {
+        "id": "NE007004",
+        "level": 2,
+        "name": {
+          "local": "Gouré",
+          "en": "Gouré",
+          "slug": "gour-ne007004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.275",
+      "lon": "9.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE007004004",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Gouré",
+      "en": "Gouré",
+      "slug": "gour-ne007004004"
+    },
+    "code": {
+      "id": "NE007004004",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE007004",
+      "level": 2,
+      "name": {
+        "local": "Gouré",
+        "en": "Gouré",
+        "slug": "gour-ne007004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE007",
+        "level": 1,
+        "name": {
+          "local": "Zinder",
+          "en": "Zinder",
+          "slug": "zinder-ne007"
+        }
+      },
+      {
+        "id": "NE007004",
+        "level": 2,
+        "name": {
+          "local": "Gouré",
+          "en": "Gouré",
+          "slug": "gour-ne007004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.883",
+      "lon": "10.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE007004005",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Guidiguir",
+      "en": "Guidiguir",
+      "slug": "guidiguir-ne007004005"
+    },
+    "code": {
+      "id": "NE007004005",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE007004",
+      "level": 2,
+      "name": {
+        "local": "Gouré",
+        "en": "Gouré",
+        "slug": "gour-ne007004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE007",
+        "level": 1,
+        "name": {
+          "local": "Zinder",
+          "en": "Zinder",
+          "slug": "zinder-ne007"
+        }
+      },
+      {
+        "id": "NE007004",
+        "level": 2,
+        "name": {
+          "local": "Gouré",
+          "en": "Gouré",
+          "slug": "gour-ne007004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.768",
+      "lon": "9.888"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE007004006",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kellé",
+      "en": "Kellé",
+      "slug": "kell-ne007004006"
+    },
+    "code": {
+      "id": "NE007004006",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE007004",
+      "level": 2,
+      "name": {
+        "local": "Gouré",
+        "en": "Gouré",
+        "slug": "gour-ne007004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE007",
+        "level": 1,
+        "name": {
+          "local": "Zinder",
+          "en": "Zinder",
+          "slug": "zinder-ne007"
+        }
+      },
+      {
+        "id": "NE007004",
+        "level": 2,
+        "name": {
+          "local": "Gouré",
+          "en": "Gouré",
+          "slug": "gour-ne007004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.363",
+      "lon": "10.406"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "NE001001",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Aderbissinat",
+    "en": "Aderbissinat",
+    "slug": "aderbissinat-ne001001"
+  },
+  "code": {
+    "id": "NE001001",
+    "iso": null
+  },
+  "parent": {
+    "id": "NE001",
+    "level": 1,
+    "name": {
+      "local": "Agadez",
+      "en": "Agadez",
+      "slug": "agadez-ne001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NE001",
+      "level": 1,
+      "name": {
+        "local": "Agadez",
+        "en": "Agadez",
+        "slug": "agadez-ne001"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.464",
+    "lon": "8.703"
+  },
+  "metadata": {},
+  "source": {}
+}

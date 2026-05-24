@@ -1,0 +1,47 @@
+{
+  "id": "NE005003",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Birni N'Konni",
+    "en": "Birni N'Konni",
+    "slug": "birni-nkonni-ne005003"
+  },
+  "code": {
+    "id": "NE005003",
+    "iso": null
+  },
+  "parent": {
+    "id": "NE005",
+    "level": 1,
+    "name": {
+      "local": "Tahoua",
+      "en": "Tahoua",
+      "slug": "tahoua-ne005"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NE005",
+      "level": 1,
+      "name": {
+        "local": "Tahoua",
+        "en": "Tahoua",
+        "slug": "tahoua-ne005"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.92",
+    "lon": "5.038"
+  },
+  "metadata": {},
+  "source": {}
+}

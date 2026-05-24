@@ -1,0 +1,250 @@
+# Tahoua — Niger Administrative Divisions
+
+> 13 departments, 44 communes
+> Code: NE005
+> Coordinates: 16.146, 5.341
+> Last updated: 2026-05-24. License: CC-BY-4.0.
+
+## Departments
+
+### Abalak
+
+Code: NE005001, Coordinates: 15.463, 6.249
+Communes: 5
+
+#### Abalak
+
+Code: NE005001001, Coordinates: 15.692, 6.24
+
+#### Akoubounou
+
+Code: NE005001002, Coordinates: 15.231, 6.038
+
+#### Azeye
+
+Code: NE005001003, Coordinates: 14.931, 6.351
+
+#### Tabalak
+
+Code: NE005001004, Coordinates: 15.271, 5.729
+
+#### Tamaya
+
+Code: NE005001005, Coordinates: 15.905, 6.599
+
+### Bagaroua
+
+Code: NE005002, Coordinates: 14.37, 4.663
+Communes: 1
+
+#### Bagaroua
+
+Code: NE005002001, Coordinates: 14.37, 4.663
+
+### Birni N&#39;Konni
+
+Code: NE005003, Coordinates: 13.92, 5.038
+Communes: 4
+
+#### Alléla
+
+Code: NE005003001, Coordinates: 13.906, 4.764
+
+#### Bazaga
+
+Code: NE005003002, Coordinates: 13.811, 5.081
+
+#### Birni N&#39;Konni
+
+Code: NE005003003, Coordinates: 13.937, 5.127
+
+#### Tsernaoua
+
+Code: NE005003004, Coordinates: 13.932, 5.319
+
+### Bouza
+
+Code: NE005004, Coordinates: 14.499, 6.085
+Communes: 7
+
+#### Allakaye
+
+Code: NE005004001, Coordinates: 14.377, 5.708
+
+#### Babankatami
+
+Code: NE005004002, Coordinates: 14.592, 6.366
+
+#### Bouza
+
+Code: NE005004003, Coordinates: 14.37, 5.98
+
+#### Déoulé
+
+Code: NE005004004, Coordinates: 14.547, 6.019
+
+#### Karofane
+
+Code: NE005004005, Coordinates: 14.333, 6.224
+
+#### Tabotaki
+
+Code: NE005004006, Coordinates: 14.576, 6.138
+
+#### Tama
+
+Code: NE005004007, Coordinates: 14.31, 5.802
+
+### Illéla
+
+Code: NE005005, Coordinates: 14.277, 5.269
+Communes: 3
+
+#### Badaguichiri
+
+Code: NE005005001, Coordinates: 14.376, 5.476
+
+#### Illéla
+
+Code: NE005005002, Coordinates: 14.296, 5.061
+
+#### Tajaé
+
+Code: NE005005003, Coordinates: 14.197, 5.338
+
+### Keita
+
+Code: NE005006, Coordinates: 14.771, 5.919
+Communes: 4
+
+#### Garhanga
+
+Code: NE005006001, Coordinates: 14.63, 5.815
+
+#### Ibohamane
+
+Code: NE005006002, Coordinates: 14.834, 5.965
+
+#### Keita
+
+Code: NE005006003, Coordinates: 14.865, 5.728
+
+#### Tamaské
+
+Code: NE005006004, Coordinates: 14.66, 5.598
+
+### Madaoua
+
+Code: NE005007, Coordinates: 14.001, 6.078
+Communes: 6
+
+#### Azarori
+
+Code: NE005007001, Coordinates: 14.184, 5.904
+
+#### Bangui
+
+Code: NE005007002, Coordinates: 13.821, 6.182
+
+#### Galma Koudawatché
+
+Code: NE005007003, Coordinates: 14.092, 5.804
+
+#### Madaoua
+
+Code: NE005007004, Coordinates: 14.119, 6.098
+
+#### Ourno
+
+Code: NE005007005, Coordinates: 14.152, 6.387
+
+#### Sabon Guida
+
+Code: NE005007006, Coordinates: 13.876, 5.873
+
+### Malbaza
+
+Code: NE005008, Coordinates: 14.03, 5.5
+Communes: 2
+
+#### Doguerawa
+
+Code: NE005008001, Coordinates: 14.035, 5.655
+
+#### Malbaza
+
+Code: NE005008002, Coordinates: 14.07, 5.45
+
+### Tahoua
+
+Code: NE005009, Coordinates: 14.977, 4.618
+Communes: 6
+
+#### Affala
+
+Code: NE005009001, Coordinates: 15.2, 5.176
+
+#### Bambeye
+
+Code: NE005009002, Coordinates: 14.725, 5.035
+
+#### Barmou
+
+Code: NE005009003, Coordinates: 15.092, 5.463
+
+#### Kalfou
+
+Code: NE005009004, Coordinates: 14.78, 5.489
+
+#### Takanamat
+
+Code: NE005009005, Coordinates: 15.114, 4.763
+
+#### Tebaram
+
+Code: NE005009006, Coordinates: 14.887, 4.357
+
+### Tassara
+
+Code: NE005010, Coordinates: 17.485, 4.73
+Communes: 1
+
+#### Tassara
+
+Code: NE005010001, Coordinates: 17.485, 4.73
+
+### Tchintabaraden
+
+Code: NE005011, Coordinates: 15.959, 5.644
+Communes: 2
+
+#### Kao
+
+Code: NE005011001, Coordinates: 15.478, 5.467
+
+#### Tchintabaraden
+
+Code: NE005011002, Coordinates: 16.22, 5.81
+
+### Tillia
+
+Code: NE005012, Coordinates: 15.899, 4.616
+Communes: 1
+
+#### Tillia
+
+Code: NE005012001, Coordinates: 15.899, 4.616
+
+### Ville de Tahoua
+
+Code: NE005013, Coordinates: 14.882, 5.234
+Communes: 2
+
+#### Tahoua I
+
+Code: NE005013001, Coordinates: 14.889, 5.175
+
+#### Tahoua II
+
+Code: NE005013002, Coordinates: 14.889, 5.312
+

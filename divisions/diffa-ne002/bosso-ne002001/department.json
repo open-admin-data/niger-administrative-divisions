@@ -1,0 +1,47 @@
+{
+  "id": "NE002001",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Bosso",
+    "en": "Bosso",
+    "slug": "bosso-ne002001"
+  },
+  "code": {
+    "id": "NE002001",
+    "iso": null
+  },
+  "parent": {
+    "id": "NE002",
+    "level": 1,
+    "name": {
+      "local": "Diffa",
+      "en": "Diffa",
+      "slug": "diffa-ne002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NE002",
+      "level": 1,
+      "name": {
+        "local": "Diffa",
+        "en": "Diffa",
+        "slug": "diffa-ne002"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.709",
+    "lon": "13.203"
+  },
+  "metadata": {},
+  "source": {}
+}

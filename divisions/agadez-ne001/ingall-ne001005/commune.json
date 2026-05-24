@@ -1,0 +1,56 @@
+[
+  {
+    "id": "NE001005001",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ingall",
+      "en": "Ingall",
+      "slug": "ingall-ne001005001"
+    },
+    "code": {
+      "id": "NE001005001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE001005",
+      "level": 2,
+      "name": {
+        "local": "Ingall",
+        "en": "Ingall",
+        "slug": "ingall-ne001005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE001",
+        "level": 1,
+        "name": {
+          "local": "Agadez",
+          "en": "Agadez",
+          "slug": "agadez-ne001"
+        }
+      },
+      {
+        "id": "NE001005",
+        "level": 2,
+        "name": {
+          "local": "Ingall",
+          "en": "Ingall",
+          "slug": "ingall-ne001005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.431",
+      "lon": "6.421"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "NE001003",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Bilma",
+    "en": "Bilma",
+    "slug": "bilma-ne001003"
+  },
+  "code": {
+    "id": "NE001003",
+    "iso": null
+  },
+  "parent": {
+    "id": "NE001",
+    "level": 1,
+    "name": {
+      "local": "Agadez",
+      "en": "Agadez",
+      "slug": "agadez-ne001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NE001",
+      "level": 1,
+      "name": {
+        "local": "Agadez",
+        "en": "Agadez",
+        "slug": "agadez-ne001"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.299",
+    "lon": "13.487"
+  },
+  "metadata": {},
+  "source": {}
+}

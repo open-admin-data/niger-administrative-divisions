@@ -1,0 +1,47 @@
+{
+  "id": "NE002003",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Goudoumaria",
+    "en": "Goudoumaria",
+    "slug": "goudoumaria-ne002003"
+  },
+  "code": {
+    "id": "NE002003",
+    "iso": null
+  },
+  "parent": {
+    "id": "NE002",
+    "level": 1,
+    "name": {
+      "local": "Diffa",
+      "en": "Diffa",
+      "slug": "diffa-ne002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NE002",
+      "level": 1,
+      "name": {
+        "local": "Diffa",
+        "en": "Diffa",
+        "slug": "diffa-ne002"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.844",
+    "lon": "11.256"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,87 @@
+# Diffa — Niger Administrative Divisions
+
+> 6 departments, 12 communes
+> Code: NE002
+> Coordinates: 15.538, 13.161
+> Last updated: 2026-05-24. License: CC-BY-4.0.
+
+## Departments
+
+### Bosso
+
+Code: NE002001, Coordinates: 13.709, 13.203
+Communes: 2
+
+#### Bosso
+
+Code: NE002001001, Coordinates: 13.709, 13.246
+
+#### Toumour
+
+Code: NE002001002, Coordinates: 13.744, 13.156
+
+### Diffa
+
+Code: NE002002, Coordinates: 13.478, 12.509
+Communes: 3
+
+#### Chetimari
+
+Code: NE002002001, Coordinates: 13.405, 12.341
+
+#### Diffa
+
+Code: NE002002002, Coordinates: 13.405, 12.563
+
+#### Gueskérou
+
+Code: NE002002003, Coordinates: 13.59, 12.721
+
+### Goudoumaria
+
+Code: NE002003, Coordinates: 13.844, 11.256
+Communes: 1
+
+#### Goudoumaria
+
+Code: NE002003001, Coordinates: 13.844, 11.256
+
+### Maïné Soroa
+
+Code: NE002004, Coordinates: 13.756, 12.071
+Communes: 3
+
+#### Foulatari
+
+Code: NE002004001, Coordinates: 13.626, 12.054
+
+#### Maïné Soroa
+
+Code: NE002004002, Coordinates: 13.506, 11.856
+
+#### N&#39;Guelbely
+
+Code: NE002004003, Coordinates: 14.064, 11.866
+
+### N&#39;Gourti
+
+Code: NE002005, Coordinates: 16.207, 13.463
+Communes: 1
+
+#### N&#39;Gourti
+
+Code: NE002005001, Coordinates: 16.207, 13.463
+
+### N&#39;Guigmi
+
+Code: NE002006, Coordinates: 14.165, 12.785
+Communes: 2
+
+#### Kablewa
+
+Code: NE002006001, Coordinates: 14.146, 12.52
+
+#### N&#39;Guigmi
+
+Code: NE002006002, Coordinates: 14.242, 13.272
+

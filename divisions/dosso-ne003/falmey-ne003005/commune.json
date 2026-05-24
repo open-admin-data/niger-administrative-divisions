@@ -1,0 +1,110 @@
+[
+  {
+    "id": "NE003005001",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Falmey",
+      "en": "Falmey",
+      "slug": "falmey-ne003005001"
+    },
+    "code": {
+      "id": "NE003005001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE003005",
+      "level": 2,
+      "name": {
+        "local": "Falmey",
+        "en": "Falmey",
+        "slug": "falmey-ne003005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE003",
+        "level": 1,
+        "name": {
+          "local": "Dosso",
+          "en": "Dosso",
+          "slug": "dosso-ne003"
+        }
+      },
+      {
+        "id": "NE003005",
+        "level": 2,
+        "name": {
+          "local": "Falmey",
+          "en": "Falmey",
+          "slug": "falmey-ne003005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.583",
+      "lon": "2.749"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE003005002",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Guilladjé",
+      "en": "Guilladjé",
+      "slug": "guilladj-ne003005002"
+    },
+    "code": {
+      "id": "NE003005002",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE003005",
+      "level": 2,
+      "name": {
+        "local": "Falmey",
+        "en": "Falmey",
+        "slug": "falmey-ne003005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE003",
+        "level": 1,
+        "name": {
+          "local": "Dosso",
+          "en": "Dosso",
+          "slug": "dosso-ne003"
+        }
+      },
+      {
+        "id": "NE003005",
+        "level": 2,
+        "name": {
+          "local": "Falmey",
+          "en": "Falmey",
+          "slug": "falmey-ne003005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.512",
+      "lon": "2.932"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

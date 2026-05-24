@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite as below"
+type: dataset
+authors:
+  - name: "jakkrapongt"
+title: "Niger Administrative Divisions Dataset"
+version: "2026.05"
+date-released: "2026-05-24"
+url: "https://github.com/open-admin-data/niger-administrative-divisions"
+repository-code: "https://github.com/open-admin-data/niger-administrative-divisions"
+license: CC-BY-4.0
+keywords:
+  - niger
+  - administrative-divisions
+  - geography
+  - open-data
+  - dataset
+  - multilingual
+abstract: >
+  Open dataset of Niger's administrative hierarchy:
+  8 regions, 67 departments, 266 communes.
+  Bilingual with coordinates and postal codes where available.

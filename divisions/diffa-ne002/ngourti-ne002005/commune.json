@@ -1,0 +1,56 @@
+[
+  {
+    "id": "NE002005001",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "N'Gourti",
+      "en": "N'Gourti",
+      "slug": "ngourti-ne002005001"
+    },
+    "code": {
+      "id": "NE002005001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE002005",
+      "level": 2,
+      "name": {
+        "local": "N'Gourti",
+        "en": "N'Gourti",
+        "slug": "ngourti-ne002005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE002",
+        "level": 1,
+        "name": {
+          "local": "Diffa",
+          "en": "Diffa",
+          "slug": "diffa-ne002"
+        }
+      },
+      {
+        "id": "NE002005",
+        "level": 2,
+        "name": {
+          "local": "N'Gourti",
+          "en": "N'Gourti",
+          "slug": "ngourti-ne002005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.207",
+      "lon": "13.463"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

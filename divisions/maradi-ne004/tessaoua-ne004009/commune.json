@@ -1,0 +1,380 @@
+[
+  {
+    "id": "NE004009001",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Baoudetta",
+      "en": "Baoudetta",
+      "slug": "baoudetta-ne004009001"
+    },
+    "code": {
+      "id": "NE004009001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE004009",
+      "level": 2,
+      "name": {
+        "local": "Tessaoua",
+        "en": "Tessaoua",
+        "slug": "tessaoua-ne004009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE004",
+        "level": 1,
+        "name": {
+          "local": "Maradi",
+          "en": "Maradi",
+          "slug": "maradi-ne004"
+        }
+      },
+      {
+        "id": "NE004009",
+        "level": 2,
+        "name": {
+          "local": "Tessaoua",
+          "en": "Tessaoua",
+          "slug": "tessaoua-ne004009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.617",
+      "lon": "8.108"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE004009002",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Hawandawaki",
+      "en": "Hawandawaki",
+      "slug": "hawandawaki-ne004009002"
+    },
+    "code": {
+      "id": "NE004009002",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE004009",
+      "level": 2,
+      "name": {
+        "local": "Tessaoua",
+        "en": "Tessaoua",
+        "slug": "tessaoua-ne004009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE004",
+        "level": 1,
+        "name": {
+          "local": "Maradi",
+          "en": "Maradi",
+          "slug": "maradi-ne004"
+        }
+      },
+      {
+        "id": "NE004009",
+        "level": 2,
+        "name": {
+          "local": "Tessaoua",
+          "en": "Tessaoua",
+          "slug": "tessaoua-ne004009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.297",
+      "lon": "8.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE004009003",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Koona",
+      "en": "Koona",
+      "slug": "koona-ne004009003"
+    },
+    "code": {
+      "id": "NE004009003",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE004009",
+      "level": 2,
+      "name": {
+        "local": "Tessaoua",
+        "en": "Tessaoua",
+        "slug": "tessaoua-ne004009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE004",
+        "level": 1,
+        "name": {
+          "local": "Maradi",
+          "en": "Maradi",
+          "slug": "maradi-ne004"
+        }
+      },
+      {
+        "id": "NE004009",
+        "level": 2,
+        "name": {
+          "local": "Tessaoua",
+          "en": "Tessaoua",
+          "slug": "tessaoua-ne004009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.547",
+      "lon": "8.081"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE004009004",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Korgom",
+      "en": "Korgom",
+      "slug": "korgom-ne004009004"
+    },
+    "code": {
+      "id": "NE004009004",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE004009",
+      "level": 2,
+      "name": {
+        "local": "Tessaoua",
+        "en": "Tessaoua",
+        "slug": "tessaoua-ne004009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE004",
+        "level": 1,
+        "name": {
+          "local": "Maradi",
+          "en": "Maradi",
+          "slug": "maradi-ne004"
+        }
+      },
+      {
+        "id": "NE004009",
+        "level": 2,
+        "name": {
+          "local": "Tessaoua",
+          "en": "Tessaoua",
+          "slug": "tessaoua-ne004009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.467",
+      "lon": "8.246"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE004009005",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Maïjirgui",
+      "en": "Maïjirgui",
+      "slug": "majirgui-ne004009005"
+    },
+    "code": {
+      "id": "NE004009005",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE004009",
+      "level": 2,
+      "name": {
+        "local": "Tessaoua",
+        "en": "Tessaoua",
+        "slug": "tessaoua-ne004009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE004",
+        "level": 1,
+        "name": {
+          "local": "Maradi",
+          "en": "Maradi",
+          "slug": "maradi-ne004"
+        }
+      },
+      {
+        "id": "NE004009",
+        "level": 2,
+        "name": {
+          "local": "Tessaoua",
+          "en": "Tessaoua",
+          "slug": "tessaoua-ne004009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.8",
+      "lon": "8.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE004009006",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ourafane",
+      "en": "Ourafane",
+      "slug": "ourafane-ne004009006"
+    },
+    "code": {
+      "id": "NE004009006",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE004009",
+      "level": 2,
+      "name": {
+        "local": "Tessaoua",
+        "en": "Tessaoua",
+        "slug": "tessaoua-ne004009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE004",
+        "level": 1,
+        "name": {
+          "local": "Maradi",
+          "en": "Maradi",
+          "slug": "maradi-ne004"
+        }
+      },
+      {
+        "id": "NE004009",
+        "level": 2,
+        "name": {
+          "local": "Tessaoua",
+          "en": "Tessaoua",
+          "slug": "tessaoua-ne004009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.139",
+      "lon": "8.26"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE004009007",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tessaoua",
+      "en": "Tessaoua",
+      "slug": "tessaoua-ne004009007"
+    },
+    "code": {
+      "id": "NE004009007",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE004009",
+      "level": 2,
+      "name": {
+        "local": "Tessaoua",
+        "en": "Tessaoua",
+        "slug": "tessaoua-ne004009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE004",
+        "level": 1,
+        "name": {
+          "local": "Maradi",
+          "en": "Maradi",
+          "slug": "maradi-ne004"
+        }
+      },
+      {
+        "id": "NE004009",
+        "level": 2,
+        "name": {
+          "local": "Tessaoua",
+          "en": "Tessaoua",
+          "slug": "tessaoua-ne004009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.777",
+      "lon": "8"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

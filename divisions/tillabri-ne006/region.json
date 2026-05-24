@@ -1,0 +1,30 @@
+{
+  "id": "NE006",
+  "level": 1,
+  "level_name": {
+    "local": "Région",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Tillabéri",
+    "en": "Tillabéri",
+    "slug": "tillabri-ne006"
+  },
+  "code": {
+    "id": "NE006",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "department": 13,
+    "commune": 45
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.805",
+    "lon": "2.041"
+  },
+  "metadata": {},
+  "source": {}
+}

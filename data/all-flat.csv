@@ -1,0 +1,76 @@
+id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.region,children_count.department,children_count.commune,zip_codes,geo.lat,geo.lon
+NE001,1,Région,Region,Agadez,Agadez,agadez-ne001,NE001,,,,,,6,15,,19.427,10.707
+NE001001,2,Département,Department,Aderbissinat,Aderbissinat,aderbissinat-ne001001,NE001001,,NE001,Agadez,Agadez,,,1,,16.464,8.703
+NE001002,2,Département,Department,Arlit,Arlit,arlit-ne001002,NE001002,,NE001,Agadez,Agadez,,,3,,19.534,6.963
+NE001003,2,Département,Department,Bilma,Bilma,bilma-ne001003,NE001003,,NE001,Agadez,Agadez,,,4,,20.299,13.487
+NE001004,2,Département,Department,Iferouane,Iferouane,iferouane-ne001004,NE001004,,NE001,Agadez,Agadez,,,2,,20.519,9.486
+NE001005,2,Département,Department,Ingall,Ingall,ingall-ne001005,NE001005,,NE001,Agadez,Agadez,,,1,,17.431,6.421
+NE001006,2,Département,Department,Tchirozerine,Tchirozerine,tchirozerine-ne001006,NE001006,,NE001,Agadez,Agadez,,,4,,17.377,8.549
+NE002,1,Région,Region,Diffa,Diffa,diffa-ne002,NE002,,,,,,6,12,,15.538,13.161
+NE002001,2,Département,Department,Bosso,Bosso,bosso-ne002001,NE002001,,NE002,Diffa,Diffa,,,2,,13.709,13.203
+NE002002,2,Département,Department,Diffa,Diffa,diffa-ne002002,NE002002,,NE002,Diffa,Diffa,,,3,,13.478,12.509
+NE002003,2,Département,Department,Goudoumaria,Goudoumaria,goudoumaria-ne002003,NE002003,,NE002,Diffa,Diffa,,,1,,13.844,11.256
+NE002004,2,Département,Department,Maïné Soroa,Maïné Soroa,man-soroa-ne002004,NE002004,,NE002,Diffa,Diffa,,,3,,13.756,12.071
+NE002005,2,Département,Department,N'Gourti,N'Gourti,ngourti-ne002005,NE002005,,NE002,Diffa,Diffa,,,1,,16.207,13.463
+NE002006,2,Département,Department,N'Guigmi,N'Guigmi,nguigmi-ne002006,NE002006,,NE002,Diffa,Diffa,,,2,,14.165,12.785
+NE003,1,Région,Region,Dosso,Dosso,dosso-ne003,NE003,,,,,,8,43,,13.167,3.299
+NE003001,2,Département,Department,Boboye,Boboye,boboye-ne003001,NE003001,,NE003,Dosso,Dosso,,,8,,13.167,2.723
+NE003002,2,Département,Department,Dioundiou,Dioundiou,dioundiou-ne003002,NE003002,,NE003,Dosso,Dosso,,,3,,12.659,3.666
+NE003003,2,Département,Department,Dogondoutchi,Dogondoutchi,dogondoutchi-ne003003,NE003003,,NE003,Dosso,Dosso,,,6,,13.973,4.091
+NE003004,2,Département,Department,Dosso,Dosso,dosso-ne003004,NE003004,,NE003,Dosso,Dosso,,,11,,12.841,3.255
+NE003005,2,Département,Department,Falmey,Falmey,falmey-ne003005,NE003005,,NE003,Dosso,Dosso,,,2,,12.557,2.848
+NE003006,2,Département,Department,Gaya,Gaya,gaya-ne003006,NE003006,,NE003,Dosso,Dosso,,,6,,12.054,3.435
+NE003007,2,Département,Department,Loga,Loga,loga-ne003007,NE003007,,NE003,Dosso,Dosso,,,3,,13.632,3.446
+NE003008,2,Département,Department,Tibiri,Tibiri,tibiri-ne003008,NE003008,,NE003,Dosso,Dosso,,,4,,13.09,3.919
+NE004,1,Région,Region,Maradi,Maradi,maradi-ne004,NE004,,,,,,9,47,,14.232,7.475
+NE004001,2,Département,Department,Aguié,Aguié,agui-ne004001,NE004001,,NE004,Maradi,Maradi,,,2,,13.482,7.631
+NE004002,2,Département,Department,Bermo,Bermo,bermo-ne004002,NE004002,,NE004,Maradi,Maradi,,,2,,14.972,6.975
+NE004003,2,Département,Department,Dakoro,Dakoro,dakoro-ne004003,NE004003,,NE004,Maradi,Maradi,,,12,,14.374,6.827
+NE004004,2,Département,Department,Gazaoua,Gazaoua,gazaoua-ne004004,NE004004,,NE004,Maradi,Maradi,,,2,,13.428,7.935
+NE004005,2,Département,Department,Guidan Roumdji,Guidan Roumdji,guidan-roumdji-ne004005,NE004005,,NE004,Maradi,Maradi,,,5,,13.57,6.959
+NE004006,2,Département,Department,Madarounfa,Madarounfa,madarounfa-ne004006,NE004006,,NE004,Maradi,Maradi,,,6,,13.269,7.183
+NE004007,2,Département,Department,Ville de Maradi,Ville de Maradi,ville-de-maradi-ne004007,NE004007,,NE004,Maradi,Maradi,,,3,,13.49,7.125
+NE004008,2,Département,Department,Mayahi,Mayahi,mayahi-ne004008,NE004008,,NE004,Maradi,Maradi,,,8,,14.129,7.612
+NE004009,2,Département,Department,Tessaoua,Tessaoua,tessaoua-ne004009,NE004009,,NE004,Maradi,Maradi,,,7,,13.828,8.149
+NE005,1,Région,Region,Tahoua,Tahoua,tahoua-ne005,NE005,,,,,,13,44,,16.146,5.341
+NE005001,2,Département,Department,Abalak,Abalak,abalak-ne005001,NE005001,,NE005,Tahoua,Tahoua,,,5,,15.463,6.249
+NE005002,2,Département,Department,Bagaroua,Bagaroua,bagaroua-ne005002,NE005002,,NE005,Tahoua,Tahoua,,,1,,14.37,4.663
+NE005003,2,Département,Department,Birni N'Konni,Birni N'Konni,birni-nkonni-ne005003,NE005003,,NE005,Tahoua,Tahoua,,,4,,13.92,5.038
+NE005004,2,Département,Department,Bouza,Bouza,bouza-ne005004,NE005004,,NE005,Tahoua,Tahoua,,,7,,14.499,6.085
+NE005005,2,Département,Department,Illéla,Illéla,illla-ne005005,NE005005,,NE005,Tahoua,Tahoua,,,3,,14.277,5.269
+NE005006,2,Département,Department,Keita,Keita,keita-ne005006,NE005006,,NE005,Tahoua,Tahoua,,,4,,14.771,5.919
+NE005007,2,Département,Department,Madaoua,Madaoua,madaoua-ne005007,NE005007,,NE005,Tahoua,Tahoua,,,6,,14.001,6.078
+NE005008,2,Département,Department,Malbaza,Malbaza,malbaza-ne005008,NE005008,,NE005,Tahoua,Tahoua,,,2,,14.03,5.5
+NE005009,2,Département,Department,Tahoua,Tahoua,tahoua-ne005009,NE005009,,NE005,Tahoua,Tahoua,,,6,,14.977,4.618
+NE005010,2,Département,Department,Tassara,Tassara,tassara-ne005010,NE005010,,NE005,Tahoua,Tahoua,,,1,,17.485,4.73
+NE005011,2,Département,Department,Tchintabaraden,Tchintabaraden,tchintabaraden-ne005011,NE005011,,NE005,Tahoua,Tahoua,,,2,,15.959,5.644
+NE005012,2,Département,Department,Tillia,Tillia,tillia-ne005012,NE005012,,NE005,Tahoua,Tahoua,,,1,,15.899,4.616
+NE005013,2,Département,Department,Ville de Tahoua,Ville de Tahoua,ville-de-tahoua-ne005013,NE005013,,NE005,Tahoua,Tahoua,,,2,,14.882,5.234
+NE006,1,Région,Region,Tillabéri,Tillabéri,tillabri-ne006,NE006,,,,,,13,45,,13.805,2.041
+NE006001,2,Département,Department,Abala,Abala,abala-ne006001,NE006001,,NE006,Tillabéri,Tillabéri,,,2,,14.997,3.562
+NE006002,2,Département,Department,Ayerou,Ayerou,ayerou-ne006002,NE006002,,NE006,Tillabéri,Tillabéri,,,2,,14.953,1.064
+NE006003,2,Département,Department,Balleyara,Balleyara,balleyara-ne006003,NE006003,,NE006,Tillabéri,Tillabéri,,,1,,13.704,2.891
+NE006004,2,Département,Department,Banibangou,Banibangou,banibangou-ne006004,NE006004,,NE006,Tillabéri,Tillabéri,,,1,,15.035,2.457
+NE006005,2,Département,Department,Bankilaré,Bankilaré,bankilar-ne006005,NE006005,,NE006,Tillabéri,Tillabéri,,,1,,14.444,0.632
+NE006006,2,Département,Department,Filingué,Filingué,filingu-ne006006,NE006006,,NE006,Tillabéri,Tillabéri,,,4,,14.313,3.321
+NE006007,2,Département,Department,Gothèye,Gothèye,gothye-ne006007,NE006007,,NE006,Tillabéri,Tillabéri,,,2,,13.799,1.454
+NE006008,2,Département,Department,Kollo,Kollo,kollo-ne006008,NE006008,,NE006,Tillabéri,Tillabéri,,,11,,13.19,2.212
+NE006009,2,Département,Department,Ouallam,Ouallam,ouallam-ne006009,NE006009,,NE006,Tillabéri,Tillabéri,,,4,,14.583,2.195
+NE006010,2,Département,Department,Say,Say,say-ne006010,NE006010,,NE006,Tillabéri,Tillabéri,,,3,,12.597,2.364
+NE006011,2,Département,Department,Téra,Téra,tra-ne006011,NE006011,,NE006,Tillabéri,Tillabéri,,,5,,14.311,0.896
+NE006012,2,Département,Department,Tillabéri,Tillabéri,tillabri-ne006012,NE006012,,NE006,Tillabéri,Tillabéri,,,7,,14.386,1.414
+NE006013,2,Département,Department,Torodi,Torodi,torodi-ne006013,NE006013,,NE006,Tillabéri,Tillabéri,,,2,,13.149,1.472
+NE007,1,Région,Region,Zinder,Zinder,zinder-ne007,NE007,,,,,,11,55,,15.219,9.715
+NE007001,2,Département,Department,Belbedji,Belbedji,belbedji-ne007001,NE007001,,NE007,Zinder,Zinder,,,1,,14.984,7.812
+NE007002,2,Département,Department,Damagaram Takaya,Damagaram Takaya,damagaram-takaya-ne007002,NE007002,,NE007,Zinder,Zinder,,,6,,14.05,9.507
+NE007003,2,Département,Department,Dungass,Dungass,dungass-ne007003,NE007003,,NE007,Zinder,Zinder,,,4,,13.207,9.593
+NE007004,2,Département,Department,Gouré,Gouré,gour-ne007004,NE007004,,NE007,Zinder,Zinder,,,6,,14.05,10.493
+NE007005,2,Département,Department,Kantché,Kantché,kantch-ne007005,NE007005,,NE007,Zinder,Zinder,,,9,,13.414,8.565
+NE007006,2,Département,Department,Magaria,Magaria,magaria-ne007006,NE007006,,NE007,Zinder,Zinder,,,7,,13.059,8.819
+NE007007,2,Département,Department,Mirriah,Mirriah,mirriah-ne007007,NE007007,,NE007,Zinder,Zinder,,,8,,13.629,9.29
+NE007008,2,Département,Department,Takeita,Takeita,takeita-ne007008,NE007008,,NE007,Zinder,Zinder,,,3,,13.937,8.866
+NE007009,2,Département,Department,Tanout,Tanout,tanout-ne007009,NE007009,,NE007,Zinder,Zinder,,,5,,15.122,9.008
+NE007010,2,Département,Department,Tesker,Tesker,tesker-ne007010,NE007010,,NE007,Zinder,Zinder,,,1,,15.908,10.815
+NE007011,2,Département,Department,Ville de Zinder,Ville de Zinder,ville-de-zinder-ne007011,NE007011,,NE007,Zinder,Zinder,,,5,,13.736,9.009
+NE008,1,Région,Region,Niamey,Niamey,niamey-ne008,NE008,,,,,,1,5,,13.526,2.119
+NE008001,2,Département,Department,Ville de Niamey,Ville de Niamey,ville-de-niamey-ne008001,NE008001,,NE008,Niamey,Niamey,,,5,,13.526,2.119

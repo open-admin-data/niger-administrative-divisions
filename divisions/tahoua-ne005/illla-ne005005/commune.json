@@ -1,0 +1,164 @@
+[
+  {
+    "id": "NE005005001",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Badaguichiri",
+      "en": "Badaguichiri",
+      "slug": "badaguichiri-ne005005001"
+    },
+    "code": {
+      "id": "NE005005001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE005005",
+      "level": 2,
+      "name": {
+        "local": "Illéla",
+        "en": "Illéla",
+        "slug": "illla-ne005005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE005",
+        "level": 1,
+        "name": {
+          "local": "Tahoua",
+          "en": "Tahoua",
+          "slug": "tahoua-ne005"
+        }
+      },
+      {
+        "id": "NE005005",
+        "level": 2,
+        "name": {
+          "local": "Illéla",
+          "en": "Illéla",
+          "slug": "illla-ne005005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.376",
+      "lon": "5.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE005005002",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Illéla",
+      "en": "Illéla",
+      "slug": "illla-ne005005002"
+    },
+    "code": {
+      "id": "NE005005002",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE005005",
+      "level": 2,
+      "name": {
+        "local": "Illéla",
+        "en": "Illéla",
+        "slug": "illla-ne005005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE005",
+        "level": 1,
+        "name": {
+          "local": "Tahoua",
+          "en": "Tahoua",
+          "slug": "tahoua-ne005"
+        }
+      },
+      {
+        "id": "NE005005",
+        "level": 2,
+        "name": {
+          "local": "Illéla",
+          "en": "Illéla",
+          "slug": "illla-ne005005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.296",
+      "lon": "5.061"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE005005003",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tajaé",
+      "en": "Tajaé",
+      "slug": "taja-ne005005003"
+    },
+    "code": {
+      "id": "NE005005003",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE005005",
+      "level": 2,
+      "name": {
+        "local": "Illéla",
+        "en": "Illéla",
+        "slug": "illla-ne005005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE005",
+        "level": 1,
+        "name": {
+          "local": "Tahoua",
+          "en": "Tahoua",
+          "slug": "tahoua-ne005"
+        }
+      },
+      {
+        "id": "NE005005",
+        "level": 2,
+        "name": {
+          "local": "Illéla",
+          "en": "Illéla",
+          "slug": "illla-ne005005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.197",
+      "lon": "5.338"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

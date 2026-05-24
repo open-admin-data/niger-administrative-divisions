@@ -1,0 +1,47 @@
+{
+  "id": "NE001006",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Tchirozerine",
+    "en": "Tchirozerine",
+    "slug": "tchirozerine-ne001006"
+  },
+  "code": {
+    "id": "NE001006",
+    "iso": null
+  },
+  "parent": {
+    "id": "NE001",
+    "level": 1,
+    "name": {
+      "local": "Agadez",
+      "en": "Agadez",
+      "slug": "agadez-ne001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NE001",
+      "level": 1,
+      "name": {
+        "local": "Agadez",
+        "en": "Agadez",
+        "slug": "agadez-ne001"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.377",
+    "lon": "8.549"
+  },
+  "metadata": {},
+  "source": {}
+}

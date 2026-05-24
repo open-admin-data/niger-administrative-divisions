@@ -1,0 +1,47 @@
+{
+  "id": "NE005011",
+  "level": 2,
+  "level_name": {
+    "local": "Département",
+    "en": "Department"
+  },
+  "name": {
+    "local": "Tchintabaraden",
+    "en": "Tchintabaraden",
+    "slug": "tchintabaraden-ne005011"
+  },
+  "code": {
+    "id": "NE005011",
+    "iso": null
+  },
+  "parent": {
+    "id": "NE005",
+    "level": 1,
+    "name": {
+      "local": "Tahoua",
+      "en": "Tahoua",
+      "slug": "tahoua-ne005"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NE005",
+      "level": 1,
+      "name": {
+        "local": "Tahoua",
+        "en": "Tahoua",
+        "slug": "tahoua-ne005"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.959",
+    "lon": "5.644"
+  },
+  "metadata": {},
+  "source": {}
+}

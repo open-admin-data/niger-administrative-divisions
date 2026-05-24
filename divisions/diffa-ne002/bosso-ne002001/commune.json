@@ -1,0 +1,110 @@
+[
+  {
+    "id": "NE002001001",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bosso",
+      "en": "Bosso",
+      "slug": "bosso-ne002001001"
+    },
+    "code": {
+      "id": "NE002001001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE002001",
+      "level": 2,
+      "name": {
+        "local": "Bosso",
+        "en": "Bosso",
+        "slug": "bosso-ne002001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE002",
+        "level": 1,
+        "name": {
+          "local": "Diffa",
+          "en": "Diffa",
+          "slug": "diffa-ne002"
+        }
+      },
+      {
+        "id": "NE002001",
+        "level": 2,
+        "name": {
+          "local": "Bosso",
+          "en": "Bosso",
+          "slug": "bosso-ne002001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.709",
+      "lon": "13.246"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE002001002",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Toumour",
+      "en": "Toumour",
+      "slug": "toumour-ne002001002"
+    },
+    "code": {
+      "id": "NE002001002",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE002001",
+      "level": 2,
+      "name": {
+        "local": "Bosso",
+        "en": "Bosso",
+        "slug": "bosso-ne002001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE002",
+        "level": 1,
+        "name": {
+          "local": "Diffa",
+          "en": "Diffa",
+          "slug": "diffa-ne002"
+        }
+      },
+      {
+        "id": "NE002001",
+        "level": 2,
+        "name": {
+          "local": "Bosso",
+          "en": "Bosso",
+          "slug": "bosso-ne002001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.744",
+      "lon": "13.156"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

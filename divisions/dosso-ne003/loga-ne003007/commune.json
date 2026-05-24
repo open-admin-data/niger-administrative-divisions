@@ -1,0 +1,164 @@
+[
+  {
+    "id": "NE003007001",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Falwel",
+      "en": "Falwel",
+      "slug": "falwel-ne003007001"
+    },
+    "code": {
+      "id": "NE003007001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE003007",
+      "level": 2,
+      "name": {
+        "local": "Loga",
+        "en": "Loga",
+        "slug": "loga-ne003007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE003",
+        "level": 1,
+        "name": {
+          "local": "Dosso",
+          "en": "Dosso",
+          "slug": "dosso-ne003"
+        }
+      },
+      {
+        "id": "NE003007",
+        "level": 2,
+        "name": {
+          "local": "Loga",
+          "en": "Loga",
+          "slug": "loga-ne003007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.552",
+      "lon": "3.64"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE003007002",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Loga",
+      "en": "Loga",
+      "slug": "loga-ne003007002"
+    },
+    "code": {
+      "id": "NE003007002",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE003007",
+      "level": 2,
+      "name": {
+        "local": "Loga",
+        "en": "Loga",
+        "slug": "loga-ne003007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE003",
+        "level": 1,
+        "name": {
+          "local": "Dosso",
+          "en": "Dosso",
+          "slug": "dosso-ne003"
+        }
+      },
+      {
+        "id": "NE003007",
+        "level": 2,
+        "name": {
+          "local": "Loga",
+          "en": "Loga",
+          "slug": "loga-ne003007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.734",
+      "lon": "3.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE003007003",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sokorbé",
+      "en": "Sokorbé",
+      "slug": "sokorb-ne003007003"
+    },
+    "code": {
+      "id": "NE003007003",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE003007",
+      "level": 2,
+      "name": {
+        "local": "Loga",
+        "en": "Loga",
+        "slug": "loga-ne003007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE003",
+        "level": 1,
+        "name": {
+          "local": "Dosso",
+          "en": "Dosso",
+          "slug": "dosso-ne003"
+        }
+      },
+      {
+        "id": "NE003007",
+        "level": 2,
+        "name": {
+          "local": "Loga",
+          "en": "Loga",
+          "slug": "loga-ne003007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.454",
+      "lon": "3.154"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,254 @@
+# Tillabéri — Niger Administrative Divisions
+
+> 13 departments, 45 communes
+> Code: NE006
+> Coordinates: 13.805, 2.041
+> Last updated: 2026-05-24. License: CC-BY-4.0.
+
+## Departments
+
+### Abala
+
+Code: NE006001, Coordinates: 14.997, 3.562
+Communes: 2
+
+#### Abala
+
+Code: NE006001001, Coordinates: 14.919, 3.294
+
+#### Sanam
+
+Code: NE006001002, Coordinates: 15.069, 3.907
+
+### Ayerou
+
+Code: NE006002, Coordinates: 14.953, 1.064
+Communes: 2
+
+#### Ayerou
+
+Code: NE006002001, Coordinates: 14.841, 0.94
+
+#### Inatès
+
+Code: NE006002002, Coordinates: 14.955, 1.36
+
+### Balleyara
+
+Code: NE006003, Coordinates: 13.704, 2.891
+Communes: 1
+
+#### Tagazar
+
+Code: NE006003001, Coordinates: 13.704, 2.891
+
+### Banibangou
+
+Code: NE006004, Coordinates: 15.035, 2.457
+Communes: 1
+
+#### Banibangou
+
+Code: NE006004001, Coordinates: 15.035, 2.457
+
+### Bankilaré
+
+Code: NE006005, Coordinates: 14.444, 0.632
+Communes: 1
+
+#### Bankilaré
+
+Code: NE006005001, Coordinates: 14.444, 0.632
+
+### Filingué
+
+Code: NE006006, Coordinates: 14.313, 3.321
+Communes: 4
+
+#### Filingué
+
+Code: NE006006001, Coordinates: 14.482, 3.101
+
+#### Imanan
+
+Code: NE006006002, Coordinates: 14.016, 3.199
+
+#### Kourfeye Centre
+
+Code: NE006006003, Coordinates: 14.223, 3.592
+
+#### Tondikandia
+
+Code: NE006006004, Coordinates: 14.015, 2.839
+
+### Gothèye
+
+Code: NE006007, Coordinates: 13.799, 1.454
+Communes: 2
+
+#### Dargol
+
+Code: NE006007001, Coordinates: 13.913, 1.207
+
+#### Gothèye
+
+Code: NE006007002, Coordinates: 13.677, 1.439
+
+### Kollo
+
+Code: NE006008, Coordinates: 13.19, 2.212
+Communes: 11
+
+#### Bitinkodji
+
+Code: NE006008001, Coordinates: 13.366, 1.988
+
+#### Diantchandou
+
+Code: NE006008002, Coordinates: 13.525, 2.723
+
+#### Hamdallaye
+
+Code: NE006008003, Coordinates: 13.678, 2.355
+
+#### Karma
+
+Code: NE006008004, Coordinates: 13.735, 1.892
+
+#### Kirtachi
+
+Code: NE006008005, Coordinates: 12.811, 2.517
+
+#### Kollo
+
+Code: NE006008006, Coordinates: 13.263, 2.422
+
+#### Kouré
+
+Code: NE006008007, Coordinates: 13.362, 2.619
+
+#### Liboré
+
+Code: NE006008008, Coordinates: 13.511, 2.25
+
+#### N&#39;Dounga
+
+Code: NE006008009, Coordinates: 13.42, 2.314
+
+#### Namaro
+
+Code: NE006008010, Coordinates: 13.547, 1.732
+
+#### Youri
+
+Code: NE006008011, Coordinates: 13.287, 2.197
+
+### Ouallam
+
+Code: NE006009, Coordinates: 14.583, 2.195
+Communes: 4
+
+#### Dingazi
+
+Code: NE006009001, Coordinates: 14.479, 2.597
+
+#### Ouallam
+
+Code: NE006009002, Coordinates: 14.258, 1.96
+
+#### Simiri
+
+Code: NE006009003, Coordinates: 14.068, 2.183
+
+#### Tondikiwindi
+
+Code: NE006009004, Coordinates: 14.806, 1.934
+
+### Say
+
+Code: NE006010, Coordinates: 12.597, 2.364
+Communes: 3
+
+#### Ouro Guéladjo
+
+Code: NE006010001, Coordinates: 12.931, 1.881
+
+#### Say
+
+Code: NE006010002, Coordinates: 13.129, 2.244
+
+#### Tamou
+
+Code: NE006010003, Coordinates: 12.459, 2.502
+
+### Téra
+
+Code: NE006011, Coordinates: 14.311, 0.896
+Communes: 5
+
+#### Diagourou
+
+Code: NE006011001, Coordinates: 13.786, 1.191
+
+#### Gorouol
+
+Code: NE006011002, Coordinates: 14.673, 0.418
+
+#### Kokorou
+
+Code: NE006011003, Coordinates: 14.195, 0.963
+
+#### Méhana
+
+Code: NE006011004, Coordinates: 14.423, 1.053
+
+#### Téra
+
+Code: NE006011005, Coordinates: 14.051, 0.638
+
+### Tillabéri
+
+Code: NE006012, Coordinates: 14.386, 1.414
+Communes: 7
+
+#### Anzourou
+
+Code: NE006012001, Coordinates: 14.717, 1.373
+
+#### Bibiyergou
+
+Code: NE006012002, Coordinates: 14.44, 1.223
+
+#### Dessa
+
+Code: NE006012003, Coordinates: 14.553, 1.1
+
+#### Kourteye
+
+Code: NE006012004, Coordinates: 13.959, 1.694
+
+#### Sakoïra
+
+Code: NE006012005, Coordinates: 14.389, 1.369
+
+#### Sinder
+
+Code: NE006012006, Coordinates: 14.322, 1.254
+
+#### Tillabéri
+
+Code: NE006012007, Coordinates: 14.255, 1.623
+
+### Torodi
+
+Code: NE006013, Coordinates: 13.149, 1.472
+Communes: 2
+
+#### Makalondi
+
+Code: NE006013001, Coordinates: 12.853, 1.646
+
+#### Torodi
+
+Code: NE006013002, Coordinates: 13.223, 1.447
+

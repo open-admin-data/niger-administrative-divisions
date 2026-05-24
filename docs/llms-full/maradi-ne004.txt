@@ -1,0 +1,242 @@
+# Maradi — Niger Administrative Divisions
+
+> 9 departments, 47 communes
+> Code: NE004
+> Coordinates: 14.232, 7.475
+> Last updated: 2026-05-24. License: CC-BY-4.0.
+
+## Departments
+
+### Aguié
+
+Code: NE004001, Coordinates: 13.482, 7.631
+Communes: 2
+
+#### Aguié
+
+Code: NE004001001, Coordinates: 13.481, 7.704
+
+#### Tchadoua
+
+Code: NE004001002, Coordinates: 13.513, 7.499
+
+### Bermo
+
+Code: NE004002, Coordinates: 14.972, 6.975
+Communes: 2
+
+#### Bermo
+
+Code: NE004002001, Coordinates: 14.718, 6.644
+
+#### Gadabedji
+
+Code: NE004002002, Coordinates: 15.104, 7.011
+
+### Dakoro
+
+Code: NE004003, Coordinates: 14.374, 6.827
+Communes: 12
+
+#### Adjekoria
+
+Code: NE004003001, Coordinates: 14.339, 6.627
+
+#### Azagor
+
+Code: NE004003002, Coordinates: 14.661, 6.897
+
+#### Bader Goula
+
+Code: NE004003003, Coordinates: 14.702, 7.21
+
+#### Birni Lallé
+
+Code: NE004003004, Coordinates: 14.478, 6.901
+
+#### Dakoro
+
+Code: NE004003005, Coordinates: 14.563, 6.761
+
+#### Dan-Goulbi
+
+Code: NE004003006, Coordinates: 13.97, 6.548
+
+#### Korahane
+
+Code: NE004003007, Coordinates: 14.551, 6.607
+
+#### Kornaka
+
+Code: NE004003008, Coordinates: 14.22, 7.02
+
+#### Maïyara
+
+Code: NE004003009, Coordinates: 13.895, 7.218
+
+#### Roumbou I
+
+Code: NE004003010, Coordinates: 14.743, 6.782
+
+#### Sabon Machi
+
+Code: NE004003011, Coordinates: 13.859, 7.072
+
+#### Tagriss
+
+Code: NE004003012, Coordinates: 14.69, 7.504
+
+### Gazaoua
+
+Code: NE004004, Coordinates: 13.428, 7.935
+Communes: 2
+
+#### Gangara
+
+Code: NE004004001, Coordinates: 13.367, 7.804
+
+#### Gazaoua
+
+Code: NE004004002, Coordinates: 13.435, 8.014
+
+### Guidan Roumdji
+
+Code: NE004005, Coordinates: 13.57, 6.959
+Communes: 5
+
+#### Chadakori
+
+Code: NE004005001, Coordinates: 13.763, 6.881
+
+#### Guidan Roumdji
+
+Code: NE004005002, Coordinates: 13.723, 6.486
+
+#### Guidan Sori
+
+Code: NE004005003, Coordinates: 13.55, 6.869
+
+#### Saé Saboua
+
+Code: NE004005004, Coordinates: 13.621, 7.37
+
+#### Tibiri
+
+Code: NE004005005, Coordinates: 13.434, 6.752
+
+### Madarounfa
+
+Code: NE004006, Coordinates: 13.269, 7.183
+Communes: 6
+
+#### Dan-Issa
+
+Code: NE004006001, Coordinates: 13.248, 7.415
+
+#### Djiratawa
+
+Code: NE004006002, Coordinates: 13.454, 7.299
+
+#### Gabi
+
+Code: NE004006003, Coordinates: 13.143, 7.027
+
+#### Madarounfa
+
+Code: NE004006004, Coordinates: 13.188, 7.202
+
+#### Safo
+
+Code: NE004006005, Coordinates: 13.285, 6.915
+
+#### Sarkin Yamma
+
+Code: NE004006006, Coordinates: 13.418, 6.968
+
+### Mayahi
+
+Code: NE004008, Coordinates: 14.129, 7.612
+Communes: 8
+
+#### Attantane
+
+Code: NE004008001, Coordinates: 14.102, 7.49
+
+#### El Allassane Maïreyrey
+
+Code: NE004008002, Coordinates: 14.272, 7.894
+
+#### Guidan Amoumoune
+
+Code: NE004008003, Coordinates: 14.296, 7.308
+
+#### Issawane
+
+Code: NE004008004, Coordinates: 14.078, 7.886
+
+#### Kanan-Bakaché
+
+Code: NE004008005, Coordinates: 13.867, 7.862
+
+#### Mayahi
+
+Code: NE004008006, Coordinates: 13.959, 7.575
+
+#### Sarkin Haoussa
+
+Code: NE004008007, Coordinates: 13.832, 7.479
+
+#### Tchaké
+
+Code: NE004008008, Coordinates: 14.271, 7.629
+
+### Tessaoua
+
+Code: NE004009, Coordinates: 13.828, 8.149
+Communes: 7
+
+#### Baoudetta
+
+Code: NE004009001, Coordinates: 13.617, 8.108
+
+#### Hawandawaki
+
+Code: NE004009002, Coordinates: 13.297, 8.267
+
+#### Koona
+
+Code: NE004009003, Coordinates: 13.547, 8.081
+
+#### Korgom
+
+Code: NE004009004, Coordinates: 13.467, 8.246
+
+#### Maïjirgui
+
+Code: NE004009005, Coordinates: 13.8, 8.231
+
+#### Ourafane
+
+Code: NE004009006, Coordinates: 14.139, 8.26
+
+#### Tessaoua
+
+Code: NE004009007, Coordinates: 13.777, 8
+
+### Ville de Maradi
+
+Code: NE004007, Coordinates: 13.49, 7.125
+Communes: 3
+
+#### Maradi I
+
+Code: NE004007001, Coordinates: 13.516, 7.107
+
+#### Maradi II
+
+Code: NE004007002, Coordinates: 13.506, 7.132
+
+#### Maradi III
+
+Code: NE004007003, Coordinates: 13.474, 7.127
+

@@ -1,0 +1,326 @@
+[
+  {
+    "id": "NE003006001",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bana",
+      "en": "Bana",
+      "slug": "bana-ne003006001"
+    },
+    "code": {
+      "id": "NE003006001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE003006",
+      "level": 2,
+      "name": {
+        "local": "Gaya",
+        "en": "Gaya",
+        "slug": "gaya-ne003006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE003",
+        "level": 1,
+        "name": {
+          "local": "Dosso",
+          "en": "Dosso",
+          "slug": "dosso-ne003"
+        }
+      },
+      {
+        "id": "NE003006",
+        "level": 2,
+        "name": {
+          "local": "Gaya",
+          "en": "Gaya",
+          "slug": "gaya-ne003006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.056",
+      "lon": "3.549"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE003006002",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bengou",
+      "en": "Bengou",
+      "slug": "bengou-ne003006002"
+    },
+    "code": {
+      "id": "NE003006002",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE003006",
+      "level": 2,
+      "name": {
+        "local": "Gaya",
+        "en": "Gaya",
+        "slug": "gaya-ne003006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE003",
+        "level": 1,
+        "name": {
+          "local": "Dosso",
+          "en": "Dosso",
+          "slug": "dosso-ne003"
+        }
+      },
+      {
+        "id": "NE003006",
+        "level": 2,
+        "name": {
+          "local": "Gaya",
+          "en": "Gaya",
+          "slug": "gaya-ne003006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.962",
+      "lon": "3.547"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE003006003",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Gaya",
+      "en": "Gaya",
+      "slug": "gaya-ne003006003"
+    },
+    "code": {
+      "id": "NE003006003",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE003006",
+      "level": 2,
+      "name": {
+        "local": "Gaya",
+        "en": "Gaya",
+        "slug": "gaya-ne003006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE003",
+        "level": 1,
+        "name": {
+          "local": "Dosso",
+          "en": "Dosso",
+          "slug": "dosso-ne003"
+        }
+      },
+      {
+        "id": "NE003006",
+        "level": 2,
+        "name": {
+          "local": "Gaya",
+          "en": "Gaya",
+          "slug": "gaya-ne003006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.883",
+      "lon": "3.487"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE003006004",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tanda",
+      "en": "Tanda",
+      "slug": "tanda-ne003006004"
+    },
+    "code": {
+      "id": "NE003006004",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE003006",
+      "level": 2,
+      "name": {
+        "local": "Gaya",
+        "en": "Gaya",
+        "slug": "gaya-ne003006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE003",
+        "level": 1,
+        "name": {
+          "local": "Dosso",
+          "en": "Dosso",
+          "slug": "dosso-ne003"
+        }
+      },
+      {
+        "id": "NE003006",
+        "level": 2,
+        "name": {
+          "local": "Gaya",
+          "en": "Gaya",
+          "slug": "gaya-ne003006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.054",
+      "lon": "3.335"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE003006005",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tounouga",
+      "en": "Tounouga",
+      "slug": "tounouga-ne003006005"
+    },
+    "code": {
+      "id": "NE003006005",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE003006",
+      "level": 2,
+      "name": {
+        "local": "Gaya",
+        "en": "Gaya",
+        "slug": "gaya-ne003006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE003",
+        "level": 1,
+        "name": {
+          "local": "Dosso",
+          "en": "Dosso",
+          "slug": "dosso-ne003"
+        }
+      },
+      {
+        "id": "NE003006",
+        "level": 2,
+        "name": {
+          "local": "Gaya",
+          "en": "Gaya",
+          "slug": "gaya-ne003006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.813",
+      "lon": "3.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE003006006",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Yélou",
+      "en": "Yélou",
+      "slug": "ylou-ne003006006"
+    },
+    "code": {
+      "id": "NE003006006",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE003006",
+      "level": 2,
+      "name": {
+        "local": "Gaya",
+        "en": "Gaya",
+        "slug": "gaya-ne003006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE003",
+        "level": 1,
+        "name": {
+          "local": "Dosso",
+          "en": "Dosso",
+          "slug": "dosso-ne003"
+        }
+      },
+      {
+        "id": "NE003006",
+        "level": 2,
+        "name": {
+          "local": "Gaya",
+          "en": "Gaya",
+          "slug": "gaya-ne003006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.234",
+      "lon": "3.472"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

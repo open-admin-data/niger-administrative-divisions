@@ -1,0 +1,218 @@
+[
+  {
+    "id": "NE001003001",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bilma",
+      "en": "Bilma",
+      "slug": "bilma-ne001003001"
+    },
+    "code": {
+      "id": "NE001003001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE001003",
+      "level": 2,
+      "name": {
+        "local": "Bilma",
+        "en": "Bilma",
+        "slug": "bilma-ne001003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE001",
+        "level": 1,
+        "name": {
+          "local": "Agadez",
+          "en": "Agadez",
+          "slug": "agadez-ne001"
+        }
+      },
+      {
+        "id": "NE001003",
+        "level": 2,
+        "name": {
+          "local": "Bilma",
+          "en": "Bilma",
+          "slug": "bilma-ne001003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.398",
+      "lon": "13.876"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE001003002",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dirkou",
+      "en": "Dirkou",
+      "slug": "dirkou-ne001003002"
+    },
+    "code": {
+      "id": "NE001003002",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE001003",
+      "level": 2,
+      "name": {
+        "local": "Bilma",
+        "en": "Bilma",
+        "slug": "bilma-ne001003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE001",
+        "level": 1,
+        "name": {
+          "local": "Agadez",
+          "en": "Agadez",
+          "slug": "agadez-ne001"
+        }
+      },
+      {
+        "id": "NE001003",
+        "level": 2,
+        "name": {
+          "local": "Bilma",
+          "en": "Bilma",
+          "slug": "bilma-ne001003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.806",
+      "lon": "14.631"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE001003003",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Djado",
+      "en": "Djado",
+      "slug": "djado-ne001003003"
+    },
+    "code": {
+      "id": "NE001003003",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE001003",
+      "level": 2,
+      "name": {
+        "local": "Bilma",
+        "en": "Bilma",
+        "slug": "bilma-ne001003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE001",
+        "level": 1,
+        "name": {
+          "local": "Agadez",
+          "en": "Agadez",
+          "slug": "agadez-ne001"
+        }
+      },
+      {
+        "id": "NE001003",
+        "level": 2,
+        "name": {
+          "local": "Bilma",
+          "en": "Bilma",
+          "slug": "bilma-ne001003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.582",
+      "lon": "13.091"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE001003004",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Fachi",
+      "en": "Fachi",
+      "slug": "fachi-ne001003004"
+    },
+    "code": {
+      "id": "NE001003004",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE001003",
+      "level": 2,
+      "name": {
+        "local": "Bilma",
+        "en": "Bilma",
+        "slug": "bilma-ne001003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE001",
+        "level": 1,
+        "name": {
+          "local": "Agadez",
+          "en": "Agadez",
+          "slug": "agadez-ne001"
+        }
+      },
+      {
+        "id": "NE001003",
+        "level": 2,
+        "name": {
+          "local": "Bilma",
+          "en": "Bilma",
+          "slug": "bilma-ne001003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.372",
+      "lon": "11.584"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,10 @@
+id,name.local,name.en,name.slug,code.id,children_count.commune,geo.lat,geo.lon
+NE004001,Aguié,Aguié,agui-ne004001,NE004001,2,13.482,7.631
+NE004002,Bermo,Bermo,bermo-ne004002,NE004002,2,14.972,6.975
+NE004003,Dakoro,Dakoro,dakoro-ne004003,NE004003,12,14.374,6.827
+NE004004,Gazaoua,Gazaoua,gazaoua-ne004004,NE004004,2,13.428,7.935
+NE004005,Guidan Roumdji,Guidan Roumdji,guidan-roumdji-ne004005,NE004005,5,13.57,6.959
+NE004006,Madarounfa,Madarounfa,madarounfa-ne004006,NE004006,6,13.269,7.183
+NE004008,Mayahi,Mayahi,mayahi-ne004008,NE004008,8,14.129,7.612
+NE004009,Tessaoua,Tessaoua,tessaoua-ne004009,NE004009,7,13.828,8.149
+NE004007,Ville de Maradi,Ville de Maradi,ville-de-maradi-ne004007,NE004007,3,13.49,7.125

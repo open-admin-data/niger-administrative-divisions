@@ -1,0 +1,613 @@
+[
+  {
+    "id": "NE006001",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Abala",
+      "en": "Abala",
+      "slug": "abala-ne006001"
+    },
+    "code": {
+      "id": "NE006001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE006",
+      "level": 1,
+      "name": {
+        "local": "Tillabéri",
+        "en": "Tillabéri",
+        "slug": "tillabri-ne006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE006",
+        "level": 1,
+        "name": {
+          "local": "Tillabéri",
+          "en": "Tillabéri",
+          "slug": "tillabri-ne006"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.997",
+      "lon": "3.562"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE006002",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Ayerou",
+      "en": "Ayerou",
+      "slug": "ayerou-ne006002"
+    },
+    "code": {
+      "id": "NE006002",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE006",
+      "level": 1,
+      "name": {
+        "local": "Tillabéri",
+        "en": "Tillabéri",
+        "slug": "tillabri-ne006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE006",
+        "level": 1,
+        "name": {
+          "local": "Tillabéri",
+          "en": "Tillabéri",
+          "slug": "tillabri-ne006"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.953",
+      "lon": "1.064"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE006003",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Balleyara",
+      "en": "Balleyara",
+      "slug": "balleyara-ne006003"
+    },
+    "code": {
+      "id": "NE006003",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE006",
+      "level": 1,
+      "name": {
+        "local": "Tillabéri",
+        "en": "Tillabéri",
+        "slug": "tillabri-ne006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE006",
+        "level": 1,
+        "name": {
+          "local": "Tillabéri",
+          "en": "Tillabéri",
+          "slug": "tillabri-ne006"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.704",
+      "lon": "2.891"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE006004",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Banibangou",
+      "en": "Banibangou",
+      "slug": "banibangou-ne006004"
+    },
+    "code": {
+      "id": "NE006004",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE006",
+      "level": 1,
+      "name": {
+        "local": "Tillabéri",
+        "en": "Tillabéri",
+        "slug": "tillabri-ne006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE006",
+        "level": 1,
+        "name": {
+          "local": "Tillabéri",
+          "en": "Tillabéri",
+          "slug": "tillabri-ne006"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.035",
+      "lon": "2.457"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE006005",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Bankilaré",
+      "en": "Bankilaré",
+      "slug": "bankilar-ne006005"
+    },
+    "code": {
+      "id": "NE006005",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE006",
+      "level": 1,
+      "name": {
+        "local": "Tillabéri",
+        "en": "Tillabéri",
+        "slug": "tillabri-ne006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE006",
+        "level": 1,
+        "name": {
+          "local": "Tillabéri",
+          "en": "Tillabéri",
+          "slug": "tillabri-ne006"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.444",
+      "lon": "0.632"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE006006",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Filingué",
+      "en": "Filingué",
+      "slug": "filingu-ne006006"
+    },
+    "code": {
+      "id": "NE006006",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE006",
+      "level": 1,
+      "name": {
+        "local": "Tillabéri",
+        "en": "Tillabéri",
+        "slug": "tillabri-ne006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE006",
+        "level": 1,
+        "name": {
+          "local": "Tillabéri",
+          "en": "Tillabéri",
+          "slug": "tillabri-ne006"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.313",
+      "lon": "3.321"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE006007",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Gothèye",
+      "en": "Gothèye",
+      "slug": "gothye-ne006007"
+    },
+    "code": {
+      "id": "NE006007",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE006",
+      "level": 1,
+      "name": {
+        "local": "Tillabéri",
+        "en": "Tillabéri",
+        "slug": "tillabri-ne006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE006",
+        "level": 1,
+        "name": {
+          "local": "Tillabéri",
+          "en": "Tillabéri",
+          "slug": "tillabri-ne006"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.799",
+      "lon": "1.454"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE006008",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Kollo",
+      "en": "Kollo",
+      "slug": "kollo-ne006008"
+    },
+    "code": {
+      "id": "NE006008",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE006",
+      "level": 1,
+      "name": {
+        "local": "Tillabéri",
+        "en": "Tillabéri",
+        "slug": "tillabri-ne006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE006",
+        "level": 1,
+        "name": {
+          "local": "Tillabéri",
+          "en": "Tillabéri",
+          "slug": "tillabri-ne006"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.19",
+      "lon": "2.212"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE006009",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Ouallam",
+      "en": "Ouallam",
+      "slug": "ouallam-ne006009"
+    },
+    "code": {
+      "id": "NE006009",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE006",
+      "level": 1,
+      "name": {
+        "local": "Tillabéri",
+        "en": "Tillabéri",
+        "slug": "tillabri-ne006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE006",
+        "level": 1,
+        "name": {
+          "local": "Tillabéri",
+          "en": "Tillabéri",
+          "slug": "tillabri-ne006"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.583",
+      "lon": "2.195"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE006010",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Say",
+      "en": "Say",
+      "slug": "say-ne006010"
+    },
+    "code": {
+      "id": "NE006010",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE006",
+      "level": 1,
+      "name": {
+        "local": "Tillabéri",
+        "en": "Tillabéri",
+        "slug": "tillabri-ne006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE006",
+        "level": 1,
+        "name": {
+          "local": "Tillabéri",
+          "en": "Tillabéri",
+          "slug": "tillabri-ne006"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.597",
+      "lon": "2.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE006011",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Téra",
+      "en": "Téra",
+      "slug": "tra-ne006011"
+    },
+    "code": {
+      "id": "NE006011",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE006",
+      "level": 1,
+      "name": {
+        "local": "Tillabéri",
+        "en": "Tillabéri",
+        "slug": "tillabri-ne006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE006",
+        "level": 1,
+        "name": {
+          "local": "Tillabéri",
+          "en": "Tillabéri",
+          "slug": "tillabri-ne006"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.311",
+      "lon": "0.896"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE006012",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Tillabéri",
+      "en": "Tillabéri",
+      "slug": "tillabri-ne006012"
+    },
+    "code": {
+      "id": "NE006012",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE006",
+      "level": 1,
+      "name": {
+        "local": "Tillabéri",
+        "en": "Tillabéri",
+        "slug": "tillabri-ne006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE006",
+        "level": 1,
+        "name": {
+          "local": "Tillabéri",
+          "en": "Tillabéri",
+          "slug": "tillabri-ne006"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.386",
+      "lon": "1.414"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE006013",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Torodi",
+      "en": "Torodi",
+      "slug": "torodi-ne006013"
+    },
+    "code": {
+      "id": "NE006013",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE006",
+      "level": 1,
+      "name": {
+        "local": "Tillabéri",
+        "en": "Tillabéri",
+        "slug": "tillabri-ne006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE006",
+        "level": 1,
+        "name": {
+          "local": "Tillabéri",
+          "en": "Tillabéri",
+          "slug": "tillabri-ne006"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.149",
+      "lon": "1.472"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

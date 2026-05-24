@@ -1,0 +1,434 @@
+[
+  {
+    "id": "NE003001001",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Birni N'Gaouré",
+      "en": "Birni N'Gaouré",
+      "slug": "birni-ngaour-ne003001001"
+    },
+    "code": {
+      "id": "NE003001001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE003001",
+      "level": 2,
+      "name": {
+        "local": "Boboye",
+        "en": "Boboye",
+        "slug": "boboye-ne003001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE003",
+        "level": 1,
+        "name": {
+          "local": "Dosso",
+          "en": "Dosso",
+          "slug": "dosso-ne003"
+        }
+      },
+      {
+        "id": "NE003001",
+        "level": 2,
+        "name": {
+          "local": "Boboye",
+          "en": "Boboye",
+          "slug": "boboye-ne003001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.069",
+      "lon": "2.874"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE003001002",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Fabidji",
+      "en": "Fabidji",
+      "slug": "fabidji-ne003001002"
+    },
+    "code": {
+      "id": "NE003001002",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE003001",
+      "level": 2,
+      "name": {
+        "local": "Boboye",
+        "en": "Boboye",
+        "slug": "boboye-ne003001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE003",
+        "level": 1,
+        "name": {
+          "local": "Dosso",
+          "en": "Dosso",
+          "slug": "dosso-ne003"
+        }
+      },
+      {
+        "id": "NE003001",
+        "level": 2,
+        "name": {
+          "local": "Boboye",
+          "en": "Boboye",
+          "slug": "boboye-ne003001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.914",
+      "lon": "2.793"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE003001003",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Fakara",
+      "en": "Fakara",
+      "slug": "fakara-ne003001003"
+    },
+    "code": {
+      "id": "NE003001003",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE003001",
+      "level": 2,
+      "name": {
+        "local": "Boboye",
+        "en": "Boboye",
+        "slug": "boboye-ne003001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE003",
+        "level": 1,
+        "name": {
+          "local": "Dosso",
+          "en": "Dosso",
+          "slug": "dosso-ne003"
+        }
+      },
+      {
+        "id": "NE003001",
+        "level": 2,
+        "name": {
+          "local": "Boboye",
+          "en": "Boboye",
+          "slug": "boboye-ne003001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.139",
+      "lon": "2.594"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE003001004",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Harikanassou",
+      "en": "Harikanassou",
+      "slug": "harikanassou-ne003001004"
+    },
+    "code": {
+      "id": "NE003001004",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE003001",
+      "level": 2,
+      "name": {
+        "local": "Boboye",
+        "en": "Boboye",
+        "slug": "boboye-ne003001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE003",
+        "level": 1,
+        "name": {
+          "local": "Dosso",
+          "en": "Dosso",
+          "slug": "dosso-ne003"
+        }
+      },
+      {
+        "id": "NE003001",
+        "level": 2,
+        "name": {
+          "local": "Boboye",
+          "en": "Boboye",
+          "slug": "boboye-ne003001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.319",
+      "lon": "2.855"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE003001005",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kankandi",
+      "en": "Kankandi",
+      "slug": "kankandi-ne003001005"
+    },
+    "code": {
+      "id": "NE003001005",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE003001",
+      "level": 2,
+      "name": {
+        "local": "Boboye",
+        "en": "Boboye",
+        "slug": "boboye-ne003001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE003",
+        "level": 1,
+        "name": {
+          "local": "Dosso",
+          "en": "Dosso",
+          "slug": "dosso-ne003"
+        }
+      },
+      {
+        "id": "NE003001",
+        "level": 2,
+        "name": {
+          "local": "Boboye",
+          "en": "Boboye",
+          "slug": "boboye-ne003001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.843",
+      "lon": "2.956"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE003001006",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kiota",
+      "en": "Kiota",
+      "slug": "kiota-ne003001006"
+    },
+    "code": {
+      "id": "NE003001006",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE003001",
+      "level": 2,
+      "name": {
+        "local": "Boboye",
+        "en": "Boboye",
+        "slug": "boboye-ne003001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE003",
+        "level": 1,
+        "name": {
+          "local": "Dosso",
+          "en": "Dosso",
+          "slug": "dosso-ne003"
+        }
+      },
+      {
+        "id": "NE003001",
+        "level": 2,
+        "name": {
+          "local": "Boboye",
+          "en": "Boboye",
+          "slug": "boboye-ne003001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.288",
+      "lon": "2.949"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE003001007",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Koygolo",
+      "en": "Koygolo",
+      "slug": "koygolo-ne003001007"
+    },
+    "code": {
+      "id": "NE003001007",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE003001",
+      "level": 2,
+      "name": {
+        "local": "Boboye",
+        "en": "Boboye",
+        "slug": "boboye-ne003001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE003",
+        "level": 1,
+        "name": {
+          "local": "Dosso",
+          "en": "Dosso",
+          "slug": "dosso-ne003"
+        }
+      },
+      {
+        "id": "NE003001",
+        "level": 2,
+        "name": {
+          "local": "Boboye",
+          "en": "Boboye",
+          "slug": "boboye-ne003001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.501",
+      "lon": "2.98"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE003001008",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "N'Gonga",
+      "en": "N'Gonga",
+      "slug": "ngonga-ne003001008"
+    },
+    "code": {
+      "id": "NE003001008",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE003001",
+      "level": 2,
+      "name": {
+        "local": "Boboye",
+        "en": "Boboye",
+        "slug": "boboye-ne003001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE003",
+        "level": 1,
+        "name": {
+          "local": "Dosso",
+          "en": "Dosso",
+          "slug": "dosso-ne003"
+        }
+      },
+      {
+        "id": "NE003001",
+        "level": 2,
+        "name": {
+          "local": "Boboye",
+          "en": "Boboye",
+          "slug": "boboye-ne003001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.194",
+      "lon": "2.847"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

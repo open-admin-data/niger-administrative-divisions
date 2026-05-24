@@ -1,0 +1,218 @@
+[
+  {
+    "id": "NE003008001",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Doumega",
+      "en": "Doumega",
+      "slug": "doumega-ne003008001"
+    },
+    "code": {
+      "id": "NE003008001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE003008",
+      "level": 2,
+      "name": {
+        "local": "Tibiri",
+        "en": "Tibiri",
+        "slug": "tibiri-ne003008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE003",
+        "level": 1,
+        "name": {
+          "local": "Dosso",
+          "en": "Dosso",
+          "slug": "dosso-ne003"
+        }
+      },
+      {
+        "id": "NE003008",
+        "level": 2,
+        "name": {
+          "local": "Tibiri",
+          "en": "Tibiri",
+          "slug": "tibiri-ne003008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.981",
+      "lon": "3.999"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE003008002",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Guéchémé",
+      "en": "Guéchémé",
+      "slug": "guchm-ne003008002"
+    },
+    "code": {
+      "id": "NE003008002",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE003008",
+      "level": 2,
+      "name": {
+        "local": "Tibiri",
+        "en": "Tibiri",
+        "slug": "tibiri-ne003008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE003",
+        "level": 1,
+        "name": {
+          "local": "Dosso",
+          "en": "Dosso",
+          "slug": "dosso-ne003"
+        }
+      },
+      {
+        "id": "NE003008",
+        "level": 2,
+        "name": {
+          "local": "Tibiri",
+          "en": "Tibiri",
+          "slug": "tibiri-ne003008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.912",
+      "lon": "3.807"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE003008003",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Koré Maïroua",
+      "en": "Koré Maïroua",
+      "slug": "kor-maroua-ne003008003"
+    },
+    "code": {
+      "id": "NE003008003",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE003008",
+      "level": 2,
+      "name": {
+        "local": "Tibiri",
+        "en": "Tibiri",
+        "slug": "tibiri-ne003008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE003",
+        "level": 1,
+        "name": {
+          "local": "Dosso",
+          "en": "Dosso",
+          "slug": "dosso-ne003"
+        }
+      },
+      {
+        "id": "NE003008",
+        "level": 2,
+        "name": {
+          "local": "Tibiri",
+          "en": "Tibiri",
+          "slug": "tibiri-ne003008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.32",
+      "lon": "3.929"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE003008004",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tibiri",
+      "en": "Tibiri",
+      "slug": "tibiri-ne003008004"
+    },
+    "code": {
+      "id": "NE003008004",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE003008",
+      "level": 2,
+      "name": {
+        "local": "Tibiri",
+        "en": "Tibiri",
+        "slug": "tibiri-ne003008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE003",
+        "level": 1,
+        "name": {
+          "local": "Dosso",
+          "en": "Dosso",
+          "slug": "dosso-ne003"
+        }
+      },
+      {
+        "id": "NE003008",
+        "level": 2,
+        "name": {
+          "local": "Tibiri",
+          "en": "Tibiri",
+          "slug": "tibiri-ne003008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.142",
+      "lon": "3.955"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

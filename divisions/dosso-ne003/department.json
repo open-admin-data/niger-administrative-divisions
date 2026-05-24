@@ -1,0 +1,378 @@
+[
+  {
+    "id": "NE003001",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Boboye",
+      "en": "Boboye",
+      "slug": "boboye-ne003001"
+    },
+    "code": {
+      "id": "NE003001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE003",
+      "level": 1,
+      "name": {
+        "local": "Dosso",
+        "en": "Dosso",
+        "slug": "dosso-ne003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE003",
+        "level": 1,
+        "name": {
+          "local": "Dosso",
+          "en": "Dosso",
+          "slug": "dosso-ne003"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.167",
+      "lon": "2.723"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE003002",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Dioundiou",
+      "en": "Dioundiou",
+      "slug": "dioundiou-ne003002"
+    },
+    "code": {
+      "id": "NE003002",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE003",
+      "level": 1,
+      "name": {
+        "local": "Dosso",
+        "en": "Dosso",
+        "slug": "dosso-ne003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE003",
+        "level": 1,
+        "name": {
+          "local": "Dosso",
+          "en": "Dosso",
+          "slug": "dosso-ne003"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.659",
+      "lon": "3.666"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE003003",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Dogondoutchi",
+      "en": "Dogondoutchi",
+      "slug": "dogondoutchi-ne003003"
+    },
+    "code": {
+      "id": "NE003003",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE003",
+      "level": 1,
+      "name": {
+        "local": "Dosso",
+        "en": "Dosso",
+        "slug": "dosso-ne003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE003",
+        "level": 1,
+        "name": {
+          "local": "Dosso",
+          "en": "Dosso",
+          "slug": "dosso-ne003"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.973",
+      "lon": "4.091"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE003004",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Dosso",
+      "en": "Dosso",
+      "slug": "dosso-ne003004"
+    },
+    "code": {
+      "id": "NE003004",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE003",
+      "level": 1,
+      "name": {
+        "local": "Dosso",
+        "en": "Dosso",
+        "slug": "dosso-ne003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE003",
+        "level": 1,
+        "name": {
+          "local": "Dosso",
+          "en": "Dosso",
+          "slug": "dosso-ne003"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.841",
+      "lon": "3.255"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE003005",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Falmey",
+      "en": "Falmey",
+      "slug": "falmey-ne003005"
+    },
+    "code": {
+      "id": "NE003005",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE003",
+      "level": 1,
+      "name": {
+        "local": "Dosso",
+        "en": "Dosso",
+        "slug": "dosso-ne003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE003",
+        "level": 1,
+        "name": {
+          "local": "Dosso",
+          "en": "Dosso",
+          "slug": "dosso-ne003"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.557",
+      "lon": "2.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE003006",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Gaya",
+      "en": "Gaya",
+      "slug": "gaya-ne003006"
+    },
+    "code": {
+      "id": "NE003006",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE003",
+      "level": 1,
+      "name": {
+        "local": "Dosso",
+        "en": "Dosso",
+        "slug": "dosso-ne003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE003",
+        "level": 1,
+        "name": {
+          "local": "Dosso",
+          "en": "Dosso",
+          "slug": "dosso-ne003"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.054",
+      "lon": "3.435"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE003007",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Loga",
+      "en": "Loga",
+      "slug": "loga-ne003007"
+    },
+    "code": {
+      "id": "NE003007",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE003",
+      "level": 1,
+      "name": {
+        "local": "Dosso",
+        "en": "Dosso",
+        "slug": "dosso-ne003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE003",
+        "level": 1,
+        "name": {
+          "local": "Dosso",
+          "en": "Dosso",
+          "slug": "dosso-ne003"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.632",
+      "lon": "3.446"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE003008",
+    "level": 2,
+    "level_name": {
+      "local": "Département",
+      "en": "Department"
+    },
+    "name": {
+      "local": "Tibiri",
+      "en": "Tibiri",
+      "slug": "tibiri-ne003008"
+    },
+    "code": {
+      "id": "NE003008",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE003",
+      "level": 1,
+      "name": {
+        "local": "Dosso",
+        "en": "Dosso",
+        "slug": "dosso-ne003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE003",
+        "level": 1,
+        "name": {
+          "local": "Dosso",
+          "en": "Dosso",
+          "slug": "dosso-ne003"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.09",
+      "lon": "3.919"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

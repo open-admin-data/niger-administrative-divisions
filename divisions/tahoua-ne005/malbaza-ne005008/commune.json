@@ -1,0 +1,110 @@
+[
+  {
+    "id": "NE005008001",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Doguerawa",
+      "en": "Doguerawa",
+      "slug": "doguerawa-ne005008001"
+    },
+    "code": {
+      "id": "NE005008001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE005008",
+      "level": 2,
+      "name": {
+        "local": "Malbaza",
+        "en": "Malbaza",
+        "slug": "malbaza-ne005008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE005",
+        "level": 1,
+        "name": {
+          "local": "Tahoua",
+          "en": "Tahoua",
+          "slug": "tahoua-ne005"
+        }
+      },
+      {
+        "id": "NE005008",
+        "level": 2,
+        "name": {
+          "local": "Malbaza",
+          "en": "Malbaza",
+          "slug": "malbaza-ne005008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.035",
+      "lon": "5.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE005008002",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Malbaza",
+      "en": "Malbaza",
+      "slug": "malbaza-ne005008002"
+    },
+    "code": {
+      "id": "NE005008002",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE005008",
+      "level": 2,
+      "name": {
+        "local": "Malbaza",
+        "en": "Malbaza",
+        "slug": "malbaza-ne005008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE005",
+        "level": 1,
+        "name": {
+          "local": "Tahoua",
+          "en": "Tahoua",
+          "slug": "tahoua-ne005"
+        }
+      },
+      {
+        "id": "NE005008",
+        "level": 2,
+        "name": {
+          "local": "Malbaza",
+          "en": "Malbaza",
+          "slug": "malbaza-ne005008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.07",
+      "lon": "5.45"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

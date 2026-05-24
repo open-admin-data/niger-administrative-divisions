@@ -1,0 +1,218 @@
+[
+  {
+    "id": "NE007003001",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dogo-Dogo",
+      "en": "Dogo-Dogo",
+      "slug": "dogo-dogo-ne007003001"
+    },
+    "code": {
+      "id": "NE007003001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE007003",
+      "level": 2,
+      "name": {
+        "local": "Dungass",
+        "en": "Dungass",
+        "slug": "dungass-ne007003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE007",
+        "level": 1,
+        "name": {
+          "local": "Zinder",
+          "en": "Zinder",
+          "slug": "zinder-ne007"
+        }
+      },
+      {
+        "id": "NE007003",
+        "level": 2,
+        "name": {
+          "local": "Dungass",
+          "en": "Dungass",
+          "slug": "dungass-ne007003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.915",
+      "lon": "9.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE007003002",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dungass",
+      "en": "Dungass",
+      "slug": "dungass-ne007003002"
+    },
+    "code": {
+      "id": "NE007003002",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE007003",
+      "level": 2,
+      "name": {
+        "local": "Dungass",
+        "en": "Dungass",
+        "slug": "dungass-ne007003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE007",
+        "level": 1,
+        "name": {
+          "local": "Zinder",
+          "en": "Zinder",
+          "slug": "zinder-ne007"
+        }
+      },
+      {
+        "id": "NE007003",
+        "level": 2,
+        "name": {
+          "local": "Dungass",
+          "en": "Dungass",
+          "slug": "dungass-ne007003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.087",
+      "lon": "9.315"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE007003003",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Gouchi",
+      "en": "Gouchi",
+      "slug": "gouchi-ne007003003"
+    },
+    "code": {
+      "id": "NE007003003",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE007003",
+      "level": 2,
+      "name": {
+        "local": "Dungass",
+        "en": "Dungass",
+        "slug": "dungass-ne007003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE007",
+        "level": 1,
+        "name": {
+          "local": "Zinder",
+          "en": "Zinder",
+          "slug": "zinder-ne007"
+        }
+      },
+      {
+        "id": "NE007003",
+        "level": 2,
+        "name": {
+          "local": "Dungass",
+          "en": "Dungass",
+          "slug": "dungass-ne007003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.365",
+      "lon": "9.59"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE007003004",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Malawa",
+      "en": "Malawa",
+      "slug": "malawa-ne007003004"
+    },
+    "code": {
+      "id": "NE007003004",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE007003",
+      "level": 2,
+      "name": {
+        "local": "Dungass",
+        "en": "Dungass",
+        "slug": "dungass-ne007003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE007",
+        "level": 1,
+        "name": {
+          "local": "Zinder",
+          "en": "Zinder",
+          "slug": "zinder-ne007"
+        }
+      },
+      {
+        "id": "NE007003",
+        "level": 2,
+        "name": {
+          "local": "Dungass",
+          "en": "Dungass",
+          "slug": "dungass-ne007003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.987",
+      "lon": "9.685"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

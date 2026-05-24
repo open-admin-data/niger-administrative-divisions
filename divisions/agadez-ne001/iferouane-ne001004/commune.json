@@ -1,0 +1,110 @@
+[
+  {
+    "id": "NE001004001",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Iferouane",
+      "en": "Iferouane",
+      "slug": "iferouane-ne001004001"
+    },
+    "code": {
+      "id": "NE001004001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE001004",
+      "level": 2,
+      "name": {
+        "local": "Iferouane",
+        "en": "Iferouane",
+        "slug": "iferouane-ne001004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE001",
+        "level": 1,
+        "name": {
+          "local": "Agadez",
+          "en": "Agadez",
+          "slug": "agadez-ne001"
+        }
+      },
+      {
+        "id": "NE001004",
+        "level": 2,
+        "name": {
+          "local": "Iferouane",
+          "en": "Iferouane",
+          "slug": "iferouane-ne001004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.519",
+      "lon": "9.486"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE001004002",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Timia",
+      "en": "Timia",
+      "slug": "timia-ne001004002"
+    },
+    "code": {
+      "id": "NE001004002",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE001004",
+      "level": 2,
+      "name": {
+        "local": "Iferouane",
+        "en": "Iferouane",
+        "slug": "iferouane-ne001004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE001",
+        "level": 1,
+        "name": {
+          "local": "Agadez",
+          "en": "Agadez",
+          "slug": "agadez-ne001"
+        }
+      },
+      {
+        "id": "NE001004",
+        "level": 2,
+        "name": {
+          "local": "Iferouane",
+          "en": "Iferouane",
+          "slug": "iferouane-ne001004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.398",
+      "lon": "9.711"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

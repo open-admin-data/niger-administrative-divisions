@@ -1,0 +1,380 @@
+[
+  {
+    "id": "NE007006001",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bandé",
+      "en": "Bandé",
+      "slug": "band-ne007006001"
+    },
+    "code": {
+      "id": "NE007006001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE007006",
+      "level": 2,
+      "name": {
+        "local": "Magaria",
+        "en": "Magaria",
+        "slug": "magaria-ne007006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE007",
+        "level": 1,
+        "name": {
+          "local": "Zinder",
+          "en": "Zinder",
+          "slug": "zinder-ne007"
+        }
+      },
+      {
+        "id": "NE007006",
+        "level": 2,
+        "name": {
+          "local": "Magaria",
+          "en": "Magaria",
+          "slug": "magaria-ne007006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.169",
+      "lon": "8.906"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE007006002",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dantchiao",
+      "en": "Dantchiao",
+      "slug": "dantchiao-ne007006002"
+    },
+    "code": {
+      "id": "NE007006002",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE007006",
+      "level": 2,
+      "name": {
+        "local": "Magaria",
+        "en": "Magaria",
+        "slug": "magaria-ne007006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE007",
+        "level": 1,
+        "name": {
+          "local": "Zinder",
+          "en": "Zinder",
+          "slug": "zinder-ne007"
+        }
+      },
+      {
+        "id": "NE007006",
+        "level": 2,
+        "name": {
+          "local": "Magaria",
+          "en": "Magaria",
+          "slug": "magaria-ne007006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.962",
+      "lon": "9.081"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE007006003",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kwaya",
+      "en": "Kwaya",
+      "slug": "kwaya-ne007006003"
+    },
+    "code": {
+      "id": "NE007006003",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE007006",
+      "level": 2,
+      "name": {
+        "local": "Magaria",
+        "en": "Magaria",
+        "slug": "magaria-ne007006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE007",
+        "level": 1,
+        "name": {
+          "local": "Zinder",
+          "en": "Zinder",
+          "slug": "zinder-ne007"
+        }
+      },
+      {
+        "id": "NE007006",
+        "level": 2,
+        "name": {
+          "local": "Magaria",
+          "en": "Magaria",
+          "slug": "magaria-ne007006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.165",
+      "lon": "8.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE007006004",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Magaria",
+      "en": "Magaria",
+      "slug": "magaria-ne007006004"
+    },
+    "code": {
+      "id": "NE007006004",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE007006",
+      "level": 2,
+      "name": {
+        "local": "Magaria",
+        "en": "Magaria",
+        "slug": "magaria-ne007006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE007",
+        "level": 1,
+        "name": {
+          "local": "Zinder",
+          "en": "Zinder",
+          "slug": "zinder-ne007"
+        }
+      },
+      {
+        "id": "NE007006",
+        "level": 2,
+        "name": {
+          "local": "Magaria",
+          "en": "Magaria",
+          "slug": "magaria-ne007006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.98",
+      "lon": "8.863"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE007006005",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sassoumbroum",
+      "en": "Sassoumbroum",
+      "slug": "sassoumbroum-ne007006005"
+    },
+    "code": {
+      "id": "NE007006005",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE007006",
+      "level": 2,
+      "name": {
+        "local": "Magaria",
+        "en": "Magaria",
+        "slug": "magaria-ne007006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE007",
+        "level": 1,
+        "name": {
+          "local": "Zinder",
+          "en": "Zinder",
+          "slug": "zinder-ne007"
+        }
+      },
+      {
+        "id": "NE007006",
+        "level": 2,
+        "name": {
+          "local": "Magaria",
+          "en": "Magaria",
+          "slug": "magaria-ne007006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.126",
+      "lon": "8.486"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE007006006",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Wacha",
+      "en": "Wacha",
+      "slug": "wacha-ne007006006"
+    },
+    "code": {
+      "id": "NE007006006",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE007006",
+      "level": 2,
+      "name": {
+        "local": "Magaria",
+        "en": "Magaria",
+        "slug": "magaria-ne007006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE007",
+        "level": 1,
+        "name": {
+          "local": "Zinder",
+          "en": "Zinder",
+          "slug": "zinder-ne007"
+        }
+      },
+      {
+        "id": "NE007006",
+        "level": 2,
+        "name": {
+          "local": "Magaria",
+          "en": "Magaria",
+          "slug": "magaria-ne007006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.401",
+      "lon": "9.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE007006007",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Yékoua",
+      "en": "Yékoua",
+      "slug": "ykoua-ne007006007"
+    },
+    "code": {
+      "id": "NE007006007",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE007006",
+      "level": 2,
+      "name": {
+        "local": "Magaria",
+        "en": "Magaria",
+        "slug": "magaria-ne007006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE007",
+        "level": 1,
+        "name": {
+          "local": "Zinder",
+          "en": "Zinder",
+          "slug": "zinder-ne007"
+        }
+      },
+      {
+        "id": "NE007006",
+        "level": 2,
+        "name": {
+          "local": "Magaria",
+          "en": "Magaria",
+          "slug": "magaria-ne007006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.015",
+      "lon": "8.676"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

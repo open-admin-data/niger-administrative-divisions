@@ -1,0 +1,164 @@
+[
+  {
+    "id": "NE007008001",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dakoussa",
+      "en": "Dakoussa",
+      "slug": "dakoussa-ne007008001"
+    },
+    "code": {
+      "id": "NE007008001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE007008",
+      "level": 2,
+      "name": {
+        "local": "Takeita",
+        "en": "Takeita",
+        "slug": "takeita-ne007008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE007",
+        "level": 1,
+        "name": {
+          "local": "Zinder",
+          "en": "Zinder",
+          "slug": "zinder-ne007"
+        }
+      },
+      {
+        "id": "NE007008",
+        "level": 2,
+        "name": {
+          "local": "Takeita",
+          "en": "Takeita",
+          "slug": "takeita-ne007008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.061",
+      "lon": "8.966"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE007008002",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Garagoumsa",
+      "en": "Garagoumsa",
+      "slug": "garagoumsa-ne007008002"
+    },
+    "code": {
+      "id": "NE007008002",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE007008",
+      "level": 2,
+      "name": {
+        "local": "Takeita",
+        "en": "Takeita",
+        "slug": "takeita-ne007008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE007",
+        "level": 1,
+        "name": {
+          "local": "Zinder",
+          "en": "Zinder",
+          "slug": "zinder-ne007"
+        }
+      },
+      {
+        "id": "NE007008",
+        "level": 2,
+        "name": {
+          "local": "Takeita",
+          "en": "Takeita",
+          "slug": "takeita-ne007008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.736",
+      "lon": "8.406"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE007008003",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tirmini",
+      "en": "Tirmini",
+      "slug": "tirmini-ne007008003"
+    },
+    "code": {
+      "id": "NE007008003",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE007008",
+      "level": 2,
+      "name": {
+        "local": "Takeita",
+        "en": "Takeita",
+        "slug": "takeita-ne007008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE007",
+        "level": 1,
+        "name": {
+          "local": "Zinder",
+          "en": "Zinder",
+          "slug": "zinder-ne007"
+        }
+      },
+      {
+        "id": "NE007008",
+        "level": 2,
+        "name": {
+          "local": "Takeita",
+          "en": "Takeita",
+          "slug": "takeita-ne007008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.929",
+      "lon": "8.725"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

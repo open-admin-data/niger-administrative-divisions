@@ -1,0 +1,56 @@
+[
+  {
+    "id": "NE002003001",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Goudoumaria",
+      "en": "Goudoumaria",
+      "slug": "goudoumaria-ne002003001"
+    },
+    "code": {
+      "id": "NE002003001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE002003",
+      "level": 2,
+      "name": {
+        "local": "Goudoumaria",
+        "en": "Goudoumaria",
+        "slug": "goudoumaria-ne002003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE002",
+        "level": 1,
+        "name": {
+          "local": "Diffa",
+          "en": "Diffa",
+          "slug": "diffa-ne002"
+        }
+      },
+      {
+        "id": "NE002003",
+        "level": 2,
+        "name": {
+          "local": "Goudoumaria",
+          "en": "Goudoumaria",
+          "slug": "goudoumaria-ne002003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.844",
+      "lon": "11.256"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

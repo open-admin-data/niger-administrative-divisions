@@ -1,0 +1,272 @@
+[
+  {
+    "id": "NE007009001",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Falenko",
+      "en": "Falenko",
+      "slug": "falenko-ne007009001"
+    },
+    "code": {
+      "id": "NE007009001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE007009",
+      "level": 2,
+      "name": {
+        "local": "Tanout",
+        "en": "Tanout",
+        "slug": "tanout-ne007009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE007",
+        "level": 1,
+        "name": {
+          "local": "Zinder",
+          "en": "Zinder",
+          "slug": "zinder-ne007"
+        }
+      },
+      {
+        "id": "NE007009",
+        "level": 2,
+        "name": {
+          "local": "Tanout",
+          "en": "Tanout",
+          "slug": "tanout-ne007009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.234",
+      "lon": "8.523"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE007009002",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Gangara",
+      "en": "Gangara",
+      "slug": "gangara-ne007009002"
+    },
+    "code": {
+      "id": "NE007009002",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE007009",
+      "level": 2,
+      "name": {
+        "local": "Tanout",
+        "en": "Tanout",
+        "slug": "tanout-ne007009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE007",
+        "level": 1,
+        "name": {
+          "local": "Zinder",
+          "en": "Zinder",
+          "slug": "zinder-ne007"
+        }
+      },
+      {
+        "id": "NE007009",
+        "level": 2,
+        "name": {
+          "local": "Tanout",
+          "en": "Tanout",
+          "slug": "tanout-ne007009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.607",
+      "lon": "8.355"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE007009003",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Olléléwa",
+      "en": "Olléléwa",
+      "slug": "olllwa-ne007009003"
+    },
+    "code": {
+      "id": "NE007009003",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE007009",
+      "level": 2,
+      "name": {
+        "local": "Tanout",
+        "en": "Tanout",
+        "slug": "tanout-ne007009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE007",
+        "level": 1,
+        "name": {
+          "local": "Zinder",
+          "en": "Zinder",
+          "slug": "zinder-ne007"
+        }
+      },
+      {
+        "id": "NE007009",
+        "level": 2,
+        "name": {
+          "local": "Tanout",
+          "en": "Tanout",
+          "slug": "tanout-ne007009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.448",
+      "lon": "8.775"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE007009004",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tanout",
+      "en": "Tanout",
+      "slug": "tanout-ne007009004"
+    },
+    "code": {
+      "id": "NE007009004",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE007009",
+      "level": 2,
+      "name": {
+        "local": "Tanout",
+        "en": "Tanout",
+        "slug": "tanout-ne007009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE007",
+        "level": 1,
+        "name": {
+          "local": "Zinder",
+          "en": "Zinder",
+          "slug": "zinder-ne007"
+        }
+      },
+      {
+        "id": "NE007009",
+        "level": 2,
+        "name": {
+          "local": "Tanout",
+          "en": "Tanout",
+          "slug": "tanout-ne007009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.835",
+      "lon": "8.921"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NE007009005",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tenhya",
+      "en": "Tenhya",
+      "slug": "tenhya-ne007009005"
+    },
+    "code": {
+      "id": "NE007009005",
+      "iso": null
+    },
+    "parent": {
+      "id": "NE007009",
+      "level": 2,
+      "name": {
+        "local": "Tanout",
+        "en": "Tanout",
+        "slug": "tanout-ne007009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NE007",
+        "level": 1,
+        "name": {
+          "local": "Zinder",
+          "en": "Zinder",
+          "slug": "zinder-ne007"
+        }
+      },
+      {
+        "id": "NE007009",
+        "level": 2,
+        "name": {
+          "local": "Tanout",
+          "en": "Tanout",
+          "slug": "tanout-ne007009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.421",
+      "lon": "8.976"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

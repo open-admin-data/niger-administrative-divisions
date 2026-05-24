@@ -1,0 +1,30 @@
+{
+  "id": "NE002",
+  "level": 1,
+  "level_name": {
+    "local": "Région",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Diffa",
+    "en": "Diffa",
+    "slug": "diffa-ne002"
+  },
+  "code": {
+    "id": "NE002",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "department": 6,
+    "commune": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.538",
+    "lon": "13.161"
+  },
+  "metadata": {},
+  "source": {}
+}

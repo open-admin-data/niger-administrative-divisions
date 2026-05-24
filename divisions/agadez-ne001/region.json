@@ -1,0 +1,30 @@
+{
+  "id": "NE001",
+  "level": 1,
+  "level_name": {
+    "local": "Région",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Agadez",
+    "en": "Agadez",
+    "slug": "agadez-ne001"
+  },
+  "code": {
+    "id": "NE001",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "department": 6,
+    "commune": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.427",
+    "lon": "10.707"
+  },
+  "metadata": {},
+  "source": {}
+}
