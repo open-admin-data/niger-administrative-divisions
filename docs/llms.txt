@@ -10,7 +10,7 @@
 - Total departments: 67
 - Total communes: 266
 - Coordinates: included (all levels)
-- Last updated: 2026-05-24
+- Last updated: 2026-05-27
 - License: CC-BY-4.0
 
 ## Aggregate Data Files

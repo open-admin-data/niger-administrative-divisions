@@ -12,7 +12,9 @@
 | Coordinates | ✅ Included (all levels) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-05-24 |
+| Last Updated | 2026-05-27 |
+| Website | [openadmindata.org/ne](https://openadmindata.org/ne/) |
+| API | [openadmindata.org/api/ne](https://openadmindata.org/api/ne/) |
 
 ## Browse by Region
 
@@ -112,6 +114,6 @@ See [CITATION.cff](CITATION.cff) for machine-readable citation.
 
 ## Related
 
+- [Open Admin Data](https://openadmindata.org) — Browse, search and explore administrative divisions for every country
+- [open-admin-data](https://github.com/open-admin-data) — GitHub organization with all country repos
 - [ListBase](https://www.listbase.org) — Structured reference data for every country
-- [open-admin-data](https://github.com/open-admin-data) — Open administrative data for ASEAN countries
-- [thailand-administrative-divisions](https://github.com/open-admin-data/thailand-administrative-divisions) — Thailand dataset
