@@ -3,7 +3,7 @@
 > 11 departments, 55 communes
 > Code: NE007
 > Coordinates: 15.219, 9.715
-> Last updated: 2026-05-27. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Departments
 

@@ -26,5 +26,9 @@
     "lon": "5.341"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ne/regions/tahoua-ne005/",
+    "api": "https://openadmindata.org/api/ne/"
+  }
 }

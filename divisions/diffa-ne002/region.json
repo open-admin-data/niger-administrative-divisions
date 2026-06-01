@@ -26,5 +26,9 @@
     "lon": "13.161"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ne/regions/diffa-ne002/",
+    "api": "https://openadmindata.org/api/ne/"
+  }
 }

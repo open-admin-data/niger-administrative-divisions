@@ -26,5 +26,9 @@
     "lon": "2.119"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ne/regions/niamey-ne008/",
+    "api": "https://openadmindata.org/api/ne/"
+  }
 }

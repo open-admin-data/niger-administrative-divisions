@@ -3,7 +3,7 @@
 > 6 departments, 12 communes
 > Code: NE002
 > Coordinates: 15.538, 13.161
-> Last updated: 2026-05-27. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Departments
 

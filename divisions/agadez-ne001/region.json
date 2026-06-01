@@ -26,5 +26,9 @@
     "lon": "10.707"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ne/regions/agadez-ne001/",
+    "api": "https://openadmindata.org/api/ne/"
+  }
 }

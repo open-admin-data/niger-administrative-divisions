@@ -26,5 +26,9 @@
     "lon": "9.715"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ne/regions/zinder-ne007/",
+    "api": "https://openadmindata.org/api/ne/"
+  }
 }

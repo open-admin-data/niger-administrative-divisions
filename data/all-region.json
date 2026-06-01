@@ -27,7 +27,11 @@
       "lon": "9.715"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ne/regions/zinder-ne007/",
+      "api": "https://openadmindata.org/api/ne/"
+    }
   },
   {
     "id": "NE003",
@@ -57,7 +61,11 @@
       "lon": "3.299"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ne/regions/dosso-ne003/",
+      "api": "https://openadmindata.org/api/ne/"
+    }
   },
   {
     "id": "NE006",
@@ -87,7 +95,11 @@
       "lon": "2.041"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ne/regions/tillabri-ne006/",
+      "api": "https://openadmindata.org/api/ne/"
+    }
   },
   {
     "id": "NE005",
@@ -117,7 +129,11 @@
       "lon": "5.341"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ne/regions/tahoua-ne005/",
+      "api": "https://openadmindata.org/api/ne/"
+    }
   },
   {
     "id": "NE001",
@@ -147,7 +163,11 @@
       "lon": "10.707"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ne/regions/agadez-ne001/",
+      "api": "https://openadmindata.org/api/ne/"
+    }
   },
   {
     "id": "NE008",
@@ -177,7 +197,11 @@
       "lon": "2.119"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ne/regions/niamey-ne008/",
+      "api": "https://openadmindata.org/api/ne/"
+    }
   },
   {
     "id": "NE002",
@@ -207,7 +231,11 @@
       "lon": "13.161"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ne/regions/diffa-ne002/",
+      "api": "https://openadmindata.org/api/ne/"
+    }
   },
   {
     "id": "NE004",
@@ -237,6 +265,10 @@
       "lon": "7.475"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ne/regions/maradi-ne004/",
+      "api": "https://openadmindata.org/api/ne/"
+    }
   }
 ]

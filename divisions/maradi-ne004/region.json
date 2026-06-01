@@ -26,5 +26,9 @@
     "lon": "7.475"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ne/regions/maradi-ne004/",
+    "api": "https://openadmindata.org/api/ne/"
+  }
 }

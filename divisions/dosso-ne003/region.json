@@ -26,5 +26,9 @@
     "lon": "3.299"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ne/regions/dosso-ne003/",
+    "api": "https://openadmindata.org/api/ne/"
+  }
 }

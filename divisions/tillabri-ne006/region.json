@@ -26,5 +26,9 @@
     "lon": "2.041"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ne/regions/tillabri-ne006/",
+    "api": "https://openadmindata.org/api/ne/"
+  }
 }
